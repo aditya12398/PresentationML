@@ -3,7 +3,9 @@ package main
 import (
 	"fmt"
 	"github.com/moipa-cn/pptx"
+	"os"
 	"regexp"
+	"strconv"
 	"strings"
 )
 
@@ -24,16 +26,27 @@ func main() {
 		fmt.Printf("Processing slide: %s\n", filename)
 
 		allTags := getAllTags(content, "(?s)<[ap](.*?)>") // This regex matches all tags starting with 'a' or 'p'
+		f1, err1 := os.Create("../data/p_" + filename + ".dat")
+		f2, err2 := os.Create("../data/a_" + filename + ".dat")
+		if err1 != nil || err2 != nil {
+			fmt.Println("Error creating output files:", err1, err2)
+			return
+		}
+		defer f1.Close()
+		defer f2.Close()
+
 		fmt.Printf("Parsing regex pattern (?s)<[ap](.*?)> for slide: %s\n", filename)
 		// fmt.Println("Length of all the tags: ", len(allTags))
 		for i := range allTags {
-			fmt.Println("Tag ", i+1, ": ", allTags[i])
+			// fmt.Println("Tag ", i+1, ": ", allTags[i])
+			f1.WriteString(strconv.Itoa(i+1) + ": " + allTags[i] + "\n")
 		}
 
 		tagsWithFeatures := tagsWFeatures(content, "(?s)<[^<>]*?/>") // This regex matches self-closing tags
 		fmt.Printf("Parsing regex pattern (?s)<[^<>]*?/> for slide: %s\n", filename)
 		for i := range tagsWithFeatures {
-			fmt.Println("Tag with features ", i+1, ": ", tagsWithFeatures[i])
+			// fmt.Println("Tag with features ", i+1, ": ", tagsWithFeatures[i])
+			f2.WriteString(strconv.Itoa(i+1) + ": " + tagsWithFeatures[i] + "\n")
 		}
 	}
 

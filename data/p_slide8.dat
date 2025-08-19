@@ -1,0 +1,5462 @@
+1: <p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+2: <p:cSld>
+3: <p:spTree>
+4: <p:nvGrpSpPr>
+5: <p:cNvPr id="1" name=""/>
+6: <p:cNvGrpSpPr/>
+7: <p:nvPr/>
+8: <p:grpSpPr>
+9: <a:xfrm>
+10: <a:off x="0" y="0"/>
+11: <a:ext cx="0" cy="0"/>
+12: <a:chOff x="0" y="0"/>
+13: <a:chExt cx="0" cy="0"/>
+14: <p:grpSp>
+15: <p:nvGrpSpPr>
+16: <p:cNvPr id="2" name="组合 1"/>
+17: <p:cNvGrpSpPr/>
+18: <p:nvPr/>
+19: <p:grpSpPr bwMode="auto">
+20: <a:xfrm>
+21: <a:off x="4310063" y="2089547"/>
+22: <a:ext cx="1851422" cy="1841897"/>
+23: <a:chOff x="5747317" y="2786507"/>
+24: <a:chExt cx="2467902" cy="2455201"/>
+25: <p:sp>
+26: <p:nvSpPr>
+27: <p:cNvPr id="106" name="空心弧 105"/>
+28: <p:cNvSpPr/>
+29: <p:nvPr/>
+30: <p:spPr>
+31: <a:xfrm rot="3600000" flipH="1">
+32: <a:off x="5753668" y="2786504"/>
+33: <a:ext cx="2455201" cy="2455205"/>
+34: <a:prstGeom prst="blockArc">
+35: <a:avLst>
+36: <a:gd name="adj1" fmla="val 15749000"/>
+37: <a:gd name="adj2" fmla="val 2096915"/>
+38: <a:gd name="adj3" fmla="val 3665"/>
+39: <a:solidFill>
+40: <a:srgbClr val="8DBF67"/>
+41: <a:ln>
+42: <a:noFill/>
+43: <p:style>
+44: <a:lnRef idx="2">
+45: <a:schemeClr val="accent1">
+46: <a:shade val="50000"/>
+47: <a:fillRef idx="1">
+48: <a:schemeClr val="accent1"/>
+49: <a:effectRef idx="0">
+50: <a:schemeClr val="accent1"/>
+51: <a:fontRef idx="minor">
+52: <a:schemeClr val="lt1"/>
+53: <p:txBody>
+54: <a:bodyPr anchor="ctr"/>
+55: <a:lstStyle/>
+56: <a:p>
+57: <a:pPr algn="ctr" defTabSz="685800">
+58: <a:defRPr/>
+59: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+60: <a:solidFill>
+61: <a:prstClr val="black"/>
+62: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+63: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+64: <p:sp>
+65: <p:nvSpPr>
+66: <p:cNvPr id="107" name="空心弧 106"/>
+67: <p:cNvSpPr/>
+68: <p:nvPr/>
+69: <p:spPr>
+70: <a:xfrm rot="3600000" flipH="1">
+71: <a:off x="5760016" y="2786504"/>
+72: <a:ext cx="2455201" cy="2455205"/>
+73: <a:prstGeom prst="blockArc">
+74: <a:avLst>
+75: <a:gd name="adj1" fmla="val 10800000"/>
+76: <a:gd name="adj2" fmla="val 15820524"/>
+77: <a:gd name="adj3" fmla="val 4168"/>
+78: <a:solidFill>
+79: <a:srgbClr val="FD6D5C"/>
+80: <a:ln>
+81: <a:noFill/>
+82: <p:style>
+83: <a:lnRef idx="2">
+84: <a:schemeClr val="accent1">
+85: <a:shade val="50000"/>
+86: <a:fillRef idx="1">
+87: <a:schemeClr val="accent1"/>
+88: <a:effectRef idx="0">
+89: <a:schemeClr val="accent1"/>
+90: <a:fontRef idx="minor">
+91: <a:schemeClr val="lt1"/>
+92: <p:txBody>
+93: <a:bodyPr anchor="ctr"/>
+94: <a:lstStyle/>
+95: <a:p>
+96: <a:pPr algn="ctr" defTabSz="685800">
+97: <a:defRPr/>
+98: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+99: <a:solidFill>
+100: <a:prstClr val="black"/>
+101: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+102: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+103: <p:sp>
+104: <p:nvSpPr>
+105: <p:cNvPr id="108" name="空心弧 107"/>
+106: <p:cNvSpPr/>
+107: <p:nvPr/>
+108: <p:spPr>
+109: <a:xfrm rot="18000000" flipH="1" flipV="1">
+110: <a:off x="5747320" y="2786504"/>
+111: <a:ext cx="2455201" cy="2455205"/>
+112: <a:prstGeom prst="blockArc">
+113: <a:avLst>
+114: <a:gd name="adj1" fmla="val 17965074"/>
+115: <a:gd name="adj2" fmla="val 2096915"/>
+116: <a:gd name="adj3" fmla="val 3665"/>
+117: <a:solidFill>
+118: <a:srgbClr val="BFBFBF"/>
+119: <a:ln>
+120: <a:noFill/>
+121: <p:style>
+122: <a:lnRef idx="2">
+123: <a:schemeClr val="accent1">
+124: <a:shade val="50000"/>
+125: <a:fillRef idx="1">
+126: <a:schemeClr val="accent1"/>
+127: <a:effectRef idx="0">
+128: <a:schemeClr val="accent1"/>
+129: <a:fontRef idx="minor">
+130: <a:schemeClr val="lt1"/>
+131: <p:txBody>
+132: <a:bodyPr anchor="ctr"/>
+133: <a:lstStyle/>
+134: <a:p>
+135: <a:pPr algn="ctr" defTabSz="685800">
+136: <a:defRPr/>
+137: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+138: <a:solidFill>
+139: <a:prstClr val="black"/>
+140: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+141: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+142: <p:grpSp>
+143: <p:nvGrpSpPr>
+144: <p:cNvPr id="3" name="组合 2"/>
+145: <p:cNvGrpSpPr/>
+146: <p:nvPr/>
+147: <p:grpSpPr bwMode="auto">
+148: <a:xfrm>
+149: <a:off x="2945606" y="2089547"/>
+150: <a:ext cx="1852613" cy="1841897"/>
+151: <a:chOff x="3928162" y="2786507"/>
+152: <a:chExt cx="2469601" cy="2455201"/>
+153: <p:sp>
+154: <p:nvSpPr>
+155: <p:cNvPr id="104" name="空心弧 103"/>
+156: <p:cNvSpPr/>
+157: <p:nvPr/>
+158: <p:spPr>
+159: <a:xfrm rot="18000000">
+160: <a:off x="3931395" y="2786448"/>
+161: <a:ext cx="2455201" cy="2455317"/>
+162: <a:prstGeom prst="blockArc">
+163: <a:avLst>
+164: <a:gd name="adj1" fmla="val 15749000"/>
+165: <a:gd name="adj2" fmla="val 1083789"/>
+166: <a:gd name="adj3" fmla="val 4002"/>
+167: <a:solidFill>
+168: <a:srgbClr val="5F81A5"/>
+169: <a:ln>
+170: <a:noFill/>
+171: <p:style>
+172: <a:lnRef idx="2">
+173: <a:schemeClr val="accent1">
+174: <a:shade val="50000"/>
+175: <a:fillRef idx="1">
+176: <a:schemeClr val="accent1"/>
+177: <a:effectRef idx="0">
+178: <a:schemeClr val="accent1"/>
+179: <a:fontRef idx="minor">
+180: <a:schemeClr val="lt1"/>
+181: <p:txBody>
+182: <a:bodyPr anchor="ctr"/>
+183: <a:lstStyle/>
+184: <a:p>
+185: <a:pPr algn="ctr" defTabSz="685800">
+186: <a:defRPr/>
+187: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+188: <a:solidFill>
+189: <a:prstClr val="black"/>
+190: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+191: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+192: <p:sp>
+193: <p:nvSpPr>
+194: <p:cNvPr id="105" name="空心弧 104"/>
+195: <p:cNvSpPr/>
+196: <p:nvPr/>
+197: <p:spPr>
+198: <a:xfrm rot="18000000">
+199: <a:off x="3928221" y="2786448"/>
+200: <a:ext cx="2455201" cy="2455317"/>
+201: <a:prstGeom prst="blockArc">
+202: <a:avLst>
+203: <a:gd name="adj1" fmla="val 10800000"/>
+204: <a:gd name="adj2" fmla="val 15820524"/>
+205: <a:gd name="adj3" fmla="val 4168"/>
+206: <a:solidFill>
+207: <a:srgbClr val="FBC75D"/>
+208: <a:ln>
+209: <a:noFill/>
+210: <p:style>
+211: <a:lnRef idx="2">
+212: <a:schemeClr val="accent1">
+213: <a:shade val="50000"/>
+214: <a:fillRef idx="1">
+215: <a:schemeClr val="accent1"/>
+216: <a:effectRef idx="0">
+217: <a:schemeClr val="accent1"/>
+218: <a:fontRef idx="minor">
+219: <a:schemeClr val="lt1"/>
+220: <p:txBody>
+221: <a:bodyPr anchor="ctr"/>
+222: <a:lstStyle/>
+223: <a:p>
+224: <a:pPr algn="ctr" defTabSz="685800">
+225: <a:defRPr/>
+226: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+227: <a:solidFill>
+228: <a:prstClr val="black"/>
+229: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+230: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+231: <p:sp>
+232: <p:nvSpPr>
+233: <p:cNvPr id="110" name="空心弧 109"/>
+234: <p:cNvSpPr/>
+235: <p:nvPr/>
+236: <p:spPr>
+237: <a:xfrm rot="15990948" flipH="1" flipV="1">
+238: <a:off x="3942504" y="2786449"/>
+239: <a:ext cx="2455201" cy="2455316"/>
+240: <a:prstGeom prst="blockArc">
+241: <a:avLst>
+242: <a:gd name="adj1" fmla="val 18950913"/>
+243: <a:gd name="adj2" fmla="val 2096915"/>
+244: <a:gd name="adj3" fmla="val 3665"/>
+245: <a:solidFill>
+246: <a:srgbClr val="11B5B8"/>
+247: <a:ln>
+248: <a:noFill/>
+249: <p:style>
+250: <a:lnRef idx="2">
+251: <a:schemeClr val="accent1">
+252: <a:shade val="50000"/>
+253: <a:fillRef idx="1">
+254: <a:schemeClr val="accent1"/>
+255: <a:effectRef idx="0">
+256: <a:schemeClr val="accent1"/>
+257: <a:fontRef idx="minor">
+258: <a:schemeClr val="lt1"/>
+259: <p:txBody>
+260: <a:bodyPr anchor="ctr"/>
+261: <a:lstStyle/>
+262: <a:p>
+263: <a:pPr algn="ctr" defTabSz="685800">
+264: <a:defRPr/>
+265: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+266: <a:solidFill>
+267: <a:prstClr val="black"/>
+268: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+269: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+270: <p:grpSp>
+271: <p:nvGrpSpPr>
+272: <p:cNvPr id="4" name="组合 10"/>
+273: <p:cNvGrpSpPr/>
+274: <p:nvPr/>
+275: <p:grpSpPr bwMode="auto">
+276: <a:xfrm>
+277: <a:off x="2255044" y="2689622"/>
+278: <a:ext cx="670322" cy="670322"/>
+279: <a:chOff x="3006681" y="3585649"/>
+280: <a:chExt cx="893782" cy="893782"/>
+281: <p:sp>
+282: <p:nvSpPr>
+283: <p:cNvPr id="94" name="椭圆 93"/>
+284: <p:cNvSpPr/>
+285: <p:nvPr/>
+286: <p:spPr>
+287: <a:xfrm>
+288: <a:off x="3006681" y="3585649"/>
+289: <a:ext cx="893782" cy="893782"/>
+290: <a:prstGeom prst="ellipse">
+291: <a:avLst/>
+292: <a:pattFill prst="wdUpDiag">
+293: <a:fgClr>
+294: <a:srgbClr val="FBC75D"/>
+295: <a:bgClr>
+296: <a:schemeClr val="bg1"/>
+297: <a:ln>
+298: <a:noFill/>
+299: <p:style>
+300: <a:lnRef idx="2">
+301: <a:schemeClr val="accent1">
+302: <a:shade val="50000"/>
+303: <a:fillRef idx="1">
+304: <a:schemeClr val="accent1"/>
+305: <a:effectRef idx="0">
+306: <a:schemeClr val="accent1"/>
+307: <a:fontRef idx="minor">
+308: <a:schemeClr val="lt1"/>
+309: <p:txBody>
+310: <a:bodyPr anchor="ctr"/>
+311: <a:lstStyle/>
+312: <a:p>
+313: <a:pPr algn="ctr" defTabSz="685800">
+314: <a:defRPr/>
+315: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+316: <a:solidFill>
+317: <a:prstClr val="white"/>
+318: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+319: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+320: <p:sp>
+321: <p:nvSpPr>
+322: <p:cNvPr id="61477" name="Freeform 275"/>
+323: <p:cNvSpPr>
+324: <a:spLocks noEditPoints="1"/>
+325: <p:nvPr/>
+326: <p:spPr bwMode="auto">
+327: <a:xfrm>
+328: <a:off x="3078677" y="3661381"/>
+329: <a:ext cx="763200" cy="763200"/>
+330: <a:custGeom>
+331: <a:avLst/>
+332: <a:gdLst>
+333: <a:gd name="T0" fmla="*/ 2147483646 w 288"/>
+334: <a:gd name="T1" fmla="*/ 0 h 288"/>
+335: <a:gd name="T2" fmla="*/ 0 w 288"/>
+336: <a:gd name="T3" fmla="*/ 2147483646 h 288"/>
+337: <a:gd name="T4" fmla="*/ 2147483646 w 288"/>
+338: <a:gd name="T5" fmla="*/ 2147483646 h 288"/>
+339: <a:gd name="T6" fmla="*/ 2147483646 w 288"/>
+340: <a:gd name="T7" fmla="*/ 2147483646 h 288"/>
+341: <a:gd name="T8" fmla="*/ 2147483646 w 288"/>
+342: <a:gd name="T9" fmla="*/ 0 h 288"/>
+343: <a:gd name="T10" fmla="*/ 2147483646 w 288"/>
+344: <a:gd name="T11" fmla="*/ 2147483646 h 288"/>
+345: <a:gd name="T12" fmla="*/ 2147483646 w 288"/>
+346: <a:gd name="T13" fmla="*/ 2147483646 h 288"/>
+347: <a:gd name="T14" fmla="*/ 2147483646 w 288"/>
+348: <a:gd name="T15" fmla="*/ 2147483646 h 288"/>
+349: <a:gd name="T16" fmla="*/ 2147483646 w 288"/>
+350: <a:gd name="T17" fmla="*/ 2147483646 h 288"/>
+351: <a:gd name="T18" fmla="*/ 2147483646 w 288"/>
+352: <a:gd name="T19" fmla="*/ 2147483646 h 288"/>
+353: <a:gd name="T20" fmla="*/ 2147483646 w 288"/>
+354: <a:gd name="T21" fmla="*/ 2147483646 h 288"/>
+355: <a:gd name="T22" fmla="*/ 2147483646 w 288"/>
+356: <a:gd name="T23" fmla="*/ 2147483646 h 288"/>
+357: <a:gd name="T24" fmla="*/ 2147483646 w 288"/>
+358: <a:gd name="T25" fmla="*/ 2147483646 h 288"/>
+359: <a:gd name="T26" fmla="*/ 2147483646 w 288"/>
+360: <a:gd name="T27" fmla="*/ 2147483646 h 288"/>
+361: <a:gd name="T28" fmla="*/ 2147483646 w 288"/>
+362: <a:gd name="T29" fmla="*/ 2147483646 h 288"/>
+363: <a:gd name="T30" fmla="*/ 2147483646 w 288"/>
+364: <a:gd name="T31" fmla="*/ 2147483646 h 288"/>
+365: <a:gd name="T32" fmla="*/ 2147483646 w 288"/>
+366: <a:gd name="T33" fmla="*/ 2147483646 h 288"/>
+367: <a:gd name="T34" fmla="*/ 2147483646 w 288"/>
+368: <a:gd name="T35" fmla="*/ 2147483646 h 288"/>
+369: <a:gd name="T36" fmla="*/ 2147483646 w 288"/>
+370: <a:gd name="T37" fmla="*/ 2147483646 h 288"/>
+371: <a:gd name="T38" fmla="*/ 2147483646 w 288"/>
+372: <a:gd name="T39" fmla="*/ 2147483646 h 288"/>
+373: <a:gd name="T40" fmla="*/ 2147483646 w 288"/>
+374: <a:gd name="T41" fmla="*/ 2147483646 h 288"/>
+375: <a:gd name="T42" fmla="*/ 2147483646 w 288"/>
+376: <a:gd name="T43" fmla="*/ 2147483646 h 288"/>
+377: <a:gd name="T44" fmla="*/ 2147483646 w 288"/>
+378: <a:gd name="T45" fmla="*/ 2147483646 h 288"/>
+379: <a:gd name="T46" fmla="*/ 2147483646 w 288"/>
+380: <a:gd name="T47" fmla="*/ 2147483646 h 288"/>
+381: <a:gd name="T48" fmla="*/ 2147483646 w 288"/>
+382: <a:gd name="T49" fmla="*/ 2147483646 h 288"/>
+383: <a:gd name="T50" fmla="*/ 2147483646 w 288"/>
+384: <a:gd name="T51" fmla="*/ 2147483646 h 288"/>
+385: <a:gd name="T52" fmla="*/ 2147483646 w 288"/>
+386: <a:gd name="T53" fmla="*/ 2147483646 h 288"/>
+387: <a:gd name="T54" fmla="*/ 2147483646 w 288"/>
+388: <a:gd name="T55" fmla="*/ 2147483646 h 288"/>
+389: <a:gd name="T56" fmla="*/ 2147483646 w 288"/>
+390: <a:gd name="T57" fmla="*/ 2147483646 h 288"/>
+391: <a:gd name="T58" fmla="*/ 2147483646 w 288"/>
+392: <a:gd name="T59" fmla="*/ 2147483646 h 288"/>
+393: <a:gd name="T60" fmla="*/ 2147483646 w 288"/>
+394: <a:gd name="T61" fmla="*/ 2147483646 h 288"/>
+395: <a:gd name="T62" fmla="*/ 2147483646 w 288"/>
+396: <a:gd name="T63" fmla="*/ 2147483646 h 288"/>
+397: <a:gd name="T64" fmla="*/ 2147483646 w 288"/>
+398: <a:gd name="T65" fmla="*/ 2147483646 h 288"/>
+399: <a:gd name="T66" fmla="*/ 2147483646 w 288"/>
+400: <a:gd name="T67" fmla="*/ 2147483646 h 288"/>
+401: <a:gd name="T68" fmla="*/ 2147483646 w 288"/>
+402: <a:gd name="T69" fmla="*/ 2147483646 h 288"/>
+403: <a:gd name="T70" fmla="*/ 2147483646 w 288"/>
+404: <a:gd name="T71" fmla="*/ 2147483646 h 288"/>
+405: <a:gd name="T72" fmla="*/ 2147483646 w 288"/>
+406: <a:gd name="T73" fmla="*/ 2147483646 h 288"/>
+407: <a:gd name="T74" fmla="*/ 2147483646 w 288"/>
+408: <a:gd name="T75" fmla="*/ 2147483646 h 288"/>
+409: <a:gd name="T76" fmla="*/ 2147483646 w 288"/>
+410: <a:gd name="T77" fmla="*/ 2147483646 h 288"/>
+411: <a:gd name="T78" fmla="*/ 2147483646 w 288"/>
+412: <a:gd name="T79" fmla="*/ 2147483646 h 288"/>
+413: <a:gd name="T80" fmla="*/ 2147483646 w 288"/>
+414: <a:gd name="T81" fmla="*/ 2147483646 h 288"/>
+415: <a:gd name="T82" fmla="*/ 2147483646 w 288"/>
+416: <a:gd name="T83" fmla="*/ 2147483646 h 288"/>
+417: <a:gd name="T84" fmla="*/ 2147483646 w 288"/>
+418: <a:gd name="T85" fmla="*/ 2147483646 h 288"/>
+419: <a:gd name="T86" fmla="*/ 2147483646 w 288"/>
+420: <a:gd name="T87" fmla="*/ 2147483646 h 288"/>
+421: <a:gd name="T88" fmla="*/ 2147483646 w 288"/>
+422: <a:gd name="T89" fmla="*/ 2147483646 h 288"/>
+423: <a:gd name="T90" fmla="*/ 2147483646 w 288"/>
+424: <a:gd name="T91" fmla="*/ 2147483646 h 288"/>
+425: <a:gd name="T92" fmla="*/ 2147483646 w 288"/>
+426: <a:gd name="T93" fmla="*/ 2147483646 h 288"/>
+427: <a:gd name="T94" fmla="*/ 2147483646 w 288"/>
+428: <a:gd name="T95" fmla="*/ 2147483646 h 288"/>
+429: <a:gd name="T96" fmla="*/ 2147483646 w 288"/>
+430: <a:gd name="T97" fmla="*/ 2147483646 h 288"/>
+431: <a:gd name="T98" fmla="*/ 0 60000 65536"/>
+432: <a:gd name="T99" fmla="*/ 0 60000 65536"/>
+433: <a:gd name="T100" fmla="*/ 0 60000 65536"/>
+434: <a:gd name="T101" fmla="*/ 0 60000 65536"/>
+435: <a:gd name="T102" fmla="*/ 0 60000 65536"/>
+436: <a:gd name="T103" fmla="*/ 0 60000 65536"/>
+437: <a:gd name="T104" fmla="*/ 0 60000 65536"/>
+438: <a:gd name="T105" fmla="*/ 0 60000 65536"/>
+439: <a:gd name="T106" fmla="*/ 0 60000 65536"/>
+440: <a:gd name="T107" fmla="*/ 0 60000 65536"/>
+441: <a:gd name="T108" fmla="*/ 0 60000 65536"/>
+442: <a:gd name="T109" fmla="*/ 0 60000 65536"/>
+443: <a:gd name="T110" fmla="*/ 0 60000 65536"/>
+444: <a:gd name="T111" fmla="*/ 0 60000 65536"/>
+445: <a:gd name="T112" fmla="*/ 0 60000 65536"/>
+446: <a:gd name="T113" fmla="*/ 0 60000 65536"/>
+447: <a:gd name="T114" fmla="*/ 0 60000 65536"/>
+448: <a:gd name="T115" fmla="*/ 0 60000 65536"/>
+449: <a:gd name="T116" fmla="*/ 0 60000 65536"/>
+450: <a:gd name="T117" fmla="*/ 0 60000 65536"/>
+451: <a:gd name="T118" fmla="*/ 0 60000 65536"/>
+452: <a:gd name="T119" fmla="*/ 0 60000 65536"/>
+453: <a:gd name="T120" fmla="*/ 0 60000 65536"/>
+454: <a:gd name="T121" fmla="*/ 0 60000 65536"/>
+455: <a:gd name="T122" fmla="*/ 0 60000 65536"/>
+456: <a:gd name="T123" fmla="*/ 0 60000 65536"/>
+457: <a:gd name="T124" fmla="*/ 0 60000 65536"/>
+458: <a:gd name="T125" fmla="*/ 0 60000 65536"/>
+459: <a:gd name="T126" fmla="*/ 0 60000 65536"/>
+460: <a:gd name="T127" fmla="*/ 0 60000 65536"/>
+461: <a:gd name="T128" fmla="*/ 0 60000 65536"/>
+462: <a:gd name="T129" fmla="*/ 0 60000 65536"/>
+463: <a:gd name="T130" fmla="*/ 0 60000 65536"/>
+464: <a:gd name="T131" fmla="*/ 0 60000 65536"/>
+465: <a:gd name="T132" fmla="*/ 0 60000 65536"/>
+466: <a:gd name="T133" fmla="*/ 0 60000 65536"/>
+467: <a:gd name="T134" fmla="*/ 0 60000 65536"/>
+468: <a:gd name="T135" fmla="*/ 0 60000 65536"/>
+469: <a:gd name="T136" fmla="*/ 0 60000 65536"/>
+470: <a:gd name="T137" fmla="*/ 0 60000 65536"/>
+471: <a:gd name="T138" fmla="*/ 0 60000 65536"/>
+472: <a:gd name="T139" fmla="*/ 0 60000 65536"/>
+473: <a:gd name="T140" fmla="*/ 0 60000 65536"/>
+474: <a:gd name="T141" fmla="*/ 0 60000 65536"/>
+475: <a:gd name="T142" fmla="*/ 0 60000 65536"/>
+476: <a:gd name="T143" fmla="*/ 0 60000 65536"/>
+477: <a:gd name="T144" fmla="*/ 0 60000 65536"/>
+478: <a:gd name="T145" fmla="*/ 0 60000 65536"/>
+479: <a:gd name="T146" fmla="*/ 0 60000 65536"/>
+480: <a:gd name="T147" fmla="*/ 0 w 288"/>
+481: <a:gd name="T148" fmla="*/ 0 h 288"/>
+482: <a:gd name="T149" fmla="*/ 288 w 288"/>
+483: <a:gd name="T150" fmla="*/ 288 h 288"/>
+484: <a:ahLst/>
+485: <a:cxnLst>
+486: <a:cxn ang="T98">
+487: <a:pos x="T0" y="T1"/>
+488: <a:cxn ang="T99">
+489: <a:pos x="T2" y="T3"/>
+490: <a:cxn ang="T100">
+491: <a:pos x="T4" y="T5"/>
+492: <a:cxn ang="T101">
+493: <a:pos x="T6" y="T7"/>
+494: <a:cxn ang="T102">
+495: <a:pos x="T8" y="T9"/>
+496: <a:cxn ang="T103">
+497: <a:pos x="T10" y="T11"/>
+498: <a:cxn ang="T104">
+499: <a:pos x="T12" y="T13"/>
+500: <a:cxn ang="T105">
+501: <a:pos x="T14" y="T15"/>
+502: <a:cxn ang="T106">
+503: <a:pos x="T16" y="T17"/>
+504: <a:cxn ang="T107">
+505: <a:pos x="T18" y="T19"/>
+506: <a:cxn ang="T108">
+507: <a:pos x="T20" y="T21"/>
+508: <a:cxn ang="T109">
+509: <a:pos x="T22" y="T23"/>
+510: <a:cxn ang="T110">
+511: <a:pos x="T24" y="T25"/>
+512: <a:cxn ang="T111">
+513: <a:pos x="T26" y="T27"/>
+514: <a:cxn ang="T112">
+515: <a:pos x="T28" y="T29"/>
+516: <a:cxn ang="T113">
+517: <a:pos x="T30" y="T31"/>
+518: <a:cxn ang="T114">
+519: <a:pos x="T32" y="T33"/>
+520: <a:cxn ang="T115">
+521: <a:pos x="T34" y="T35"/>
+522: <a:cxn ang="T116">
+523: <a:pos x="T36" y="T37"/>
+524: <a:cxn ang="T117">
+525: <a:pos x="T38" y="T39"/>
+526: <a:cxn ang="T118">
+527: <a:pos x="T40" y="T41"/>
+528: <a:cxn ang="T119">
+529: <a:pos x="T42" y="T43"/>
+530: <a:cxn ang="T120">
+531: <a:pos x="T44" y="T45"/>
+532: <a:cxn ang="T121">
+533: <a:pos x="T46" y="T47"/>
+534: <a:cxn ang="T122">
+535: <a:pos x="T48" y="T49"/>
+536: <a:cxn ang="T123">
+537: <a:pos x="T50" y="T51"/>
+538: <a:cxn ang="T124">
+539: <a:pos x="T52" y="T53"/>
+540: <a:cxn ang="T125">
+541: <a:pos x="T54" y="T55"/>
+542: <a:cxn ang="T126">
+543: <a:pos x="T56" y="T57"/>
+544: <a:cxn ang="T127">
+545: <a:pos x="T58" y="T59"/>
+546: <a:cxn ang="T128">
+547: <a:pos x="T60" y="T61"/>
+548: <a:cxn ang="T129">
+549: <a:pos x="T62" y="T63"/>
+550: <a:cxn ang="T130">
+551: <a:pos x="T64" y="T65"/>
+552: <a:cxn ang="T131">
+553: <a:pos x="T66" y="T67"/>
+554: <a:cxn ang="T132">
+555: <a:pos x="T68" y="T69"/>
+556: <a:cxn ang="T133">
+557: <a:pos x="T70" y="T71"/>
+558: <a:cxn ang="T134">
+559: <a:pos x="T72" y="T73"/>
+560: <a:cxn ang="T135">
+561: <a:pos x="T74" y="T75"/>
+562: <a:cxn ang="T136">
+563: <a:pos x="T76" y="T77"/>
+564: <a:cxn ang="T137">
+565: <a:pos x="T78" y="T79"/>
+566: <a:cxn ang="T138">
+567: <a:pos x="T80" y="T81"/>
+568: <a:cxn ang="T139">
+569: <a:pos x="T82" y="T83"/>
+570: <a:cxn ang="T140">
+571: <a:pos x="T84" y="T85"/>
+572: <a:cxn ang="T141">
+573: <a:pos x="T86" y="T87"/>
+574: <a:cxn ang="T142">
+575: <a:pos x="T88" y="T89"/>
+576: <a:cxn ang="T143">
+577: <a:pos x="T90" y="T91"/>
+578: <a:cxn ang="T144">
+579: <a:pos x="T92" y="T93"/>
+580: <a:cxn ang="T145">
+581: <a:pos x="T94" y="T95"/>
+582: <a:cxn ang="T146">
+583: <a:pos x="T96" y="T97"/>
+584: <a:rect l="T147" t="T148" r="T149" b="T150"/>
+585: <a:pathLst>
+586: <a:path w="288" h="288">
+587: <a:moveTo>
+588: <a:pt x="144" y="0"/>
+589: <a:cubicBezTo>
+590: <a:pt x="65" y="0"/>
+591: <a:pt x="0" y="64"/>
+592: <a:pt x="0" y="144"/>
+593: <a:cubicBezTo>
+594: <a:pt x="0" y="223"/>
+595: <a:pt x="65" y="288"/>
+596: <a:pt x="144" y="288"/>
+597: <a:cubicBezTo>
+598: <a:pt x="224" y="288"/>
+599: <a:pt x="288" y="223"/>
+600: <a:pt x="288" y="144"/>
+601: <a:cubicBezTo>
+602: <a:pt x="288" y="64"/>
+603: <a:pt x="224" y="0"/>
+604: <a:pt x="144" y="0"/>
+605: <a:close/>
+606: <a:moveTo>
+607: <a:pt x="233" y="131"/>
+608: <a:cubicBezTo>
+609: <a:pt x="232" y="133"/>
+610: <a:pt x="231" y="134"/>
+611: <a:pt x="230" y="134"/>
+612: <a:cubicBezTo>
+613: <a:pt x="189" y="161"/>
+614: <a:pt x="189" y="161"/>
+615: <a:pt x="189" y="161"/>
+616: <a:cubicBezTo>
+617: <a:pt x="188" y="161"/>
+618: <a:pt x="187" y="164"/>
+619: <a:pt x="187" y="165"/>
+620: <a:cubicBezTo>
+621: <a:pt x="187" y="165"/>
+622: <a:pt x="187" y="166"/>
+623: <a:pt x="188" y="166"/>
+624: <a:cubicBezTo>
+625: <a:pt x="205" y="218"/>
+626: <a:pt x="205" y="218"/>
+627: <a:pt x="205" y="218"/>
+628: <a:cubicBezTo>
+629: <a:pt x="206" y="220"/>
+630: <a:pt x="206" y="221"/>
+631: <a:pt x="206" y="223"/>
+632: <a:cubicBezTo>
+633: <a:pt x="206" y="225"/>
+634: <a:pt x="206" y="227"/>
+635: <a:pt x="205" y="229"/>
+636: <a:cubicBezTo>
+637: <a:pt x="203" y="231"/>
+638: <a:pt x="200" y="232"/>
+639: <a:pt x="198" y="232"/>
+640: <a:cubicBezTo>
+641: <a:pt x="198" y="232"/>
+642: <a:pt x="198" y="232"/>
+643: <a:pt x="198" y="232"/>
+644: <a:cubicBezTo>
+645: <a:pt x="194" y="232"/>
+646: <a:pt x="192" y="230"/>
+647: <a:pt x="190" y="229"/>
+648: <a:cubicBezTo>
+649: <a:pt x="148" y="195"/>
+650: <a:pt x="148" y="195"/>
+651: <a:pt x="148" y="195"/>
+652: <a:cubicBezTo>
+653: <a:pt x="148" y="194"/>
+654: <a:pt x="147" y="194"/>
+655: <a:pt x="146" y="194"/>
+656: <a:cubicBezTo>
+657: <a:pt x="145" y="194"/>
+658: <a:pt x="144" y="194"/>
+659: <a:pt x="144" y="195"/>
+660: <a:cubicBezTo>
+661: <a:pt x="104" y="229"/>
+662: <a:pt x="104" y="229"/>
+663: <a:pt x="104" y="229"/>
+664: <a:cubicBezTo>
+665: <a:pt x="102" y="230"/>
+666: <a:pt x="100" y="232"/>
+667: <a:pt x="96" y="232"/>
+668: <a:cubicBezTo>
+669: <a:pt x="94" y="232"/>
+670: <a:pt x="91" y="231"/>
+671: <a:pt x="89" y="229"/>
+672: <a:cubicBezTo>
+673: <a:pt x="88" y="226"/>
+674: <a:pt x="87" y="224"/>
+675: <a:pt x="87" y="223"/>
+676: <a:cubicBezTo>
+677: <a:pt x="87" y="221"/>
+678: <a:pt x="88" y="220"/>
+679: <a:pt x="88" y="218"/>
+680: <a:cubicBezTo>
+681: <a:pt x="104" y="166"/>
+682: <a:pt x="104" y="166"/>
+683: <a:pt x="104" y="166"/>
+684: <a:cubicBezTo>
+685: <a:pt x="104" y="166"/>
+686: <a:pt x="104" y="166"/>
+687: <a:pt x="104" y="165"/>
+688: <a:cubicBezTo>
+689: <a:pt x="104" y="164"/>
+690: <a:pt x="103" y="162"/>
+691: <a:pt x="102" y="161"/>
+692: <a:cubicBezTo>
+693: <a:pt x="61" y="134"/>
+694: <a:pt x="61" y="134"/>
+695: <a:pt x="61" y="134"/>
+696: <a:cubicBezTo>
+697: <a:pt x="60" y="134"/>
+698: <a:pt x="59" y="133"/>
+699: <a:pt x="58" y="131"/>
+700: <a:cubicBezTo>
+701: <a:pt x="57" y="130"/>
+702: <a:pt x="56" y="128"/>
+703: <a:pt x="56" y="125"/>
+704: <a:cubicBezTo>
+705: <a:pt x="56" y="123"/>
+706: <a:pt x="56" y="121"/>
+707: <a:pt x="57" y="120"/>
+708: <a:cubicBezTo>
+709: <a:pt x="59" y="119"/>
+710: <a:pt x="60" y="118"/>
+711: <a:pt x="61" y="117"/>
+712: <a:cubicBezTo>
+713: <a:pt x="63" y="116"/>
+714: <a:pt x="65" y="116"/>
+715: <a:pt x="67" y="116"/>
+716: <a:cubicBezTo>
+717: <a:pt x="118" y="116"/>
+718: <a:pt x="118" y="116"/>
+719: <a:pt x="118" y="116"/>
+720: <a:cubicBezTo>
+721: <a:pt x="118" y="116"/>
+722: <a:pt x="119" y="116"/>
+723: <a:pt x="120" y="115"/>
+724: <a:cubicBezTo>
+725: <a:pt x="121" y="115"/>
+726: <a:pt x="121" y="114"/>
+727: <a:pt x="122" y="113"/>
+728: <a:cubicBezTo>
+729: <a:pt x="136" y="61"/>
+730: <a:pt x="136" y="61"/>
+731: <a:pt x="136" y="61"/>
+732: <a:cubicBezTo>
+733: <a:pt x="137" y="59"/>
+734: <a:pt x="137" y="57"/>
+735: <a:pt x="138" y="56"/>
+736: <a:cubicBezTo>
+737: <a:pt x="139" y="54"/>
+738: <a:pt x="142" y="52"/>
+739: <a:pt x="146" y="52"/>
+740: <a:cubicBezTo>
+741: <a:pt x="150" y="52"/>
+742: <a:pt x="152" y="54"/>
+743: <a:pt x="153" y="56"/>
+744: <a:cubicBezTo>
+745: <a:pt x="154" y="57"/>
+746: <a:pt x="154" y="59"/>
+747: <a:pt x="155" y="61"/>
+748: <a:cubicBezTo>
+749: <a:pt x="170" y="113"/>
+750: <a:pt x="170" y="113"/>
+751: <a:pt x="170" y="113"/>
+752: <a:cubicBezTo>
+753: <a:pt x="170" y="114"/>
+754: <a:pt x="170" y="115"/>
+755: <a:pt x="171" y="115"/>
+756: <a:cubicBezTo>
+757: <a:pt x="172" y="116"/>
+758: <a:pt x="173" y="116"/>
+759: <a:pt x="174" y="116"/>
+760: <a:cubicBezTo>
+761: <a:pt x="224" y="116"/>
+762: <a:pt x="224" y="116"/>
+763: <a:pt x="224" y="116"/>
+764: <a:cubicBezTo>
+765: <a:pt x="226" y="116"/>
+766: <a:pt x="227" y="116"/>
+767: <a:pt x="229" y="117"/>
+768: <a:cubicBezTo>
+769: <a:pt x="230" y="117"/>
+770: <a:pt x="232" y="118"/>
+771: <a:pt x="234" y="120"/>
+772: <a:cubicBezTo>
+773: <a:pt x="235" y="121"/>
+774: <a:pt x="236" y="123"/>
+775: <a:pt x="236" y="125"/>
+776: <a:cubicBezTo>
+777: <a:pt x="236" y="128"/>
+778: <a:pt x="234" y="130"/>
+779: <a:pt x="233" y="131"/>
+780: <a:close/>
+781: <a:solidFill>
+782: <a:srgbClr val="FBC75D"/>
+783: <a:ln>
+784: <a:noFill/>
+785: <a:extLst>
+786: <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+787: <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="9525">
+788: <a:solidFill>
+789: <a:srgbClr val="000000"/>
+790: <a:round/>
+791: <p:txBody>
+792: <a:bodyPr/>
+793: <a:lstStyle/>
+794: <a:p>
+795: <a:pPr defTabSz="685800" eaLnBrk="0" fontAlgn="base" hangingPunct="0">
+796: <a:spcBef>
+797: <a:spcPct val="0"/>
+798: <a:spcAft>
+799: <a:spcPct val="0"/>
+800: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+801: <a:solidFill>
+802: <a:prstClr val="black"/>
+803: <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+804: <a:ea typeface="宋体" panose="02010600030101010101" pitchFamily="2" charset="-122"/>
+805: <p:grpSp>
+806: <p:nvGrpSpPr>
+807: <p:cNvPr id="5" name="组合 11"/>
+808: <p:cNvGrpSpPr/>
+809: <p:nvPr/>
+810: <p:grpSpPr bwMode="auto">
+811: <a:xfrm>
+812: <a:off x="2512219" y="1665685"/>
+813: <a:ext cx="670322" cy="670322"/>
+814: <a:chOff x="3350323" y="2220987"/>
+815: <a:chExt cx="893782" cy="893782"/>
+816: <p:sp>
+817: <p:nvSpPr>
+818: <p:cNvPr id="88" name="椭圆 87"/>
+819: <p:cNvSpPr/>
+820: <p:nvPr/>
+821: <p:spPr>
+822: <a:xfrm>
+823: <a:off x="3350323" y="2220987"/>
+824: <a:ext cx="893782" cy="893782"/>
+825: <a:prstGeom prst="ellipse">
+826: <a:avLst/>
+827: <a:pattFill prst="wdUpDiag">
+828: <a:fgClr>
+829: <a:srgbClr val="6080A6"/>
+830: <a:bgClr>
+831: <a:schemeClr val="bg1"/>
+832: <a:ln>
+833: <a:noFill/>
+834: <p:style>
+835: <a:lnRef idx="2">
+836: <a:schemeClr val="accent1">
+837: <a:shade val="50000"/>
+838: <a:fillRef idx="1">
+839: <a:schemeClr val="accent1"/>
+840: <a:effectRef idx="0">
+841: <a:schemeClr val="accent1"/>
+842: <a:fontRef idx="minor">
+843: <a:schemeClr val="lt1"/>
+844: <p:txBody>
+845: <a:bodyPr anchor="ctr"/>
+846: <a:lstStyle/>
+847: <a:p>
+848: <a:pPr algn="ctr" defTabSz="685800">
+849: <a:defRPr/>
+850: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+851: <a:solidFill>
+852: <a:prstClr val="white"/>
+853: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+854: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+855: <p:grpSp>
+856: <p:nvGrpSpPr>
+857: <p:cNvPr id="6" name="组合 78"/>
+858: <p:cNvGrpSpPr/>
+859: <p:nvPr/>
+860: <p:grpSpPr>
+861: <a:xfrm>
+862: <a:off x="3409023" y="2290896"/>
+863: <a:ext cx="763200" cy="763200"/>
+864: <a:chOff x="6537326" y="1397001"/>
+865: <a:chExt cx="176213" cy="176213"/>
+866: <a:solidFill>
+867: <a:srgbClr val="5F81A5"/>
+868: <p:sp>
+869: <p:nvSpPr>
+870: <p:cNvPr id="80" name="Oval 508"/>
+871: <p:cNvSpPr>
+872: <a:spLocks noChangeArrowheads="1"/>
+873: <p:nvPr/>
+874: <p:spPr bwMode="auto">
+875: <a:xfrm>
+876: <a:off x="6592888" y="1452563"/>
+877: <a:ext cx="42863" cy="42863"/>
+878: <a:prstGeom prst="ellipse">
+879: <a:avLst/>
+880: <a:grpFill/>
+881: <a:ln>
+882: <a:noFill/>
+883: <p:txBody>
+884: <a:bodyPr/>
+885: <a:lstStyle/>
+886: <a:p>
+887: <a:pPr defTabSz="685800">
+888: <a:defRPr/>
+889: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+890: <a:solidFill>
+891: <a:prstClr val="black"/>
+892: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+893: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+894: <p:sp>
+895: <p:nvSpPr>
+896: <p:cNvPr id="81" name="Freeform 509"/>
+897: <p:cNvSpPr>
+898: <a:spLocks noEditPoints="1"/>
+899: <p:nvPr/>
+900: <p:spPr bwMode="auto">
+901: <a:xfrm>
+902: <a:off x="6537326" y="1397001"/>
+903: <a:ext cx="176213" cy="176213"/>
+904: <a:custGeom>
+905: <a:avLst/>
+906: <a:gdLst>
+907: <a:gd name="T0" fmla="*/ 144 w 288"/>
+908: <a:gd name="T1" fmla="*/ 0 h 288"/>
+909: <a:gd name="T2" fmla="*/ 0 w 288"/>
+910: <a:gd name="T3" fmla="*/ 144 h 288"/>
+911: <a:gd name="T4" fmla="*/ 144 w 288"/>
+912: <a:gd name="T5" fmla="*/ 288 h 288"/>
+913: <a:gd name="T6" fmla="*/ 288 w 288"/>
+914: <a:gd name="T7" fmla="*/ 144 h 288"/>
+915: <a:gd name="T8" fmla="*/ 144 w 288"/>
+916: <a:gd name="T9" fmla="*/ 0 h 288"/>
+917: <a:gd name="T10" fmla="*/ 220 w 288"/>
+918: <a:gd name="T11" fmla="*/ 220 h 288"/>
+919: <a:gd name="T12" fmla="*/ 211 w 288"/>
+920: <a:gd name="T13" fmla="*/ 224 h 288"/>
+921: <a:gd name="T14" fmla="*/ 211 w 288"/>
+922: <a:gd name="T15" fmla="*/ 224 h 288"/>
+923: <a:gd name="T16" fmla="*/ 200 w 288"/>
+924: <a:gd name="T17" fmla="*/ 220 h 288"/>
+925: <a:gd name="T18" fmla="*/ 157 w 288"/>
+926: <a:gd name="T19" fmla="*/ 177 h 288"/>
+927: <a:gd name="T20" fmla="*/ 124 w 288"/>
+928: <a:gd name="T21" fmla="*/ 186 h 288"/>
+929: <a:gd name="T22" fmla="*/ 63 w 288"/>
+930: <a:gd name="T23" fmla="*/ 125 h 288"/>
+931: <a:gd name="T24" fmla="*/ 124 w 288"/>
+932: <a:gd name="T25" fmla="*/ 63 h 288"/>
+933: <a:gd name="T26" fmla="*/ 186 w 288"/>
+934: <a:gd name="T27" fmla="*/ 125 h 288"/>
+935: <a:gd name="T28" fmla="*/ 176 w 288"/>
+936: <a:gd name="T29" fmla="*/ 157 h 288"/>
+937: <a:gd name="T30" fmla="*/ 219 w 288"/>
+938: <a:gd name="T31" fmla="*/ 200 h 288"/>
+939: <a:gd name="T32" fmla="*/ 224 w 288"/>
+940: <a:gd name="T33" fmla="*/ 211 h 288"/>
+941: <a:gd name="T34" fmla="*/ 220 w 288"/>
+942: <a:gd name="T35" fmla="*/ 220 h 288"/>
+943: <a:ahLst/>
+944: <a:cxnLst>
+945: <a:cxn ang="0">
+946: <a:pos x="T0" y="T1"/>
+947: <a:cxn ang="0">
+948: <a:pos x="T2" y="T3"/>
+949: <a:cxn ang="0">
+950: <a:pos x="T4" y="T5"/>
+951: <a:cxn ang="0">
+952: <a:pos x="T6" y="T7"/>
+953: <a:cxn ang="0">
+954: <a:pos x="T8" y="T9"/>
+955: <a:cxn ang="0">
+956: <a:pos x="T10" y="T11"/>
+957: <a:cxn ang="0">
+958: <a:pos x="T12" y="T13"/>
+959: <a:cxn ang="0">
+960: <a:pos x="T14" y="T15"/>
+961: <a:cxn ang="0">
+962: <a:pos x="T16" y="T17"/>
+963: <a:cxn ang="0">
+964: <a:pos x="T18" y="T19"/>
+965: <a:cxn ang="0">
+966: <a:pos x="T20" y="T21"/>
+967: <a:cxn ang="0">
+968: <a:pos x="T22" y="T23"/>
+969: <a:cxn ang="0">
+970: <a:pos x="T24" y="T25"/>
+971: <a:cxn ang="0">
+972: <a:pos x="T26" y="T27"/>
+973: <a:cxn ang="0">
+974: <a:pos x="T28" y="T29"/>
+975: <a:cxn ang="0">
+976: <a:pos x="T30" y="T31"/>
+977: <a:cxn ang="0">
+978: <a:pos x="T32" y="T33"/>
+979: <a:cxn ang="0">
+980: <a:pos x="T34" y="T35"/>
+981: <a:rect l="0" t="0" r="r" b="b"/>
+982: <a:pathLst>
+983: <a:path w="288" h="288">
+984: <a:moveTo>
+985: <a:pt x="144" y="0"/>
+986: <a:cubicBezTo>
+987: <a:pt x="64" y="0"/>
+988: <a:pt x="0" y="65"/>
+989: <a:pt x="0" y="144"/>
+990: <a:cubicBezTo>
+991: <a:pt x="0" y="224"/>
+992: <a:pt x="64" y="288"/>
+993: <a:pt x="144" y="288"/>
+994: <a:cubicBezTo>
+995: <a:pt x="224" y="288"/>
+996: <a:pt x="288" y="224"/>
+997: <a:pt x="288" y="144"/>
+998: <a:cubicBezTo>
+999: <a:pt x="288" y="65"/>
+1000: <a:pt x="224" y="0"/>
+1001: <a:pt x="144" y="0"/>
+1002: <a:close/>
+1003: <a:moveTo>
+1004: <a:pt x="220" y="220"/>
+1005: <a:cubicBezTo>
+1006: <a:pt x="218" y="223"/>
+1007: <a:pt x="214" y="224"/>
+1008: <a:pt x="211" y="224"/>
+1009: <a:cubicBezTo>
+1010: <a:pt x="211" y="224"/>
+1011: <a:pt x="211" y="224"/>
+1012: <a:pt x="211" y="224"/>
+1013: <a:cubicBezTo>
+1014: <a:pt x="207" y="224"/>
+1015: <a:pt x="203" y="222"/>
+1016: <a:pt x="200" y="220"/>
+1017: <a:cubicBezTo>
+1018: <a:pt x="157" y="177"/>
+1019: <a:pt x="157" y="177"/>
+1020: <a:pt x="157" y="177"/>
+1021: <a:cubicBezTo>
+1022: <a:pt x="148" y="182"/>
+1023: <a:pt x="136" y="186"/>
+1024: <a:pt x="124" y="186"/>
+1025: <a:cubicBezTo>
+1026: <a:pt x="91" y="186"/>
+1027: <a:pt x="63" y="159"/>
+1028: <a:pt x="63" y="125"/>
+1029: <a:cubicBezTo>
+1030: <a:pt x="63" y="91"/>
+1031: <a:pt x="91" y="63"/>
+1032: <a:pt x="124" y="63"/>
+1033: <a:cubicBezTo>
+1034: <a:pt x="158" y="63"/>
+1035: <a:pt x="186" y="91"/>
+1036: <a:pt x="186" y="125"/>
+1037: <a:cubicBezTo>
+1038: <a:pt x="186" y="137"/>
+1039: <a:pt x="182" y="148"/>
+1040: <a:pt x="176" y="157"/>
+1041: <a:cubicBezTo>
+1042: <a:pt x="219" y="200"/>
+1043: <a:pt x="219" y="200"/>
+1044: <a:pt x="219" y="200"/>
+1045: <a:cubicBezTo>
+1046: <a:pt x="222" y="203"/>
+1047: <a:pt x="224" y="207"/>
+1048: <a:pt x="224" y="211"/>
+1049: <a:cubicBezTo>
+1050: <a:pt x="224" y="214"/>
+1051: <a:pt x="223" y="218"/>
+1052: <a:pt x="220" y="220"/>
+1053: <a:close/>
+1054: <a:grpFill/>
+1055: <a:ln>
+1056: <a:noFill/>
+1057: <p:txBody>
+1058: <a:bodyPr/>
+1059: <a:lstStyle/>
+1060: <a:p>
+1061: <a:pPr defTabSz="685800">
+1062: <a:defRPr/>
+1063: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+1064: <a:solidFill>
+1065: <a:prstClr val="black"/>
+1066: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+1067: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1068: <p:grpSp>
+1069: <p:nvGrpSpPr>
+1070: <p:cNvPr id="7" name="组合 9"/>
+1071: <p:cNvGrpSpPr/>
+1072: <p:nvPr/>
+1073: <p:grpSpPr bwMode="auto">
+1074: <a:xfrm>
+1075: <a:off x="2540794" y="3712369"/>
+1076: <a:ext cx="670322" cy="670322"/>
+1077: <a:chOff x="3388423" y="4949461"/>
+1078: <a:chExt cx="893782" cy="893782"/>
+1079: <p:sp>
+1080: <p:nvSpPr>
+1081: <p:cNvPr id="87" name="椭圆 86"/>
+1082: <p:cNvSpPr/>
+1083: <p:nvPr/>
+1084: <p:spPr>
+1085: <a:xfrm>
+1086: <a:off x="3388423" y="4949461"/>
+1087: <a:ext cx="893782" cy="893782"/>
+1088: <a:prstGeom prst="ellipse">
+1089: <a:avLst/>
+1090: <a:pattFill prst="wdUpDiag">
+1091: <a:fgClr>
+1092: <a:srgbClr val="11B5B8"/>
+1093: <a:bgClr>
+1094: <a:schemeClr val="bg1"/>
+1095: <a:ln>
+1096: <a:noFill/>
+1097: <p:style>
+1098: <a:lnRef idx="2">
+1099: <a:schemeClr val="accent1">
+1100: <a:shade val="50000"/>
+1101: <a:fillRef idx="1">
+1102: <a:schemeClr val="accent1"/>
+1103: <a:effectRef idx="0">
+1104: <a:schemeClr val="accent1"/>
+1105: <a:fontRef idx="minor">
+1106: <a:schemeClr val="lt1"/>
+1107: <p:txBody>
+1108: <a:bodyPr anchor="ctr"/>
+1109: <a:lstStyle/>
+1110: <a:p>
+1111: <a:pPr algn="ctr" defTabSz="685800">
+1112: <a:defRPr/>
+1113: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+1114: <a:solidFill>
+1115: <a:prstClr val="white"/>
+1116: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+1117: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1118: <p:sp>
+1119: <p:nvSpPr>
+1120: <p:cNvPr id="61473" name="Freeform 409"/>
+1121: <p:cNvSpPr>
+1122: <a:spLocks noEditPoints="1"/>
+1123: <p:nvPr/>
+1124: <p:spPr bwMode="auto">
+1125: <a:xfrm>
+1126: <a:off x="3453714" y="5014753"/>
+1127: <a:ext cx="763200" cy="763200"/>
+1128: <a:custGeom>
+1129: <a:avLst/>
+1130: <a:gdLst>
+1131: <a:gd name="T0" fmla="*/ 2147483646 w 288"/>
+1132: <a:gd name="T1" fmla="*/ 0 h 288"/>
+1133: <a:gd name="T2" fmla="*/ 0 w 288"/>
+1134: <a:gd name="T3" fmla="*/ 2147483646 h 288"/>
+1135: <a:gd name="T4" fmla="*/ 2147483646 w 288"/>
+1136: <a:gd name="T5" fmla="*/ 2147483646 h 288"/>
+1137: <a:gd name="T6" fmla="*/ 2147483646 w 288"/>
+1138: <a:gd name="T7" fmla="*/ 2147483646 h 288"/>
+1139: <a:gd name="T8" fmla="*/ 2147483646 w 288"/>
+1140: <a:gd name="T9" fmla="*/ 0 h 288"/>
+1141: <a:gd name="T10" fmla="*/ 2147483646 w 288"/>
+1142: <a:gd name="T11" fmla="*/ 2147483646 h 288"/>
+1143: <a:gd name="T12" fmla="*/ 2147483646 w 288"/>
+1144: <a:gd name="T13" fmla="*/ 2147483646 h 288"/>
+1145: <a:gd name="T14" fmla="*/ 2147483646 w 288"/>
+1146: <a:gd name="T15" fmla="*/ 2147483646 h 288"/>
+1147: <a:gd name="T16" fmla="*/ 2147483646 w 288"/>
+1148: <a:gd name="T17" fmla="*/ 2147483646 h 288"/>
+1149: <a:gd name="T18" fmla="*/ 2147483646 w 288"/>
+1150: <a:gd name="T19" fmla="*/ 2147483646 h 288"/>
+1151: <a:gd name="T20" fmla="*/ 2147483646 w 288"/>
+1152: <a:gd name="T21" fmla="*/ 2147483646 h 288"/>
+1153: <a:gd name="T22" fmla="*/ 2147483646 w 288"/>
+1154: <a:gd name="T23" fmla="*/ 2147483646 h 288"/>
+1155: <a:gd name="T24" fmla="*/ 2147483646 w 288"/>
+1156: <a:gd name="T25" fmla="*/ 2147483646 h 288"/>
+1157: <a:gd name="T26" fmla="*/ 2147483646 w 288"/>
+1158: <a:gd name="T27" fmla="*/ 2147483646 h 288"/>
+1159: <a:gd name="T28" fmla="*/ 2147483646 w 288"/>
+1160: <a:gd name="T29" fmla="*/ 2147483646 h 288"/>
+1161: <a:gd name="T30" fmla="*/ 2147483646 w 288"/>
+1162: <a:gd name="T31" fmla="*/ 2147483646 h 288"/>
+1163: <a:gd name="T32" fmla="*/ 2147483646 w 288"/>
+1164: <a:gd name="T33" fmla="*/ 2147483646 h 288"/>
+1165: <a:gd name="T34" fmla="*/ 2147483646 w 288"/>
+1166: <a:gd name="T35" fmla="*/ 2147483646 h 288"/>
+1167: <a:gd name="T36" fmla="*/ 2147483646 w 288"/>
+1168: <a:gd name="T37" fmla="*/ 2147483646 h 288"/>
+1169: <a:gd name="T38" fmla="*/ 2147483646 w 288"/>
+1170: <a:gd name="T39" fmla="*/ 2147483646 h 288"/>
+1171: <a:gd name="T40" fmla="*/ 2147483646 w 288"/>
+1172: <a:gd name="T41" fmla="*/ 2147483646 h 288"/>
+1173: <a:gd name="T42" fmla="*/ 2147483646 w 288"/>
+1174: <a:gd name="T43" fmla="*/ 2147483646 h 288"/>
+1175: <a:gd name="T44" fmla="*/ 2147483646 w 288"/>
+1176: <a:gd name="T45" fmla="*/ 2147483646 h 288"/>
+1177: <a:gd name="T46" fmla="*/ 2147483646 w 288"/>
+1178: <a:gd name="T47" fmla="*/ 2147483646 h 288"/>
+1179: <a:gd name="T48" fmla="*/ 2147483646 w 288"/>
+1180: <a:gd name="T49" fmla="*/ 2147483646 h 288"/>
+1181: <a:gd name="T50" fmla="*/ 2147483646 w 288"/>
+1182: <a:gd name="T51" fmla="*/ 2147483646 h 288"/>
+1183: <a:gd name="T52" fmla="*/ 2147483646 w 288"/>
+1184: <a:gd name="T53" fmla="*/ 2147483646 h 288"/>
+1185: <a:gd name="T54" fmla="*/ 2147483646 w 288"/>
+1186: <a:gd name="T55" fmla="*/ 2147483646 h 288"/>
+1187: <a:gd name="T56" fmla="*/ 2147483646 w 288"/>
+1188: <a:gd name="T57" fmla="*/ 2147483646 h 288"/>
+1189: <a:gd name="T58" fmla="*/ 2147483646 w 288"/>
+1190: <a:gd name="T59" fmla="*/ 2147483646 h 288"/>
+1191: <a:gd name="T60" fmla="*/ 2147483646 w 288"/>
+1192: <a:gd name="T61" fmla="*/ 2147483646 h 288"/>
+1193: <a:gd name="T62" fmla="*/ 2147483646 w 288"/>
+1194: <a:gd name="T63" fmla="*/ 2147483646 h 288"/>
+1195: <a:gd name="T64" fmla="*/ 2147483646 w 288"/>
+1196: <a:gd name="T65" fmla="*/ 2147483646 h 288"/>
+1197: <a:gd name="T66" fmla="*/ 2147483646 w 288"/>
+1198: <a:gd name="T67" fmla="*/ 2147483646 h 288"/>
+1199: <a:gd name="T68" fmla="*/ 2147483646 w 288"/>
+1200: <a:gd name="T69" fmla="*/ 2147483646 h 288"/>
+1201: <a:gd name="T70" fmla="*/ 2147483646 w 288"/>
+1202: <a:gd name="T71" fmla="*/ 2147483646 h 288"/>
+1203: <a:gd name="T72" fmla="*/ 0 60000 65536"/>
+1204: <a:gd name="T73" fmla="*/ 0 60000 65536"/>
+1205: <a:gd name="T74" fmla="*/ 0 60000 65536"/>
+1206: <a:gd name="T75" fmla="*/ 0 60000 65536"/>
+1207: <a:gd name="T76" fmla="*/ 0 60000 65536"/>
+1208: <a:gd name="T77" fmla="*/ 0 60000 65536"/>
+1209: <a:gd name="T78" fmla="*/ 0 60000 65536"/>
+1210: <a:gd name="T79" fmla="*/ 0 60000 65536"/>
+1211: <a:gd name="T80" fmla="*/ 0 60000 65536"/>
+1212: <a:gd name="T81" fmla="*/ 0 60000 65536"/>
+1213: <a:gd name="T82" fmla="*/ 0 60000 65536"/>
+1214: <a:gd name="T83" fmla="*/ 0 60000 65536"/>
+1215: <a:gd name="T84" fmla="*/ 0 60000 65536"/>
+1216: <a:gd name="T85" fmla="*/ 0 60000 65536"/>
+1217: <a:gd name="T86" fmla="*/ 0 60000 65536"/>
+1218: <a:gd name="T87" fmla="*/ 0 60000 65536"/>
+1219: <a:gd name="T88" fmla="*/ 0 60000 65536"/>
+1220: <a:gd name="T89" fmla="*/ 0 60000 65536"/>
+1221: <a:gd name="T90" fmla="*/ 0 60000 65536"/>
+1222: <a:gd name="T91" fmla="*/ 0 60000 65536"/>
+1223: <a:gd name="T92" fmla="*/ 0 60000 65536"/>
+1224: <a:gd name="T93" fmla="*/ 0 60000 65536"/>
+1225: <a:gd name="T94" fmla="*/ 0 60000 65536"/>
+1226: <a:gd name="T95" fmla="*/ 0 60000 65536"/>
+1227: <a:gd name="T96" fmla="*/ 0 60000 65536"/>
+1228: <a:gd name="T97" fmla="*/ 0 60000 65536"/>
+1229: <a:gd name="T98" fmla="*/ 0 60000 65536"/>
+1230: <a:gd name="T99" fmla="*/ 0 60000 65536"/>
+1231: <a:gd name="T100" fmla="*/ 0 60000 65536"/>
+1232: <a:gd name="T101" fmla="*/ 0 60000 65536"/>
+1233: <a:gd name="T102" fmla="*/ 0 60000 65536"/>
+1234: <a:gd name="T103" fmla="*/ 0 60000 65536"/>
+1235: <a:gd name="T104" fmla="*/ 0 60000 65536"/>
+1236: <a:gd name="T105" fmla="*/ 0 60000 65536"/>
+1237: <a:gd name="T106" fmla="*/ 0 60000 65536"/>
+1238: <a:gd name="T107" fmla="*/ 0 60000 65536"/>
+1239: <a:gd name="T108" fmla="*/ 0 w 288"/>
+1240: <a:gd name="T109" fmla="*/ 0 h 288"/>
+1241: <a:gd name="T110" fmla="*/ 288 w 288"/>
+1242: <a:gd name="T111" fmla="*/ 288 h 288"/>
+1243: <a:ahLst/>
+1244: <a:cxnLst>
+1245: <a:cxn ang="T72">
+1246: <a:pos x="T0" y="T1"/>
+1247: <a:cxn ang="T73">
+1248: <a:pos x="T2" y="T3"/>
+1249: <a:cxn ang="T74">
+1250: <a:pos x="T4" y="T5"/>
+1251: <a:cxn ang="T75">
+1252: <a:pos x="T6" y="T7"/>
+1253: <a:cxn ang="T76">
+1254: <a:pos x="T8" y="T9"/>
+1255: <a:cxn ang="T77">
+1256: <a:pos x="T10" y="T11"/>
+1257: <a:cxn ang="T78">
+1258: <a:pos x="T12" y="T13"/>
+1259: <a:cxn ang="T79">
+1260: <a:pos x="T14" y="T15"/>
+1261: <a:cxn ang="T80">
+1262: <a:pos x="T16" y="T17"/>
+1263: <a:cxn ang="T81">
+1264: <a:pos x="T18" y="T19"/>
+1265: <a:cxn ang="T82">
+1266: <a:pos x="T20" y="T21"/>
+1267: <a:cxn ang="T83">
+1268: <a:pos x="T22" y="T23"/>
+1269: <a:cxn ang="T84">
+1270: <a:pos x="T24" y="T25"/>
+1271: <a:cxn ang="T85">
+1272: <a:pos x="T26" y="T27"/>
+1273: <a:cxn ang="T86">
+1274: <a:pos x="T28" y="T29"/>
+1275: <a:cxn ang="T87">
+1276: <a:pos x="T30" y="T31"/>
+1277: <a:cxn ang="T88">
+1278: <a:pos x="T32" y="T33"/>
+1279: <a:cxn ang="T89">
+1280: <a:pos x="T34" y="T35"/>
+1281: <a:cxn ang="T90">
+1282: <a:pos x="T36" y="T37"/>
+1283: <a:cxn ang="T91">
+1284: <a:pos x="T38" y="T39"/>
+1285: <a:cxn ang="T92">
+1286: <a:pos x="T40" y="T41"/>
+1287: <a:cxn ang="T93">
+1288: <a:pos x="T42" y="T43"/>
+1289: <a:cxn ang="T94">
+1290: <a:pos x="T44" y="T45"/>
+1291: <a:cxn ang="T95">
+1292: <a:pos x="T46" y="T47"/>
+1293: <a:cxn ang="T96">
+1294: <a:pos x="T48" y="T49"/>
+1295: <a:cxn ang="T97">
+1296: <a:pos x="T50" y="T51"/>
+1297: <a:cxn ang="T98">
+1298: <a:pos x="T52" y="T53"/>
+1299: <a:cxn ang="T99">
+1300: <a:pos x="T54" y="T55"/>
+1301: <a:cxn ang="T100">
+1302: <a:pos x="T56" y="T57"/>
+1303: <a:cxn ang="T101">
+1304: <a:pos x="T58" y="T59"/>
+1305: <a:cxn ang="T102">
+1306: <a:pos x="T60" y="T61"/>
+1307: <a:cxn ang="T103">
+1308: <a:pos x="T62" y="T63"/>
+1309: <a:cxn ang="T104">
+1310: <a:pos x="T64" y="T65"/>
+1311: <a:cxn ang="T105">
+1312: <a:pos x="T66" y="T67"/>
+1313: <a:cxn ang="T106">
+1314: <a:pos x="T68" y="T69"/>
+1315: <a:cxn ang="T107">
+1316: <a:pos x="T70" y="T71"/>
+1317: <a:rect l="T108" t="T109" r="T110" b="T111"/>
+1318: <a:pathLst>
+1319: <a:path w="288" h="288">
+1320: <a:moveTo>
+1321: <a:pt x="144" y="0"/>
+1322: <a:cubicBezTo>
+1323: <a:pt x="64" y="0"/>
+1324: <a:pt x="0" y="65"/>
+1325: <a:pt x="0" y="144"/>
+1326: <a:cubicBezTo>
+1327: <a:pt x="0" y="224"/>
+1328: <a:pt x="64" y="288"/>
+1329: <a:pt x="144" y="288"/>
+1330: <a:cubicBezTo>
+1331: <a:pt x="224" y="288"/>
+1332: <a:pt x="288" y="224"/>
+1333: <a:pt x="288" y="144"/>
+1334: <a:cubicBezTo>
+1335: <a:pt x="288" y="65"/>
+1336: <a:pt x="224" y="0"/>
+1337: <a:pt x="144" y="0"/>
+1338: <a:close/>
+1339: <a:moveTo>
+1340: <a:pt x="162" y="45"/>
+1341: <a:cubicBezTo>
+1342: <a:pt x="168" y="45"/>
+1343: <a:pt x="173" y="47"/>
+1344: <a:pt x="176" y="50"/>
+1345: <a:cubicBezTo>
+1346: <a:pt x="179" y="54"/>
+1347: <a:pt x="180" y="58"/>
+1348: <a:pt x="180" y="63"/>
+1349: <a:cubicBezTo>
+1350: <a:pt x="180" y="75"/>
+1351: <a:pt x="170" y="87"/>
+1352: <a:pt x="157" y="87"/>
+1353: <a:cubicBezTo>
+1354: <a:pt x="157" y="87"/>
+1355: <a:pt x="157" y="87"/>
+1356: <a:pt x="157" y="87"/>
+1357: <a:cubicBezTo>
+1358: <a:pt x="146" y="87"/>
+1359: <a:pt x="139" y="79"/>
+1360: <a:pt x="139" y="68"/>
+1361: <a:cubicBezTo>
+1362: <a:pt x="139" y="58"/>
+1363: <a:pt x="147" y="45"/>
+1364: <a:pt x="162" y="45"/>
+1365: <a:close/>
+1366: <a:moveTo>
+1367: <a:pt x="180" y="206"/>
+1368: <a:cubicBezTo>
+1369: <a:pt x="160" y="228"/>
+1370: <a:pt x="135" y="241"/>
+1371: <a:pt x="125" y="241"/>
+1372: <a:cubicBezTo>
+1373: <a:pt x="125" y="241"/>
+1374: <a:pt x="125" y="241"/>
+1375: <a:pt x="125" y="241"/>
+1376: <a:cubicBezTo>
+1377: <a:pt x="122" y="241"/>
+1378: <a:pt x="119" y="241"/>
+1379: <a:pt x="117" y="238"/>
+1380: <a:cubicBezTo>
+1381: <a:pt x="114" y="235"/>
+1382: <a:pt x="113" y="231"/>
+1383: <a:pt x="113" y="226"/>
+1384: <a:cubicBezTo>
+1385: <a:pt x="113" y="221"/>
+1386: <a:pt x="114" y="212"/>
+1387: <a:pt x="115" y="205"/>
+1388: <a:cubicBezTo>
+1389: <a:pt x="130" y="143"/>
+1390: <a:pt x="130" y="143"/>
+1391: <a:pt x="130" y="143"/>
+1392: <a:cubicBezTo>
+1393: <a:pt x="130" y="139"/>
+1394: <a:pt x="131" y="137"/>
+1395: <a:pt x="131" y="135"/>
+1396: <a:cubicBezTo>
+1397: <a:pt x="128" y="136"/>
+1398: <a:pt x="117" y="144"/>
+1399: <a:pt x="112" y="149"/>
+1400: <a:cubicBezTo>
+1401: <a:pt x="110" y="150"/>
+1402: <a:pt x="110" y="150"/>
+1403: <a:pt x="110" y="150"/>
+1404: <a:cubicBezTo>
+1405: <a:pt x="104" y="135"/>
+1406: <a:pt x="104" y="135"/>
+1407: <a:pt x="104" y="135"/>
+1408: <a:cubicBezTo>
+1409: <a:pt x="105" y="134"/>
+1410: <a:pt x="105" y="134"/>
+1411: <a:pt x="105" y="134"/>
+1412: <a:cubicBezTo>
+1413: <a:pt x="126" y="115"/>
+1414: <a:pt x="150" y="100"/>
+1415: <a:pt x="161" y="100"/>
+1416: <a:cubicBezTo>
+1417: <a:pt x="165" y="100"/>
+1418: <a:pt x="167" y="101"/>
+1419: <a:pt x="169" y="104"/>
+1420: <a:cubicBezTo>
+1421: <a:pt x="170" y="107"/>
+1422: <a:pt x="171" y="110"/>
+1423: <a:pt x="171" y="114"/>
+1424: <a:cubicBezTo>
+1425: <a:pt x="171" y="118"/>
+1426: <a:pt x="170" y="128"/>
+1427: <a:pt x="169" y="134"/>
+1428: <a:cubicBezTo>
+1429: <a:pt x="153" y="198"/>
+1430: <a:pt x="153" y="198"/>
+1431: <a:pt x="153" y="198"/>
+1432: <a:cubicBezTo>
+1433: <a:pt x="152" y="201"/>
+1434: <a:pt x="152" y="204"/>
+1435: <a:pt x="152" y="205"/>
+1436: <a:cubicBezTo>
+1437: <a:pt x="152" y="206"/>
+1438: <a:pt x="152" y="206"/>
+1439: <a:pt x="152" y="207"/>
+1440: <a:cubicBezTo>
+1441: <a:pt x="154" y="206"/>
+1442: <a:pt x="165" y="199"/>
+1443: <a:pt x="172" y="192"/>
+1444: <a:cubicBezTo>
+1445: <a:pt x="174" y="190"/>
+1446: <a:pt x="174" y="190"/>
+1447: <a:pt x="174" y="190"/>
+1448: <a:cubicBezTo>
+1449: <a:pt x="180" y="204"/>
+1450: <a:pt x="180" y="204"/>
+1451: <a:pt x="180" y="204"/>
+1452: <a:cubicBezTo>
+1453: <a:pt x="181" y="205"/>
+1454: <a:pt x="181" y="205"/>
+1455: <a:pt x="181" y="205"/>
+1456: <a:lnTo>
+1457: <a:pt x="180" y="206"/>
+1458: <a:close/>
+1459: <a:solidFill>
+1460: <a:srgbClr val="11B5B8"/>
+1461: <a:ln>
+1462: <a:noFill/>
+1463: <a:extLst>
+1464: <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+1465: <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="9525">
+1466: <a:solidFill>
+1467: <a:srgbClr val="000000"/>
+1468: <a:round/>
+1469: <p:txBody>
+1470: <a:bodyPr/>
+1471: <a:lstStyle/>
+1472: <a:p>
+1473: <a:pPr defTabSz="685800" eaLnBrk="0" fontAlgn="base" hangingPunct="0">
+1474: <a:spcBef>
+1475: <a:spcPct val="0"/>
+1476: <a:spcAft>
+1477: <a:spcPct val="0"/>
+1478: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+1479: <a:solidFill>
+1480: <a:prstClr val="black"/>
+1481: <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+1482: <a:ea typeface="宋体" panose="02010600030101010101" pitchFamily="2" charset="-122"/>
+1483: <p:sp>
+1484: <p:nvSpPr>
+1485: <p:cNvPr id="32" name="矩形 31"/>
+1486: <p:cNvSpPr/>
+1487: <p:nvPr/>
+1488: <p:spPr>
+1489: <a:xfrm>
+1490: <a:off x="523875" y="3777854"/>
+1491: <a:ext cx="1970485" cy="406400"/>
+1492: <a:prstGeom prst="rect">
+1493: <a:avLst/>
+1494: <a:noFill/>
+1495: <p:txBody>
+1496: <a:bodyPr>
+1497: <a:spAutoFit/>
+1498: <a:lstStyle/>
+1499: <a:p>
+1500: <a:pPr algn="r" defTabSz="685800">
+1501: <a:lnSpc>
+1502: <a:spcPct val="130000"/>
+1503: <a:defRPr/>
+1504: <a:r>
+1505: <a:rPr lang="zh-CN" altLang="en-US" sz="790">
+1506: <a:solidFill>
+1507: <a:srgbClr val="E5DEDB">
+1508: <a:lumMod val="25000"/>
+1509: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1510: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1511: <a:t>
+1512: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="790">
+1513: <a:solidFill>
+1514: <a:srgbClr val="E5DEDB">
+1515: <a:lumMod val="25000"/>
+1516: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1517: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1518: <p:sp>
+1519: <p:nvSpPr>
+1520: <p:cNvPr id="33" name="矩形 32"/>
+1521: <p:cNvSpPr/>
+1522: <p:nvPr/>
+1523: <p:spPr>
+1524: <a:xfrm>
+1525: <a:off x="276225" y="2655094"/>
+1526: <a:ext cx="1969294" cy="406400"/>
+1527: <a:prstGeom prst="rect">
+1528: <a:avLst/>
+1529: <a:noFill/>
+1530: <p:txBody>
+1531: <a:bodyPr>
+1532: <a:spAutoFit/>
+1533: <a:lstStyle/>
+1534: <a:p>
+1535: <a:pPr algn="r" defTabSz="685800">
+1536: <a:lnSpc>
+1537: <a:spcPct val="130000"/>
+1538: <a:defRPr/>
+1539: <a:r>
+1540: <a:rPr lang="zh-CN" altLang="en-US" sz="790">
+1541: <a:solidFill>
+1542: <a:srgbClr val="E5DEDB">
+1543: <a:lumMod val="25000"/>
+1544: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1545: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1546: <a:t>
+1547: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="790">
+1548: <a:solidFill>
+1549: <a:srgbClr val="E5DEDB">
+1550: <a:lumMod val="25000"/>
+1551: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1552: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1553: <p:sp>
+1554: <p:nvSpPr>
+1555: <p:cNvPr id="34" name="矩形 33"/>
+1556: <p:cNvSpPr/>
+1557: <p:nvPr/>
+1558: <p:spPr>
+1559: <a:xfrm>
+1560: <a:off x="523875" y="1627585"/>
+1561: <a:ext cx="1969294" cy="406400"/>
+1562: <a:prstGeom prst="rect">
+1563: <a:avLst/>
+1564: <a:noFill/>
+1565: <p:txBody>
+1566: <a:bodyPr>
+1567: <a:spAutoFit/>
+1568: <a:lstStyle/>
+1569: <a:p>
+1570: <a:pPr algn="r" defTabSz="685800">
+1571: <a:lnSpc>
+1572: <a:spcPct val="130000"/>
+1573: <a:defRPr/>
+1574: <a:r>
+1575: <a:rPr lang="zh-CN" altLang="en-US" sz="790">
+1576: <a:solidFill>
+1577: <a:srgbClr val="E5DEDB">
+1578: <a:lumMod val="25000"/>
+1579: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1580: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1581: <a:t>
+1582: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="790">
+1583: <a:solidFill>
+1584: <a:srgbClr val="E5DEDB">
+1585: <a:lumMod val="25000"/>
+1586: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1587: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1588: <p:grpSp>
+1589: <p:nvGrpSpPr>
+1590: <p:cNvPr id="8" name="组合 8"/>
+1591: <p:cNvGrpSpPr/>
+1592: <p:nvPr/>
+1593: <p:grpSpPr bwMode="auto">
+1594: <a:xfrm>
+1595: <a:off x="5913835" y="3746897"/>
+1596: <a:ext cx="670322" cy="670322"/>
+1597: <a:chOff x="7885229" y="4996425"/>
+1598: <a:chExt cx="893782" cy="893782"/>
+1599: <p:sp>
+1600: <p:nvSpPr>
+1601: <p:cNvPr id="93" name="椭圆 92"/>
+1602: <p:cNvSpPr/>
+1603: <p:nvPr/>
+1604: <p:spPr>
+1605: <a:xfrm>
+1606: <a:off x="7885229" y="4996425"/>
+1607: <a:ext cx="893782" cy="893782"/>
+1608: <a:prstGeom prst="ellipse">
+1609: <a:avLst/>
+1610: <a:pattFill prst="wdUpDiag">
+1611: <a:fgClr>
+1612: <a:srgbClr val="BFBFBF"/>
+1613: <a:bgClr>
+1614: <a:schemeClr val="bg1"/>
+1615: <a:ln>
+1616: <a:noFill/>
+1617: <p:style>
+1618: <a:lnRef idx="2">
+1619: <a:schemeClr val="accent1">
+1620: <a:shade val="50000"/>
+1621: <a:fillRef idx="1">
+1622: <a:schemeClr val="accent1"/>
+1623: <a:effectRef idx="0">
+1624: <a:schemeClr val="accent1"/>
+1625: <a:fontRef idx="minor">
+1626: <a:schemeClr val="lt1"/>
+1627: <p:txBody>
+1628: <a:bodyPr anchor="ctr"/>
+1629: <a:lstStyle/>
+1630: <a:p>
+1631: <a:pPr algn="ctr" defTabSz="685800">
+1632: <a:defRPr/>
+1633: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+1634: <a:solidFill>
+1635: <a:prstClr val="white"/>
+1636: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+1637: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1638: <p:sp>
+1639: <p:nvSpPr>
+1640: <p:cNvPr id="61471" name="Freeform 369"/>
+1641: <p:cNvSpPr>
+1642: <a:spLocks noEditPoints="1"/>
+1643: <p:nvPr/>
+1644: <p:spPr bwMode="auto">
+1645: <a:xfrm>
+1646: <a:off x="7946042" y="5049016"/>
+1647: <a:ext cx="763200" cy="763200"/>
+1648: <a:custGeom>
+1649: <a:avLst/>
+1650: <a:gdLst>
+1651: <a:gd name="T0" fmla="*/ 2147483646 w 288"/>
+1652: <a:gd name="T1" fmla="*/ 0 h 288"/>
+1653: <a:gd name="T2" fmla="*/ 0 w 288"/>
+1654: <a:gd name="T3" fmla="*/ 2147483646 h 288"/>
+1655: <a:gd name="T4" fmla="*/ 2147483646 w 288"/>
+1656: <a:gd name="T5" fmla="*/ 2147483646 h 288"/>
+1657: <a:gd name="T6" fmla="*/ 2147483646 w 288"/>
+1658: <a:gd name="T7" fmla="*/ 2147483646 h 288"/>
+1659: <a:gd name="T8" fmla="*/ 2147483646 w 288"/>
+1660: <a:gd name="T9" fmla="*/ 0 h 288"/>
+1661: <a:gd name="T10" fmla="*/ 2147483646 w 288"/>
+1662: <a:gd name="T11" fmla="*/ 2147483646 h 288"/>
+1663: <a:gd name="T12" fmla="*/ 2147483646 w 288"/>
+1664: <a:gd name="T13" fmla="*/ 2147483646 h 288"/>
+1665: <a:gd name="T14" fmla="*/ 2147483646 w 288"/>
+1666: <a:gd name="T15" fmla="*/ 2147483646 h 288"/>
+1667: <a:gd name="T16" fmla="*/ 2147483646 w 288"/>
+1668: <a:gd name="T17" fmla="*/ 2147483646 h 288"/>
+1669: <a:gd name="T18" fmla="*/ 2147483646 w 288"/>
+1670: <a:gd name="T19" fmla="*/ 2147483646 h 288"/>
+1671: <a:gd name="T20" fmla="*/ 2147483646 w 288"/>
+1672: <a:gd name="T21" fmla="*/ 2147483646 h 288"/>
+1673: <a:gd name="T22" fmla="*/ 2147483646 w 288"/>
+1674: <a:gd name="T23" fmla="*/ 2147483646 h 288"/>
+1675: <a:gd name="T24" fmla="*/ 2147483646 w 288"/>
+1676: <a:gd name="T25" fmla="*/ 2147483646 h 288"/>
+1677: <a:gd name="T26" fmla="*/ 2147483646 w 288"/>
+1678: <a:gd name="T27" fmla="*/ 2147483646 h 288"/>
+1679: <a:gd name="T28" fmla="*/ 2147483646 w 288"/>
+1680: <a:gd name="T29" fmla="*/ 2147483646 h 288"/>
+1681: <a:gd name="T30" fmla="*/ 2147483646 w 288"/>
+1682: <a:gd name="T31" fmla="*/ 2147483646 h 288"/>
+1683: <a:gd name="T32" fmla="*/ 2147483646 w 288"/>
+1684: <a:gd name="T33" fmla="*/ 2147483646 h 288"/>
+1685: <a:gd name="T34" fmla="*/ 2147483646 w 288"/>
+1686: <a:gd name="T35" fmla="*/ 2147483646 h 288"/>
+1687: <a:gd name="T36" fmla="*/ 2147483646 w 288"/>
+1688: <a:gd name="T37" fmla="*/ 2147483646 h 288"/>
+1689: <a:gd name="T38" fmla="*/ 2147483646 w 288"/>
+1690: <a:gd name="T39" fmla="*/ 2147483646 h 288"/>
+1691: <a:gd name="T40" fmla="*/ 2147483646 w 288"/>
+1692: <a:gd name="T41" fmla="*/ 2147483646 h 288"/>
+1693: <a:gd name="T42" fmla="*/ 2147483646 w 288"/>
+1694: <a:gd name="T43" fmla="*/ 2147483646 h 288"/>
+1695: <a:gd name="T44" fmla="*/ 2147483646 w 288"/>
+1696: <a:gd name="T45" fmla="*/ 2147483646 h 288"/>
+1697: <a:gd name="T46" fmla="*/ 2147483646 w 288"/>
+1698: <a:gd name="T47" fmla="*/ 2147483646 h 288"/>
+1699: <a:gd name="T48" fmla="*/ 2147483646 w 288"/>
+1700: <a:gd name="T49" fmla="*/ 2147483646 h 288"/>
+1701: <a:gd name="T50" fmla="*/ 2147483646 w 288"/>
+1702: <a:gd name="T51" fmla="*/ 2147483646 h 288"/>
+1703: <a:gd name="T52" fmla="*/ 0 60000 65536"/>
+1704: <a:gd name="T53" fmla="*/ 0 60000 65536"/>
+1705: <a:gd name="T54" fmla="*/ 0 60000 65536"/>
+1706: <a:gd name="T55" fmla="*/ 0 60000 65536"/>
+1707: <a:gd name="T56" fmla="*/ 0 60000 65536"/>
+1708: <a:gd name="T57" fmla="*/ 0 60000 65536"/>
+1709: <a:gd name="T58" fmla="*/ 0 60000 65536"/>
+1710: <a:gd name="T59" fmla="*/ 0 60000 65536"/>
+1711: <a:gd name="T60" fmla="*/ 0 60000 65536"/>
+1712: <a:gd name="T61" fmla="*/ 0 60000 65536"/>
+1713: <a:gd name="T62" fmla="*/ 0 60000 65536"/>
+1714: <a:gd name="T63" fmla="*/ 0 60000 65536"/>
+1715: <a:gd name="T64" fmla="*/ 0 60000 65536"/>
+1716: <a:gd name="T65" fmla="*/ 0 60000 65536"/>
+1717: <a:gd name="T66" fmla="*/ 0 60000 65536"/>
+1718: <a:gd name="T67" fmla="*/ 0 60000 65536"/>
+1719: <a:gd name="T68" fmla="*/ 0 60000 65536"/>
+1720: <a:gd name="T69" fmla="*/ 0 60000 65536"/>
+1721: <a:gd name="T70" fmla="*/ 0 60000 65536"/>
+1722: <a:gd name="T71" fmla="*/ 0 60000 65536"/>
+1723: <a:gd name="T72" fmla="*/ 0 60000 65536"/>
+1724: <a:gd name="T73" fmla="*/ 0 60000 65536"/>
+1725: <a:gd name="T74" fmla="*/ 0 60000 65536"/>
+1726: <a:gd name="T75" fmla="*/ 0 60000 65536"/>
+1727: <a:gd name="T76" fmla="*/ 0 60000 65536"/>
+1728: <a:gd name="T77" fmla="*/ 0 60000 65536"/>
+1729: <a:gd name="T78" fmla="*/ 0 w 288"/>
+1730: <a:gd name="T79" fmla="*/ 0 h 288"/>
+1731: <a:gd name="T80" fmla="*/ 288 w 288"/>
+1732: <a:gd name="T81" fmla="*/ 288 h 288"/>
+1733: <a:ahLst/>
+1734: <a:cxnLst>
+1735: <a:cxn ang="T52">
+1736: <a:pos x="T0" y="T1"/>
+1737: <a:cxn ang="T53">
+1738: <a:pos x="T2" y="T3"/>
+1739: <a:cxn ang="T54">
+1740: <a:pos x="T4" y="T5"/>
+1741: <a:cxn ang="T55">
+1742: <a:pos x="T6" y="T7"/>
+1743: <a:cxn ang="T56">
+1744: <a:pos x="T8" y="T9"/>
+1745: <a:cxn ang="T57">
+1746: <a:pos x="T10" y="T11"/>
+1747: <a:cxn ang="T58">
+1748: <a:pos x="T12" y="T13"/>
+1749: <a:cxn ang="T59">
+1750: <a:pos x="T14" y="T15"/>
+1751: <a:cxn ang="T60">
+1752: <a:pos x="T16" y="T17"/>
+1753: <a:cxn ang="T61">
+1754: <a:pos x="T18" y="T19"/>
+1755: <a:cxn ang="T62">
+1756: <a:pos x="T20" y="T21"/>
+1757: <a:cxn ang="T63">
+1758: <a:pos x="T22" y="T23"/>
+1759: <a:cxn ang="T64">
+1760: <a:pos x="T24" y="T25"/>
+1761: <a:cxn ang="T65">
+1762: <a:pos x="T26" y="T27"/>
+1763: <a:cxn ang="T66">
+1764: <a:pos x="T28" y="T29"/>
+1765: <a:cxn ang="T67">
+1766: <a:pos x="T30" y="T31"/>
+1767: <a:cxn ang="T68">
+1768: <a:pos x="T32" y="T33"/>
+1769: <a:cxn ang="T69">
+1770: <a:pos x="T34" y="T35"/>
+1771: <a:cxn ang="T70">
+1772: <a:pos x="T36" y="T37"/>
+1773: <a:cxn ang="T71">
+1774: <a:pos x="T38" y="T39"/>
+1775: <a:cxn ang="T72">
+1776: <a:pos x="T40" y="T41"/>
+1777: <a:cxn ang="T73">
+1778: <a:pos x="T42" y="T43"/>
+1779: <a:cxn ang="T74">
+1780: <a:pos x="T44" y="T45"/>
+1781: <a:cxn ang="T75">
+1782: <a:pos x="T46" y="T47"/>
+1783: <a:cxn ang="T76">
+1784: <a:pos x="T48" y="T49"/>
+1785: <a:cxn ang="T77">
+1786: <a:pos x="T50" y="T51"/>
+1787: <a:rect l="T78" t="T79" r="T80" b="T81"/>
+1788: <a:pathLst>
+1789: <a:path w="288" h="288">
+1790: <a:moveTo>
+1791: <a:pt x="144" y="0"/>
+1792: <a:cubicBezTo>
+1793: <a:pt x="64" y="0"/>
+1794: <a:pt x="0" y="65"/>
+1795: <a:pt x="0" y="144"/>
+1796: <a:cubicBezTo>
+1797: <a:pt x="0" y="224"/>
+1798: <a:pt x="64" y="288"/>
+1799: <a:pt x="144" y="288"/>
+1800: <a:cubicBezTo>
+1801: <a:pt x="224" y="288"/>
+1802: <a:pt x="288" y="224"/>
+1803: <a:pt x="288" y="144"/>
+1804: <a:cubicBezTo>
+1805: <a:pt x="288" y="65"/>
+1806: <a:pt x="224" y="0"/>
+1807: <a:pt x="144" y="0"/>
+1808: <a:close/>
+1809: <a:moveTo>
+1810: <a:pt x="193" y="132"/>
+1811: <a:cubicBezTo>
+1812: <a:pt x="188" y="132"/>
+1813: <a:pt x="183" y="131"/>
+1814: <a:pt x="178" y="128"/>
+1815: <a:cubicBezTo>
+1816: <a:pt x="128" y="178"/>
+1817: <a:pt x="128" y="178"/>
+1818: <a:pt x="128" y="178"/>
+1819: <a:cubicBezTo>
+1820: <a:pt x="131" y="183"/>
+1821: <a:pt x="133" y="188"/>
+1822: <a:pt x="133" y="193"/>
+1823: <a:cubicBezTo>
+1824: <a:pt x="133" y="214"/>
+1825: <a:pt x="113" y="233"/>
+1826: <a:pt x="92" y="233"/>
+1827: <a:cubicBezTo>
+1828: <a:pt x="92" y="233"/>
+1829: <a:pt x="90" y="231"/>
+1830: <a:pt x="88" y="230"/>
+1831: <a:cubicBezTo>
+1832: <a:pt x="105" y="213"/>
+1833: <a:pt x="106" y="214"/>
+1834: <a:pt x="106" y="203"/>
+1835: <a:cubicBezTo>
+1836: <a:pt x="106" y="195"/>
+1837: <a:pt x="93" y="182"/>
+1838: <a:pt x="85" y="182"/>
+1839: <a:cubicBezTo>
+1840: <a:pt x="75" y="182"/>
+1841: <a:pt x="75" y="183"/>
+1842: <a:pt x="58" y="200"/>
+1843: <a:cubicBezTo>
+1844: <a:pt x="57" y="198"/>
+1845: <a:pt x="55" y="196"/>
+1846: <a:pt x="55" y="196"/>
+1847: <a:cubicBezTo>
+1848: <a:pt x="54" y="175"/>
+1849: <a:pt x="74" y="155"/>
+1850: <a:pt x="95" y="155"/>
+1851: <a:cubicBezTo>
+1852: <a:pt x="100" y="155"/>
+1853: <a:pt x="105" y="157"/>
+1854: <a:pt x="110" y="161"/>
+1855: <a:cubicBezTo>
+1856: <a:pt x="160" y="110"/>
+1857: <a:pt x="160" y="110"/>
+1858: <a:pt x="160" y="110"/>
+1859: <a:cubicBezTo>
+1860: <a:pt x="157" y="105"/>
+1861: <a:pt x="155" y="100"/>
+1862: <a:pt x="155" y="95"/>
+1863: <a:cubicBezTo>
+1864: <a:pt x="155" y="74"/>
+1865: <a:pt x="175" y="55"/>
+1866: <a:pt x="196" y="54"/>
+1867: <a:cubicBezTo>
+1868: <a:pt x="196" y="54"/>
+1869: <a:pt x="198" y="57"/>
+1870: <a:pt x="200" y="58"/>
+1871: <a:cubicBezTo>
+1872: <a:pt x="183" y="75"/>
+1873: <a:pt x="182" y="74"/>
+1874: <a:pt x="182" y="85"/>
+1875: <a:cubicBezTo>
+1876: <a:pt x="182" y="93"/>
+1877: <a:pt x="195" y="106"/>
+1878: <a:pt x="203" y="106"/>
+1879: <a:cubicBezTo>
+1880: <a:pt x="213" y="106"/>
+1881: <a:pt x="213" y="105"/>
+1882: <a:pt x="230" y="88"/>
+1883: <a:cubicBezTo>
+1884: <a:pt x="231" y="90"/>
+1885: <a:pt x="233" y="92"/>
+1886: <a:pt x="233" y="92"/>
+1887: <a:cubicBezTo>
+1888: <a:pt x="234" y="113"/>
+1889: <a:pt x="214" y="132"/>
+1890: <a:pt x="193" y="132"/>
+1891: <a:close/>
+1892: <a:solidFill>
+1893: <a:srgbClr val="BFBFBF"/>
+1894: <a:ln>
+1895: <a:noFill/>
+1896: <a:extLst>
+1897: <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+1898: <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="9525">
+1899: <a:solidFill>
+1900: <a:srgbClr val="000000"/>
+1901: <a:round/>
+1902: <p:txBody>
+1903: <a:bodyPr/>
+1904: <a:lstStyle/>
+1905: <a:p>
+1906: <a:pPr defTabSz="685800" eaLnBrk="0" fontAlgn="base" hangingPunct="0">
+1907: <a:spcBef>
+1908: <a:spcPct val="0"/>
+1909: <a:spcAft>
+1910: <a:spcPct val="0"/>
+1911: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+1912: <a:solidFill>
+1913: <a:prstClr val="black"/>
+1914: <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+1915: <a:ea typeface="宋体" panose="02010600030101010101" pitchFamily="2" charset="-122"/>
+1916: <p:grpSp>
+1917: <p:nvGrpSpPr>
+1918: <p:cNvPr id="9" name="组合 7"/>
+1919: <p:cNvGrpSpPr/>
+1920: <p:nvPr/>
+1921: <p:grpSpPr bwMode="auto">
+1922: <a:xfrm>
+1923: <a:off x="6197203" y="2689622"/>
+1924: <a:ext cx="670322" cy="670322"/>
+1925: <a:chOff x="8262189" y="3585649"/>
+1926: <a:chExt cx="893782" cy="893782"/>
+1927: <p:sp>
+1928: <p:nvSpPr>
+1929: <p:cNvPr id="95" name="椭圆 94"/>
+1930: <p:cNvSpPr/>
+1931: <p:nvPr/>
+1932: <p:spPr>
+1933: <a:xfrm>
+1934: <a:off x="8262189" y="3585649"/>
+1935: <a:ext cx="893782" cy="893782"/>
+1936: <a:prstGeom prst="ellipse">
+1937: <a:avLst/>
+1938: <a:pattFill prst="wdUpDiag">
+1939: <a:fgClr>
+1940: <a:srgbClr val="FD6D5C"/>
+1941: <a:bgClr>
+1942: <a:schemeClr val="bg1"/>
+1943: <a:ln>
+1944: <a:noFill/>
+1945: <p:style>
+1946: <a:lnRef idx="2">
+1947: <a:schemeClr val="accent1">
+1948: <a:shade val="50000"/>
+1949: <a:fillRef idx="1">
+1950: <a:schemeClr val="accent1"/>
+1951: <a:effectRef idx="0">
+1952: <a:schemeClr val="accent1"/>
+1953: <a:fontRef idx="minor">
+1954: <a:schemeClr val="lt1"/>
+1955: <p:txBody>
+1956: <a:bodyPr anchor="ctr"/>
+1957: <a:lstStyle/>
+1958: <a:p>
+1959: <a:pPr algn="ctr" defTabSz="685800">
+1960: <a:defRPr/>
+1961: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+1962: <a:solidFill>
+1963: <a:prstClr val="white"/>
+1964: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+1965: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1966: <p:sp>
+1967: <p:nvSpPr>
+1968: <p:cNvPr id="61469" name="Freeform 737"/>
+1969: <p:cNvSpPr>
+1970: <a:spLocks noEditPoints="1"/>
+1971: <p:nvPr/>
+1972: <p:spPr bwMode="auto">
+1973: <a:xfrm>
+1974: <a:off x="8331929" y="3661381"/>
+1975: <a:ext cx="763200" cy="763200"/>
+1976: <a:custGeom>
+1977: <a:avLst/>
+1978: <a:gdLst>
+1979: <a:gd name="T0" fmla="*/ 2147483646 w 288"/>
+1980: <a:gd name="T1" fmla="*/ 0 h 288"/>
+1981: <a:gd name="T2" fmla="*/ 0 w 288"/>
+1982: <a:gd name="T3" fmla="*/ 2147483646 h 288"/>
+1983: <a:gd name="T4" fmla="*/ 2147483646 w 288"/>
+1984: <a:gd name="T5" fmla="*/ 2147483646 h 288"/>
+1985: <a:gd name="T6" fmla="*/ 2147483646 w 288"/>
+1986: <a:gd name="T7" fmla="*/ 2147483646 h 288"/>
+1987: <a:gd name="T8" fmla="*/ 2147483646 w 288"/>
+1988: <a:gd name="T9" fmla="*/ 0 h 288"/>
+1989: <a:gd name="T10" fmla="*/ 2147483646 w 288"/>
+1990: <a:gd name="T11" fmla="*/ 2147483646 h 288"/>
+1991: <a:gd name="T12" fmla="*/ 2147483646 w 288"/>
+1992: <a:gd name="T13" fmla="*/ 2147483646 h 288"/>
+1993: <a:gd name="T14" fmla="*/ 2147483646 w 288"/>
+1994: <a:gd name="T15" fmla="*/ 2147483646 h 288"/>
+1995: <a:gd name="T16" fmla="*/ 2147483646 w 288"/>
+1996: <a:gd name="T17" fmla="*/ 2147483646 h 288"/>
+1997: <a:gd name="T18" fmla="*/ 2147483646 w 288"/>
+1998: <a:gd name="T19" fmla="*/ 2147483646 h 288"/>
+1999: <a:gd name="T20" fmla="*/ 2147483646 w 288"/>
+2000: <a:gd name="T21" fmla="*/ 2147483646 h 288"/>
+2001: <a:gd name="T22" fmla="*/ 2147483646 w 288"/>
+2002: <a:gd name="T23" fmla="*/ 2147483646 h 288"/>
+2003: <a:gd name="T24" fmla="*/ 2147483646 w 288"/>
+2004: <a:gd name="T25" fmla="*/ 2147483646 h 288"/>
+2005: <a:gd name="T26" fmla="*/ 2147483646 w 288"/>
+2006: <a:gd name="T27" fmla="*/ 2147483646 h 288"/>
+2007: <a:gd name="T28" fmla="*/ 2147483646 w 288"/>
+2008: <a:gd name="T29" fmla="*/ 2147483646 h 288"/>
+2009: <a:gd name="T30" fmla="*/ 2147483646 w 288"/>
+2010: <a:gd name="T31" fmla="*/ 2147483646 h 288"/>
+2011: <a:gd name="T32" fmla="*/ 2147483646 w 288"/>
+2012: <a:gd name="T33" fmla="*/ 2147483646 h 288"/>
+2013: <a:gd name="T34" fmla="*/ 2147483646 w 288"/>
+2014: <a:gd name="T35" fmla="*/ 2147483646 h 288"/>
+2015: <a:gd name="T36" fmla="*/ 2147483646 w 288"/>
+2016: <a:gd name="T37" fmla="*/ 2147483646 h 288"/>
+2017: <a:gd name="T38" fmla="*/ 2147483646 w 288"/>
+2018: <a:gd name="T39" fmla="*/ 2147483646 h 288"/>
+2019: <a:gd name="T40" fmla="*/ 2147483646 w 288"/>
+2020: <a:gd name="T41" fmla="*/ 2147483646 h 288"/>
+2021: <a:gd name="T42" fmla="*/ 2147483646 w 288"/>
+2022: <a:gd name="T43" fmla="*/ 2147483646 h 288"/>
+2023: <a:gd name="T44" fmla="*/ 2147483646 w 288"/>
+2024: <a:gd name="T45" fmla="*/ 2147483646 h 288"/>
+2025: <a:gd name="T46" fmla="*/ 2147483646 w 288"/>
+2026: <a:gd name="T47" fmla="*/ 2147483646 h 288"/>
+2027: <a:gd name="T48" fmla="*/ 2147483646 w 288"/>
+2028: <a:gd name="T49" fmla="*/ 2147483646 h 288"/>
+2029: <a:gd name="T50" fmla="*/ 2147483646 w 288"/>
+2030: <a:gd name="T51" fmla="*/ 2147483646 h 288"/>
+2031: <a:gd name="T52" fmla="*/ 2147483646 w 288"/>
+2032: <a:gd name="T53" fmla="*/ 2147483646 h 288"/>
+2033: <a:gd name="T54" fmla="*/ 2147483646 w 288"/>
+2034: <a:gd name="T55" fmla="*/ 2147483646 h 288"/>
+2035: <a:gd name="T56" fmla="*/ 2147483646 w 288"/>
+2036: <a:gd name="T57" fmla="*/ 2147483646 h 288"/>
+2037: <a:gd name="T58" fmla="*/ 0 60000 65536"/>
+2038: <a:gd name="T59" fmla="*/ 0 60000 65536"/>
+2039: <a:gd name="T60" fmla="*/ 0 60000 65536"/>
+2040: <a:gd name="T61" fmla="*/ 0 60000 65536"/>
+2041: <a:gd name="T62" fmla="*/ 0 60000 65536"/>
+2042: <a:gd name="T63" fmla="*/ 0 60000 65536"/>
+2043: <a:gd name="T64" fmla="*/ 0 60000 65536"/>
+2044: <a:gd name="T65" fmla="*/ 0 60000 65536"/>
+2045: <a:gd name="T66" fmla="*/ 0 60000 65536"/>
+2046: <a:gd name="T67" fmla="*/ 0 60000 65536"/>
+2047: <a:gd name="T68" fmla="*/ 0 60000 65536"/>
+2048: <a:gd name="T69" fmla="*/ 0 60000 65536"/>
+2049: <a:gd name="T70" fmla="*/ 0 60000 65536"/>
+2050: <a:gd name="T71" fmla="*/ 0 60000 65536"/>
+2051: <a:gd name="T72" fmla="*/ 0 60000 65536"/>
+2052: <a:gd name="T73" fmla="*/ 0 60000 65536"/>
+2053: <a:gd name="T74" fmla="*/ 0 60000 65536"/>
+2054: <a:gd name="T75" fmla="*/ 0 60000 65536"/>
+2055: <a:gd name="T76" fmla="*/ 0 60000 65536"/>
+2056: <a:gd name="T77" fmla="*/ 0 60000 65536"/>
+2057: <a:gd name="T78" fmla="*/ 0 60000 65536"/>
+2058: <a:gd name="T79" fmla="*/ 0 60000 65536"/>
+2059: <a:gd name="T80" fmla="*/ 0 60000 65536"/>
+2060: <a:gd name="T81" fmla="*/ 0 60000 65536"/>
+2061: <a:gd name="T82" fmla="*/ 0 60000 65536"/>
+2062: <a:gd name="T83" fmla="*/ 0 60000 65536"/>
+2063: <a:gd name="T84" fmla="*/ 0 60000 65536"/>
+2064: <a:gd name="T85" fmla="*/ 0 60000 65536"/>
+2065: <a:gd name="T86" fmla="*/ 0 60000 65536"/>
+2066: <a:gd name="T87" fmla="*/ 0 w 288"/>
+2067: <a:gd name="T88" fmla="*/ 0 h 288"/>
+2068: <a:gd name="T89" fmla="*/ 288 w 288"/>
+2069: <a:gd name="T90" fmla="*/ 288 h 288"/>
+2070: <a:ahLst/>
+2071: <a:cxnLst>
+2072: <a:cxn ang="T58">
+2073: <a:pos x="T0" y="T1"/>
+2074: <a:cxn ang="T59">
+2075: <a:pos x="T2" y="T3"/>
+2076: <a:cxn ang="T60">
+2077: <a:pos x="T4" y="T5"/>
+2078: <a:cxn ang="T61">
+2079: <a:pos x="T6" y="T7"/>
+2080: <a:cxn ang="T62">
+2081: <a:pos x="T8" y="T9"/>
+2082: <a:cxn ang="T63">
+2083: <a:pos x="T10" y="T11"/>
+2084: <a:cxn ang="T64">
+2085: <a:pos x="T12" y="T13"/>
+2086: <a:cxn ang="T65">
+2087: <a:pos x="T14" y="T15"/>
+2088: <a:cxn ang="T66">
+2089: <a:pos x="T16" y="T17"/>
+2090: <a:cxn ang="T67">
+2091: <a:pos x="T18" y="T19"/>
+2092: <a:cxn ang="T68">
+2093: <a:pos x="T20" y="T21"/>
+2094: <a:cxn ang="T69">
+2095: <a:pos x="T22" y="T23"/>
+2096: <a:cxn ang="T70">
+2097: <a:pos x="T24" y="T25"/>
+2098: <a:cxn ang="T71">
+2099: <a:pos x="T26" y="T27"/>
+2100: <a:cxn ang="T72">
+2101: <a:pos x="T28" y="T29"/>
+2102: <a:cxn ang="T73">
+2103: <a:pos x="T30" y="T31"/>
+2104: <a:cxn ang="T74">
+2105: <a:pos x="T32" y="T33"/>
+2106: <a:cxn ang="T75">
+2107: <a:pos x="T34" y="T35"/>
+2108: <a:cxn ang="T76">
+2109: <a:pos x="T36" y="T37"/>
+2110: <a:cxn ang="T77">
+2111: <a:pos x="T38" y="T39"/>
+2112: <a:cxn ang="T78">
+2113: <a:pos x="T40" y="T41"/>
+2114: <a:cxn ang="T79">
+2115: <a:pos x="T42" y="T43"/>
+2116: <a:cxn ang="T80">
+2117: <a:pos x="T44" y="T45"/>
+2118: <a:cxn ang="T81">
+2119: <a:pos x="T46" y="T47"/>
+2120: <a:cxn ang="T82">
+2121: <a:pos x="T48" y="T49"/>
+2122: <a:cxn ang="T83">
+2123: <a:pos x="T50" y="T51"/>
+2124: <a:cxn ang="T84">
+2125: <a:pos x="T52" y="T53"/>
+2126: <a:cxn ang="T85">
+2127: <a:pos x="T54" y="T55"/>
+2128: <a:cxn ang="T86">
+2129: <a:pos x="T56" y="T57"/>
+2130: <a:rect l="T87" t="T88" r="T89" b="T90"/>
+2131: <a:pathLst>
+2132: <a:path w="288" h="288">
+2133: <a:moveTo>
+2134: <a:pt x="144" y="0"/>
+2135: <a:cubicBezTo>
+2136: <a:pt x="64" y="0"/>
+2137: <a:pt x="0" y="65"/>
+2138: <a:pt x="0" y="144"/>
+2139: <a:cubicBezTo>
+2140: <a:pt x="0" y="224"/>
+2141: <a:pt x="64" y="288"/>
+2142: <a:pt x="144" y="288"/>
+2143: <a:cubicBezTo>
+2144: <a:pt x="224" y="288"/>
+2145: <a:pt x="288" y="224"/>
+2146: <a:pt x="288" y="144"/>
+2147: <a:cubicBezTo>
+2148: <a:pt x="288" y="65"/>
+2149: <a:pt x="224" y="0"/>
+2150: <a:pt x="144" y="0"/>
+2151: <a:close/>
+2152: <a:moveTo>
+2153: <a:pt x="63" y="189"/>
+2154: <a:cubicBezTo>
+2155: <a:pt x="71" y="183"/>
+2156: <a:pt x="75" y="177"/>
+2157: <a:pt x="77" y="172"/>
+2158: <a:cubicBezTo>
+2159: <a:pt x="66" y="169"/>
+2160: <a:pt x="58" y="159"/>
+2161: <a:pt x="58" y="147"/>
+2162: <a:cubicBezTo>
+2163: <a:pt x="58" y="99"/>
+2164: <a:pt x="58" y="99"/>
+2165: <a:pt x="58" y="99"/>
+2166: <a:cubicBezTo>
+2167: <a:pt x="58" y="84"/>
+2168: <a:pt x="69" y="73"/>
+2169: <a:pt x="83" y="73"/>
+2170: <a:cubicBezTo>
+2171: <a:pt x="170" y="73"/>
+2172: <a:pt x="170" y="73"/>
+2173: <a:pt x="170" y="73"/>
+2174: <a:cubicBezTo>
+2175: <a:pt x="184" y="73"/>
+2176: <a:pt x="195" y="84"/>
+2177: <a:pt x="195" y="99"/>
+2178: <a:cubicBezTo>
+2179: <a:pt x="195" y="147"/>
+2180: <a:pt x="195" y="147"/>
+2181: <a:pt x="195" y="147"/>
+2182: <a:cubicBezTo>
+2183: <a:pt x="195" y="161"/>
+2184: <a:pt x="184" y="173"/>
+2185: <a:pt x="170" y="173"/>
+2186: <a:cubicBezTo>
+2187: <a:pt x="109" y="173"/>
+2188: <a:pt x="109" y="173"/>
+2189: <a:pt x="109" y="173"/>
+2190: <a:cubicBezTo>
+2191: <a:pt x="94" y="188"/>
+2192: <a:pt x="78" y="192"/>
+2193: <a:pt x="70" y="192"/>
+2194: <a:cubicBezTo>
+2195: <a:pt x="64" y="192"/>
+2196: <a:pt x="61" y="190"/>
+2197: <a:pt x="63" y="189"/>
+2198: <a:close/>
+2199: <a:moveTo>
+2200: <a:pt x="229" y="173"/>
+2201: <a:cubicBezTo>
+2202: <a:pt x="229" y="185"/>
+2203: <a:pt x="221" y="195"/>
+2204: <a:pt x="211" y="197"/>
+2205: <a:cubicBezTo>
+2206: <a:pt x="212" y="203"/>
+2207: <a:pt x="216" y="208"/>
+2208: <a:pt x="224" y="214"/>
+2209: <a:cubicBezTo>
+2210: <a:pt x="229" y="218"/>
+2211: <a:pt x="203" y="223"/>
+2212: <a:pt x="179" y="198"/>
+2213: <a:cubicBezTo>
+2214: <a:pt x="118" y="198"/>
+2215: <a:pt x="118" y="198"/>
+2216: <a:pt x="118" y="198"/>
+2217: <a:cubicBezTo>
+2218: <a:pt x="112" y="198"/>
+2219: <a:pt x="106" y="196"/>
+2220: <a:pt x="102" y="193"/>
+2221: <a:cubicBezTo>
+2222: <a:pt x="106" y="190"/>
+2223: <a:pt x="109" y="188"/>
+2224: <a:pt x="113" y="184"/>
+2225: <a:cubicBezTo>
+2226: <a:pt x="170" y="184"/>
+2227: <a:pt x="170" y="184"/>
+2228: <a:pt x="170" y="184"/>
+2229: <a:cubicBezTo>
+2230: <a:pt x="190" y="184"/>
+2231: <a:pt x="207" y="167"/>
+2232: <a:pt x="207" y="147"/>
+2233: <a:cubicBezTo>
+2234: <a:pt x="207" y="99"/>
+2235: <a:pt x="207" y="99"/>
+2236: <a:pt x="207" y="99"/>
+2237: <a:cubicBezTo>
+2238: <a:pt x="219" y="100"/>
+2239: <a:pt x="229" y="111"/>
+2240: <a:pt x="229" y="124"/>
+2241: <a:lnTo>
+2242: <a:pt x="229" y="173"/>
+2243: <a:close/>
+2244: <a:solidFill>
+2245: <a:srgbClr val="FD6D5C"/>
+2246: <a:ln>
+2247: <a:noFill/>
+2248: <a:extLst>
+2249: <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+2250: <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="9525">
+2251: <a:solidFill>
+2252: <a:srgbClr val="000000"/>
+2253: <a:round/>
+2254: <p:txBody>
+2255: <a:bodyPr/>
+2256: <a:lstStyle/>
+2257: <a:p>
+2258: <a:pPr defTabSz="685800" eaLnBrk="0" fontAlgn="base" hangingPunct="0">
+2259: <a:spcBef>
+2260: <a:spcPct val="0"/>
+2261: <a:spcAft>
+2262: <a:spcPct val="0"/>
+2263: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+2264: <a:solidFill>
+2265: <a:prstClr val="black"/>
+2266: <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+2267: <a:ea typeface="宋体" panose="02010600030101010101" pitchFamily="2" charset="-122"/>
+2268: <p:grpSp>
+2269: <p:nvGrpSpPr>
+2270: <p:cNvPr id="10" name="组合 6"/>
+2271: <p:cNvGrpSpPr/>
+2272: <p:nvPr/>
+2273: <p:grpSpPr bwMode="auto">
+2274: <a:xfrm>
+2275: <a:off x="5932885" y="1694260"/>
+2276: <a:ext cx="670322" cy="670322"/>
+2277: <a:chOff x="7910629" y="2259087"/>
+2278: <a:chExt cx="893782" cy="893782"/>
+2279: <p:sp>
+2280: <p:nvSpPr>
+2281: <p:cNvPr id="89" name="椭圆 88"/>
+2282: <p:cNvSpPr/>
+2283: <p:nvPr/>
+2284: <p:spPr>
+2285: <a:xfrm>
+2286: <a:off x="7910629" y="2259087"/>
+2287: <a:ext cx="893782" cy="893782"/>
+2288: <a:prstGeom prst="ellipse">
+2289: <a:avLst/>
+2290: <a:pattFill prst="wdUpDiag">
+2291: <a:fgClr>
+2292: <a:srgbClr val="8DBF67"/>
+2293: <a:bgClr>
+2294: <a:schemeClr val="bg1"/>
+2295: <a:ln>
+2296: <a:noFill/>
+2297: <p:style>
+2298: <a:lnRef idx="2">
+2299: <a:schemeClr val="accent1">
+2300: <a:shade val="50000"/>
+2301: <a:fillRef idx="1">
+2302: <a:schemeClr val="accent1"/>
+2303: <a:effectRef idx="0">
+2304: <a:schemeClr val="accent1"/>
+2305: <a:fontRef idx="minor">
+2306: <a:schemeClr val="lt1"/>
+2307: <p:txBody>
+2308: <a:bodyPr anchor="ctr"/>
+2309: <a:lstStyle/>
+2310: <a:p>
+2311: <a:pPr algn="ctr" defTabSz="685800">
+2312: <a:defRPr/>
+2313: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+2314: <a:solidFill>
+2315: <a:prstClr val="white"/>
+2316: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+2317: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2318: <p:sp>
+2319: <p:nvSpPr>
+2320: <p:cNvPr id="61467" name="Freeform 723"/>
+2321: <p:cNvSpPr>
+2322: <a:spLocks noEditPoints="1"/>
+2323: <p:nvPr/>
+2324: <p:spPr bwMode="auto">
+2325: <a:xfrm>
+2326: <a:off x="7979208" y="2327673"/>
+2327: <a:ext cx="763200" cy="763200"/>
+2328: <a:custGeom>
+2329: <a:avLst/>
+2330: <a:gdLst>
+2331: <a:gd name="T0" fmla="*/ 2147483646 w 288"/>
+2332: <a:gd name="T1" fmla="*/ 0 h 288"/>
+2333: <a:gd name="T2" fmla="*/ 0 w 288"/>
+2334: <a:gd name="T3" fmla="*/ 2147483646 h 288"/>
+2335: <a:gd name="T4" fmla="*/ 2147483646 w 288"/>
+2336: <a:gd name="T5" fmla="*/ 2147483646 h 288"/>
+2337: <a:gd name="T6" fmla="*/ 2147483646 w 288"/>
+2338: <a:gd name="T7" fmla="*/ 2147483646 h 288"/>
+2339: <a:gd name="T8" fmla="*/ 2147483646 w 288"/>
+2340: <a:gd name="T9" fmla="*/ 0 h 288"/>
+2341: <a:gd name="T10" fmla="*/ 2147483646 w 288"/>
+2342: <a:gd name="T11" fmla="*/ 2147483646 h 288"/>
+2343: <a:gd name="T12" fmla="*/ 2147483646 w 288"/>
+2344: <a:gd name="T13" fmla="*/ 2147483646 h 288"/>
+2345: <a:gd name="T14" fmla="*/ 2147483646 w 288"/>
+2346: <a:gd name="T15" fmla="*/ 2147483646 h 288"/>
+2347: <a:gd name="T16" fmla="*/ 2147483646 w 288"/>
+2348: <a:gd name="T17" fmla="*/ 2147483646 h 288"/>
+2349: <a:gd name="T18" fmla="*/ 2147483646 w 288"/>
+2350: <a:gd name="T19" fmla="*/ 2147483646 h 288"/>
+2351: <a:gd name="T20" fmla="*/ 2147483646 w 288"/>
+2352: <a:gd name="T21" fmla="*/ 2147483646 h 288"/>
+2353: <a:gd name="T22" fmla="*/ 2147483646 w 288"/>
+2354: <a:gd name="T23" fmla="*/ 2147483646 h 288"/>
+2355: <a:gd name="T24" fmla="*/ 2147483646 w 288"/>
+2356: <a:gd name="T25" fmla="*/ 2147483646 h 288"/>
+2357: <a:gd name="T26" fmla="*/ 2147483646 w 288"/>
+2358: <a:gd name="T27" fmla="*/ 2147483646 h 288"/>
+2359: <a:gd name="T28" fmla="*/ 2147483646 w 288"/>
+2360: <a:gd name="T29" fmla="*/ 2147483646 h 288"/>
+2361: <a:gd name="T30" fmla="*/ 2147483646 w 288"/>
+2362: <a:gd name="T31" fmla="*/ 2147483646 h 288"/>
+2363: <a:gd name="T32" fmla="*/ 2147483646 w 288"/>
+2364: <a:gd name="T33" fmla="*/ 2147483646 h 288"/>
+2365: <a:gd name="T34" fmla="*/ 2147483646 w 288"/>
+2366: <a:gd name="T35" fmla="*/ 2147483646 h 288"/>
+2367: <a:gd name="T36" fmla="*/ 0 60000 65536"/>
+2368: <a:gd name="T37" fmla="*/ 0 60000 65536"/>
+2369: <a:gd name="T38" fmla="*/ 0 60000 65536"/>
+2370: <a:gd name="T39" fmla="*/ 0 60000 65536"/>
+2371: <a:gd name="T40" fmla="*/ 0 60000 65536"/>
+2372: <a:gd name="T41" fmla="*/ 0 60000 65536"/>
+2373: <a:gd name="T42" fmla="*/ 0 60000 65536"/>
+2374: <a:gd name="T43" fmla="*/ 0 60000 65536"/>
+2375: <a:gd name="T44" fmla="*/ 0 60000 65536"/>
+2376: <a:gd name="T45" fmla="*/ 0 60000 65536"/>
+2377: <a:gd name="T46" fmla="*/ 0 60000 65536"/>
+2378: <a:gd name="T47" fmla="*/ 0 60000 65536"/>
+2379: <a:gd name="T48" fmla="*/ 0 60000 65536"/>
+2380: <a:gd name="T49" fmla="*/ 0 60000 65536"/>
+2381: <a:gd name="T50" fmla="*/ 0 60000 65536"/>
+2382: <a:gd name="T51" fmla="*/ 0 60000 65536"/>
+2383: <a:gd name="T52" fmla="*/ 0 60000 65536"/>
+2384: <a:gd name="T53" fmla="*/ 0 60000 65536"/>
+2385: <a:gd name="T54" fmla="*/ 0 w 288"/>
+2386: <a:gd name="T55" fmla="*/ 0 h 288"/>
+2387: <a:gd name="T56" fmla="*/ 288 w 288"/>
+2388: <a:gd name="T57" fmla="*/ 288 h 288"/>
+2389: <a:ahLst/>
+2390: <a:cxnLst>
+2391: <a:cxn ang="T36">
+2392: <a:pos x="T0" y="T1"/>
+2393: <a:cxn ang="T37">
+2394: <a:pos x="T2" y="T3"/>
+2395: <a:cxn ang="T38">
+2396: <a:pos x="T4" y="T5"/>
+2397: <a:cxn ang="T39">
+2398: <a:pos x="T6" y="T7"/>
+2399: <a:cxn ang="T40">
+2400: <a:pos x="T8" y="T9"/>
+2401: <a:cxn ang="T41">
+2402: <a:pos x="T10" y="T11"/>
+2403: <a:cxn ang="T42">
+2404: <a:pos x="T12" y="T13"/>
+2405: <a:cxn ang="T43">
+2406: <a:pos x="T14" y="T15"/>
+2407: <a:cxn ang="T44">
+2408: <a:pos x="T16" y="T17"/>
+2409: <a:cxn ang="T45">
+2410: <a:pos x="T18" y="T19"/>
+2411: <a:cxn ang="T46">
+2412: <a:pos x="T20" y="T21"/>
+2413: <a:cxn ang="T47">
+2414: <a:pos x="T22" y="T23"/>
+2415: <a:cxn ang="T48">
+2416: <a:pos x="T24" y="T25"/>
+2417: <a:cxn ang="T49">
+2418: <a:pos x="T26" y="T27"/>
+2419: <a:cxn ang="T50">
+2420: <a:pos x="T28" y="T29"/>
+2421: <a:cxn ang="T51">
+2422: <a:pos x="T30" y="T31"/>
+2423: <a:cxn ang="T52">
+2424: <a:pos x="T32" y="T33"/>
+2425: <a:cxn ang="T53">
+2426: <a:pos x="T34" y="T35"/>
+2427: <a:rect l="T54" t="T55" r="T56" b="T57"/>
+2428: <a:pathLst>
+2429: <a:path w="288" h="288">
+2430: <a:moveTo>
+2431: <a:pt x="144" y="0"/>
+2432: <a:cubicBezTo>
+2433: <a:pt x="64" y="0"/>
+2434: <a:pt x="0" y="65"/>
+2435: <a:pt x="0" y="144"/>
+2436: <a:cubicBezTo>
+2437: <a:pt x="0" y="224"/>
+2438: <a:pt x="64" y="288"/>
+2439: <a:pt x="144" y="288"/>
+2440: <a:cubicBezTo>
+2441: <a:pt x="224" y="288"/>
+2442: <a:pt x="288" y="224"/>
+2443: <a:pt x="288" y="144"/>
+2444: <a:cubicBezTo>
+2445: <a:pt x="288" y="65"/>
+2446: <a:pt x="224" y="0"/>
+2447: <a:pt x="144" y="0"/>
+2448: <a:close/>
+2449: <a:moveTo>
+2450: <a:pt x="229" y="168"/>
+2451: <a:cubicBezTo>
+2452: <a:pt x="169" y="227"/>
+2453: <a:pt x="169" y="227"/>
+2454: <a:pt x="169" y="227"/>
+2455: <a:cubicBezTo>
+2456: <a:pt x="167" y="229"/>
+2457: <a:pt x="164" y="229"/>
+2458: <a:pt x="162" y="227"/>
+2459: <a:cubicBezTo>
+2460: <a:pt x="80" y="145"/>
+2461: <a:pt x="80" y="145"/>
+2462: <a:pt x="80" y="145"/>
+2463: <a:cubicBezTo>
+2464: <a:pt x="78" y="143"/>
+2465: <a:pt x="77" y="140"/>
+2466: <a:pt x="76" y="137"/>
+2467: <a:cubicBezTo>
+2468: <a:pt x="72" y="92"/>
+2469: <a:pt x="72" y="92"/>
+2470: <a:pt x="72" y="92"/>
+2471: <a:cubicBezTo>
+2472: <a:pt x="72" y="90"/>
+2473: <a:pt x="74" y="86"/>
+2474: <a:pt x="75" y="84"/>
+2475: <a:cubicBezTo>
+2476: <a:pt x="86" y="74"/>
+2477: <a:pt x="86" y="74"/>
+2478: <a:pt x="86" y="74"/>
+2479: <a:cubicBezTo>
+2480: <a:pt x="88" y="72"/>
+2481: <a:pt x="91" y="70"/>
+2482: <a:pt x="94" y="71"/>
+2483: <a:cubicBezTo>
+2484: <a:pt x="138" y="75"/>
+2485: <a:pt x="138" y="75"/>
+2486: <a:pt x="138" y="75"/>
+2487: <a:cubicBezTo>
+2488: <a:pt x="141" y="75"/>
+2489: <a:pt x="145" y="77"/>
+2490: <a:pt x="147" y="79"/>
+2491: <a:cubicBezTo>
+2492: <a:pt x="229" y="160"/>
+2493: <a:pt x="229" y="160"/>
+2494: <a:pt x="229" y="160"/>
+2495: <a:cubicBezTo>
+2496: <a:pt x="231" y="162"/>
+2497: <a:pt x="231" y="166"/>
+2498: <a:pt x="229" y="168"/>
+2499: <a:close/>
+2500: <a:solidFill>
+2501: <a:srgbClr val="8DBF67"/>
+2502: <a:ln>
+2503: <a:noFill/>
+2504: <a:extLst>
+2505: <a:ext uri="{91240B29-F687-4F45-9708-019B960494DF}">
+2506: <a14:hiddenLine xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" w="9525">
+2507: <a:solidFill>
+2508: <a:srgbClr val="000000"/>
+2509: <a:round/>
+2510: <p:txBody>
+2511: <a:bodyPr/>
+2512: <a:lstStyle/>
+2513: <a:p>
+2514: <a:pPr defTabSz="685800" eaLnBrk="0" fontAlgn="base" hangingPunct="0">
+2515: <a:spcBef>
+2516: <a:spcPct val="0"/>
+2517: <a:spcAft>
+2518: <a:spcPct val="0"/>
+2519: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+2520: <a:solidFill>
+2521: <a:prstClr val="black"/>
+2522: <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+2523: <a:ea typeface="宋体" panose="02010600030101010101" pitchFamily="2" charset="-122"/>
+2524: <p:sp>
+2525: <p:nvSpPr>
+2526: <p:cNvPr id="35" name="矩形 34"/>
+2527: <p:cNvSpPr/>
+2528: <p:nvPr/>
+2529: <p:spPr>
+2530: <a:xfrm>
+2531: <a:off x="6654404" y="1706167"/>
+2532: <a:ext cx="1969294" cy="406400"/>
+2533: <a:prstGeom prst="rect">
+2534: <a:avLst/>
+2535: <a:noFill/>
+2536: <p:txBody>
+2537: <a:bodyPr>
+2538: <a:spAutoFit/>
+2539: <a:lstStyle/>
+2540: <a:p>
+2541: <a:pPr defTabSz="685800">
+2542: <a:lnSpc>
+2543: <a:spcPct val="130000"/>
+2544: <a:defRPr/>
+2545: <a:r>
+2546: <a:rPr lang="zh-CN" altLang="en-US" sz="790">
+2547: <a:solidFill>
+2548: <a:srgbClr val="E5DEDB">
+2549: <a:lumMod val="25000"/>
+2550: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2551: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2552: <a:t>
+2553: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="790">
+2554: <a:solidFill>
+2555: <a:srgbClr val="E5DEDB">
+2556: <a:lumMod val="25000"/>
+2557: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2558: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2559: <p:sp>
+2560: <p:nvSpPr>
+2561: <p:cNvPr id="36" name="矩形 35"/>
+2562: <p:cNvSpPr/>
+2563: <p:nvPr/>
+2564: <p:spPr>
+2565: <a:xfrm>
+2566: <a:off x="6873479" y="2719388"/>
+2567: <a:ext cx="1969294" cy="406400"/>
+2568: <a:prstGeom prst="rect">
+2569: <a:avLst/>
+2570: <a:noFill/>
+2571: <p:txBody>
+2572: <a:bodyPr>
+2573: <a:spAutoFit/>
+2574: <a:lstStyle/>
+2575: <a:p>
+2576: <a:pPr defTabSz="685800">
+2577: <a:lnSpc>
+2578: <a:spcPct val="130000"/>
+2579: <a:defRPr/>
+2580: <a:r>
+2581: <a:rPr lang="zh-CN" altLang="en-US" sz="790">
+2582: <a:solidFill>
+2583: <a:srgbClr val="E5DEDB">
+2584: <a:lumMod val="25000"/>
+2585: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2586: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2587: <a:t>
+2588: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="790">
+2589: <a:solidFill>
+2590: <a:srgbClr val="E5DEDB">
+2591: <a:lumMod val="25000"/>
+2592: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2593: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2594: <p:sp>
+2595: <p:nvSpPr>
+2596: <p:cNvPr id="37" name="矩形 36"/>
+2597: <p:cNvSpPr/>
+2598: <p:nvPr/>
+2599: <p:spPr>
+2600: <a:xfrm>
+2601: <a:off x="6603207" y="3842148"/>
+2602: <a:ext cx="1969294" cy="406400"/>
+2603: <a:prstGeom prst="rect">
+2604: <a:avLst/>
+2605: <a:noFill/>
+2606: <p:txBody>
+2607: <a:bodyPr>
+2608: <a:spAutoFit/>
+2609: <a:lstStyle/>
+2610: <a:p>
+2611: <a:pPr defTabSz="685800">
+2612: <a:lnSpc>
+2613: <a:spcPct val="130000"/>
+2614: <a:defRPr/>
+2615: <a:r>
+2616: <a:rPr lang="zh-CN" altLang="en-US" sz="790">
+2617: <a:solidFill>
+2618: <a:srgbClr val="E5DEDB">
+2619: <a:lumMod val="25000"/>
+2620: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2621: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2622: <a:t>
+2623: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="790">
+2624: <a:solidFill>
+2625: <a:srgbClr val="E5DEDB">
+2626: <a:lumMod val="25000"/>
+2627: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2628: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+2629: <p:grpSp>
+2630: <p:nvGrpSpPr>
+2631: <p:cNvPr id="11" name="组合 37"/>
+2632: <p:cNvGrpSpPr/>
+2633: <p:nvPr/>
+2634: <p:grpSpPr bwMode="auto">
+2635: <a:xfrm>
+2636: <a:off x="3662362" y="2805110"/>
+2637: <a:ext cx="1720454" cy="446947"/>
+2638: <a:chOff x="5158599" y="3146136"/>
+2639: <a:chExt cx="2294737" cy="595904"/>
+2640: <p:sp>
+2641: <p:nvSpPr>
+2642: <p:cNvPr id="39" name="文本框 38"/>
+2643: <p:cNvSpPr txBox="1"/>
+2644: <p:nvPr/>
+2645: <p:spPr>
+2646: <a:xfrm>
+2647: <a:off x="5158599" y="3146136"/>
+2648: <a:ext cx="2294737" cy="430868"/>
+2649: <a:prstGeom prst="rect">
+2650: <a:avLst/>
+2651: <p:txBody>
+2652: <a:bodyPr>
+2653: <a:spAutoFit/>
+2654: <a:lstStyle>
+2655: <a:defPPr>
+2656: <a:defRPr lang="zh-CN"/>
+2657: <a:lvl1pPr>
+2658: <a:defRPr sz="2400">
+2659: <a:solidFill>
+2660: <a:schemeClr val="bg2">
+2661: <a:lumMod val="25000"/>
+2662: <a:alpha val="85000"/>
+2663: <a:latin typeface="+mn-ea"/>
+2664: <a:p>
+2665: <a:pPr algn="ctr" defTabSz="685800">
+2666: <a:defRPr/>
+2667: <a:r>
+2668: <a:rPr lang="zh-CN" altLang="en-US" sz="1500">
+2669: <a:solidFill>
+2670: <a:srgbClr val="E5DEDB">
+2671: <a:lumMod val="25000"/>
+2672: <a:alpha val="85000"/>
+2673: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2674: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2675: <a:t>
+2676: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1500">
+2677: <a:solidFill>
+2678: <a:srgbClr val="E5DEDB">
+2679: <a:lumMod val="25000"/>
+2680: <a:alpha val="85000"/>
+2681: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2682: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2683: <p:sp>
+2684: <p:nvSpPr>
+2685: <p:cNvPr id="40" name="矩形 39"/>
+2686: <p:cNvSpPr/>
+2687: <p:nvPr/>
+2688: <p:spPr>
+2689: <a:xfrm>
+2690: <a:off x="5158599" y="3457272"/>
+2691: <a:ext cx="2210570" cy="284768"/>
+2692: <a:prstGeom prst="rect">
+2693: <a:avLst/>
+2694: <p:txBody>
+2695: <a:bodyPr>
+2696: <a:spAutoFit/>
+2697: <a:lstStyle/>
+2698: <a:p>
+2699: <a:pPr algn="ctr" defTabSz="685800">
+2700: <a:defRPr/>
+2701: <a:r>
+2702: <a:rPr lang="en-US" altLang="zh-CN" sz="790">
+2703: <a:solidFill>
+2704: <a:prstClr val="white">
+2705: <a:lumMod val="50000"/>
+2706: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2707: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2708: <a:t>
+2709: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="790">
+2710: <a:solidFill>
+2711: <a:prstClr val="white">
+2712: <a:lumMod val="50000"/>
+2713: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2714: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2715: <p:sp>
+2716: <p:nvSpPr>
+2717: <p:cNvPr id="47" name="矩形 46"/>
+2718: <p:cNvSpPr/>
+2719: <p:nvPr/>
+2720: <p:spPr>
+2721: <a:xfrm flipH="1">
+2722: <a:off x="0" y="359398"/>
+2723: <a:ext cx="251222" cy="597694"/>
+2724: <a:prstGeom prst="rect">
+2725: <a:avLst/>
+2726: <a:solidFill>
+2727: <a:srgbClr val="66BFBC"/>
+2728: <a:ln>
+2729: <a:noFill/>
+2730: <p:style>
+2731: <a:lnRef idx="2">
+2732: <a:schemeClr val="accent1">
+2733: <a:shade val="50000"/>
+2734: <a:fillRef idx="1">
+2735: <a:schemeClr val="accent1"/>
+2736: <a:effectRef idx="0">
+2737: <a:schemeClr val="accent1"/>
+2738: <a:fontRef idx="minor">
+2739: <a:schemeClr val="lt1"/>
+2740: <p:txBody>
+2741: <a:bodyPr anchor="ctr"/>
+2742: <a:lstStyle/>
+2743: <a:p>
+2744: <a:pPr algn="ctr" defTabSz="685800">
+2745: <a:defRPr/>
+2746: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+2747: <a:solidFill>
+2748: <a:prstClr val="white"/>
+2749: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+2750: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2751: <p:sp>
+2752: <p:nvSpPr>
+2753: <p:cNvPr id="48" name="矩形 47"/>
+2754: <p:cNvSpPr/>
+2755: <p:nvPr/>
+2756: <p:spPr>
+2757: <a:xfrm flipH="1">
+2758: <a:off x="357188" y="359398"/>
+2759: <a:ext cx="113109" cy="597694"/>
+2760: <a:prstGeom prst="rect">
+2761: <a:avLst/>
+2762: <a:solidFill>
+2763: <a:srgbClr val="8CC066"/>
+2764: <a:ln>
+2765: <a:noFill/>
+2766: <p:style>
+2767: <a:lnRef idx="2">
+2768: <a:schemeClr val="accent1">
+2769: <a:shade val="50000"/>
+2770: <a:fillRef idx="1">
+2771: <a:schemeClr val="accent1"/>
+2772: <a:effectRef idx="0">
+2773: <a:schemeClr val="accent1"/>
+2774: <a:fontRef idx="minor">
+2775: <a:schemeClr val="lt1"/>
+2776: <p:txBody>
+2777: <a:bodyPr anchor="ctr"/>
+2778: <a:lstStyle/>
+2779: <a:p>
+2780: <a:pPr algn="ctr" defTabSz="685800">
+2781: <a:defRPr/>
+2782: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+2783: <a:solidFill>
+2784: <a:prstClr val="white"/>
+2785: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+2786: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2787: <p:sp>
+2788: <p:nvSpPr>
+2789: <p:cNvPr id="49" name="矩形 48"/>
+2790: <p:cNvSpPr/>
+2791: <p:nvPr/>
+2792: <p:spPr>
+2793: <a:xfrm flipH="1">
+2794: <a:off x="576263" y="359398"/>
+2795: <a:ext cx="70247" cy="597694"/>
+2796: <a:prstGeom prst="rect">
+2797: <a:avLst/>
+2798: <a:solidFill>
+2799: <a:srgbClr val="FBC75D"/>
+2800: <a:ln>
+2801: <a:noFill/>
+2802: <p:style>
+2803: <a:lnRef idx="2">
+2804: <a:schemeClr val="accent1">
+2805: <a:shade val="50000"/>
+2806: <a:fillRef idx="1">
+2807: <a:schemeClr val="accent1"/>
+2808: <a:effectRef idx="0">
+2809: <a:schemeClr val="accent1"/>
+2810: <a:fontRef idx="minor">
+2811: <a:schemeClr val="lt1"/>
+2812: <p:txBody>
+2813: <a:bodyPr anchor="ctr"/>
+2814: <a:lstStyle/>
+2815: <a:p>
+2816: <a:pPr algn="ctr" defTabSz="685800">
+2817: <a:defRPr/>
+2818: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+2819: <a:solidFill>
+2820: <a:prstClr val="white"/>
+2821: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+2822: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2823: <p:sp>
+2824: <p:nvSpPr>
+2825: <p:cNvPr id="53" name="矩形 52"/>
+2826: <p:cNvSpPr/>
+2827: <p:nvPr/>
+2828: <p:spPr>
+2829: <a:xfrm flipH="1">
+2830: <a:off x="752476" y="359398"/>
+2831: <a:ext cx="39290" cy="597694"/>
+2832: <a:prstGeom prst="rect">
+2833: <a:avLst/>
+2834: <a:solidFill>
+2835: <a:srgbClr val="FC6E5B"/>
+2836: <a:ln>
+2837: <a:noFill/>
+2838: <p:style>
+2839: <a:lnRef idx="2">
+2840: <a:schemeClr val="accent1">
+2841: <a:shade val="50000"/>
+2842: <a:fillRef idx="1">
+2843: <a:schemeClr val="accent1"/>
+2844: <a:effectRef idx="0">
+2845: <a:schemeClr val="accent1"/>
+2846: <a:fontRef idx="minor">
+2847: <a:schemeClr val="lt1"/>
+2848: <p:txBody>
+2849: <a:bodyPr anchor="ctr"/>
+2850: <a:lstStyle/>
+2851: <a:p>
+2852: <a:pPr algn="ctr" defTabSz="685800">
+2853: <a:defRPr/>
+2854: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1350">
+2855: <a:solidFill>
+2856: <a:prstClr val="white"/>
+2857: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+2858: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2859: <p:grpSp>
+2860: <p:nvGrpSpPr>
+2861: <p:cNvPr id="56" name="组合 9"/>
+2862: <p:cNvGrpSpPr/>
+2863: <p:nvPr/>
+2864: <p:grpSpPr bwMode="auto">
+2865: <a:xfrm>
+2866: <a:off x="813586" y="287917"/>
+2867: <a:ext cx="2897204" cy="654426"/>
+2868: <a:chOff x="1051541" y="624028"/>
+2869: <a:chExt cx="3862374" cy="872759"/>
+2870: <p:sp>
+2871: <p:nvSpPr>
+2872: <p:cNvPr id="57" name="文本框 56"/>
+2873: <p:cNvSpPr txBox="1"/>
+2874: <p:nvPr/>
+2875: <p:spPr>
+2876: <a:xfrm>
+2877: <a:off x="1051541" y="624028"/>
+2878: <a:ext cx="3862374" cy="615688"/>
+2879: <a:prstGeom prst="rect">
+2880: <a:avLst/>
+2881: <p:txBody>
+2882: <a:bodyPr wrap="square">
+2883: <a:spAutoFit/>
+2884: <a:lstStyle>
+2885: <a:defPPr>
+2886: <a:defRPr lang="zh-CN"/>
+2887: <a:lvl1pPr>
+2888: <a:defRPr sz="2400">
+2889: <a:solidFill>
+2890: <a:schemeClr val="bg2">
+2891: <a:lumMod val="25000"/>
+2892: <a:alpha val="85000"/>
+2893: <a:latin typeface="+mn-ea"/>
+2894: <a:p>
+2895: <a:pPr defTabSz="685800">
+2896: <a:defRPr/>
+2897: <a:r>
+2898: <a:rPr lang="zh-CN" altLang="en-US" dirty="0">
+2899: <a:solidFill>
+2900: <a:srgbClr val="E5DEDB">
+2901: <a:lumMod val="10000"/>
+2902: <a:alpha val="85000"/>
+2903: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2904: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2905: <a:t>
+2906: <a:endParaRPr lang="zh-CN" altLang="en-US" dirty="0">
+2907: <a:solidFill>
+2908: <a:srgbClr val="E5DEDB">
+2909: <a:lumMod val="10000"/>
+2910: <a:alpha val="85000"/>
+2911: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2912: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2913: <p:sp>
+2914: <p:nvSpPr>
+2915: <p:cNvPr id="58" name="矩形 57"/>
+2916: <p:cNvSpPr/>
+2917: <p:nvPr/>
+2918: <p:spPr>
+2919: <a:xfrm>
+2920: <a:off x="1051541" y="1127374"/>
+2921: <a:ext cx="3390404" cy="369413"/>
+2922: <a:prstGeom prst="rect">
+2923: <a:avLst/>
+2924: <p:txBody>
+2925: <a:bodyPr>
+2926: <a:spAutoFit/>
+2927: <a:lstStyle/>
+2928: <a:p>
+2929: <a:pPr algn="dist" defTabSz="685800">
+2930: <a:defRPr/>
+2931: <a:r>
+2932: <a:rPr lang="en-US" altLang="zh-CN" sz="1200">
+2933: <a:solidFill>
+2934: <a:srgbClr val="E5DEDB">
+2935: <a:lumMod val="10000"/>
+2936: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2937: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2938: <a:t>
+2939: <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1200">
+2940: <a:solidFill>
+2941: <a:srgbClr val="E5DEDB">
+2942: <a:lumMod val="10000"/>
+2943: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2944: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+2945: <p:clrMapOvr>
+2946: <a:masterClrMapping/>
+2947: <p:transition spd="slow" advTm="0">
+2948: <p:circle/>
+2949: <p:timing>
+2950: <p:tnLst>
+2951: <p:par>
+2952: <p:cTn id="1" dur="indefinite" restart="never" nodeType="tmRoot">
+2953: <p:childTnLst>
+2954: <p:seq concurrent="1" nextAc="seek">
+2955: <p:cTn id="2" dur="indefinite" nodeType="mainSeq">
+2956: <p:childTnLst>
+2957: <p:par>
+2958: <p:cTn id="3" fill="hold">
+2959: <p:stCondLst>
+2960: <p:cond delay="indefinite"/>
+2961: <p:cond evt="onBegin" delay="0">
+2962: <p:tn val="2"/>
+2963: <p:childTnLst>
+2964: <p:par>
+2965: <p:cTn id="4" fill="hold">
+2966: <p:stCondLst>
+2967: <p:cond delay="0"/>
+2968: <p:childTnLst>
+2969: <p:par>
+2970: <p:cTn id="5" presetID="2" presetClass="entr" presetSubtype="8" fill="hold" grpId="0" nodeType="withEffect">
+2971: <p:stCondLst>
+2972: <p:cond delay="0"/>
+2973: <p:iterate type="wd">
+2974: <p:tmPct val="0"/>
+2975: <p:childTnLst>
+2976: <p:set>
+2977: <p:cBhvr>
+2978: <p:cTn id="6" dur="1" fill="hold">
+2979: <p:stCondLst>
+2980: <p:cond delay="0"/>
+2981: <p:tgtEl>
+2982: <p:spTgt spid="47"/>
+2983: <p:attrNameLst>
+2984: <p:attrName>
+2985: <p:to>
+2986: <p:strVal val="visible"/>
+2987: <p:anim calcmode="lin" valueType="num">
+2988: <p:cBhvr additive="base">
+2989: <p:cTn id="7" dur="250" fill="hold"/>
+2990: <p:tgtEl>
+2991: <p:spTgt spid="47"/>
+2992: <p:attrNameLst>
+2993: <p:attrName>
+2994: <p:tavLst>
+2995: <p:tav tm="0">
+2996: <p:val>
+2997: <p:strVal val="0-#ppt_w/2"/>
+2998: <p:tav tm="100000">
+2999: <p:val>
+3000: <p:strVal val="#ppt_x"/>
+3001: <p:anim calcmode="lin" valueType="num">
+3002: <p:cBhvr additive="base">
+3003: <p:cTn id="8" dur="250" fill="hold"/>
+3004: <p:tgtEl>
+3005: <p:spTgt spid="47"/>
+3006: <p:attrNameLst>
+3007: <p:attrName>
+3008: <p:tavLst>
+3009: <p:tav tm="0">
+3010: <p:val>
+3011: <p:strVal val="#ppt_y"/>
+3012: <p:tav tm="100000">
+3013: <p:val>
+3014: <p:strVal val="#ppt_y"/>
+3015: <p:par>
+3016: <p:cTn id="9" fill="hold">
+3017: <p:stCondLst>
+3018: <p:cond delay="0"/>
+3019: <p:childTnLst>
+3020: <p:par>
+3021: <p:cTn id="10" presetID="2" presetClass="entr" presetSubtype="8" fill="hold" grpId="0" nodeType="afterEffect">
+3022: <p:stCondLst>
+3023: <p:cond delay="0"/>
+3024: <p:iterate type="wd">
+3025: <p:tmPct val="0"/>
+3026: <p:childTnLst>
+3027: <p:set>
+3028: <p:cBhvr>
+3029: <p:cTn id="11" dur="1" fill="hold">
+3030: <p:stCondLst>
+3031: <p:cond delay="0"/>
+3032: <p:tgtEl>
+3033: <p:spTgt spid="48"/>
+3034: <p:attrNameLst>
+3035: <p:attrName>
+3036: <p:to>
+3037: <p:strVal val="visible"/>
+3038: <p:anim calcmode="lin" valueType="num">
+3039: <p:cBhvr additive="base">
+3040: <p:cTn id="12" dur="250" fill="hold"/>
+3041: <p:tgtEl>
+3042: <p:spTgt spid="48"/>
+3043: <p:attrNameLst>
+3044: <p:attrName>
+3045: <p:tavLst>
+3046: <p:tav tm="0">
+3047: <p:val>
+3048: <p:strVal val="0-#ppt_w/2"/>
+3049: <p:tav tm="100000">
+3050: <p:val>
+3051: <p:strVal val="#ppt_x"/>
+3052: <p:anim calcmode="lin" valueType="num">
+3053: <p:cBhvr additive="base">
+3054: <p:cTn id="13" dur="250" fill="hold"/>
+3055: <p:tgtEl>
+3056: <p:spTgt spid="48"/>
+3057: <p:attrNameLst>
+3058: <p:attrName>
+3059: <p:tavLst>
+3060: <p:tav tm="0">
+3061: <p:val>
+3062: <p:strVal val="#ppt_y"/>
+3063: <p:tav tm="100000">
+3064: <p:val>
+3065: <p:strVal val="#ppt_y"/>
+3066: <p:par>
+3067: <p:cTn id="14" fill="hold">
+3068: <p:stCondLst>
+3069: <p:cond delay="250"/>
+3070: <p:childTnLst>
+3071: <p:par>
+3072: <p:cTn id="15" presetID="2" presetClass="entr" presetSubtype="8" fill="hold" grpId="0" nodeType="afterEffect">
+3073: <p:stCondLst>
+3074: <p:cond delay="0"/>
+3075: <p:iterate type="wd">
+3076: <p:tmPct val="0"/>
+3077: <p:childTnLst>
+3078: <p:set>
+3079: <p:cBhvr>
+3080: <p:cTn id="16" dur="1" fill="hold">
+3081: <p:stCondLst>
+3082: <p:cond delay="0"/>
+3083: <p:tgtEl>
+3084: <p:spTgt spid="49"/>
+3085: <p:attrNameLst>
+3086: <p:attrName>
+3087: <p:to>
+3088: <p:strVal val="visible"/>
+3089: <p:anim calcmode="lin" valueType="num">
+3090: <p:cBhvr additive="base">
+3091: <p:cTn id="17" dur="250" fill="hold"/>
+3092: <p:tgtEl>
+3093: <p:spTgt spid="49"/>
+3094: <p:attrNameLst>
+3095: <p:attrName>
+3096: <p:tavLst>
+3097: <p:tav tm="0">
+3098: <p:val>
+3099: <p:strVal val="0-#ppt_w/2"/>
+3100: <p:tav tm="100000">
+3101: <p:val>
+3102: <p:strVal val="#ppt_x"/>
+3103: <p:anim calcmode="lin" valueType="num">
+3104: <p:cBhvr additive="base">
+3105: <p:cTn id="18" dur="250" fill="hold"/>
+3106: <p:tgtEl>
+3107: <p:spTgt spid="49"/>
+3108: <p:attrNameLst>
+3109: <p:attrName>
+3110: <p:tavLst>
+3111: <p:tav tm="0">
+3112: <p:val>
+3113: <p:strVal val="#ppt_y"/>
+3114: <p:tav tm="100000">
+3115: <p:val>
+3116: <p:strVal val="#ppt_y"/>
+3117: <p:par>
+3118: <p:cTn id="19" fill="hold">
+3119: <p:stCondLst>
+3120: <p:cond delay="500"/>
+3121: <p:childTnLst>
+3122: <p:par>
+3123: <p:cTn id="20" presetID="2" presetClass="entr" presetSubtype="8" fill="hold" grpId="0" nodeType="afterEffect">
+3124: <p:stCondLst>
+3125: <p:cond delay="0"/>
+3126: <p:iterate type="wd">
+3127: <p:tmPct val="0"/>
+3128: <p:childTnLst>
+3129: <p:set>
+3130: <p:cBhvr>
+3131: <p:cTn id="21" dur="1" fill="hold">
+3132: <p:stCondLst>
+3133: <p:cond delay="0"/>
+3134: <p:tgtEl>
+3135: <p:spTgt spid="53"/>
+3136: <p:attrNameLst>
+3137: <p:attrName>
+3138: <p:to>
+3139: <p:strVal val="visible"/>
+3140: <p:anim calcmode="lin" valueType="num">
+3141: <p:cBhvr additive="base">
+3142: <p:cTn id="22" dur="250" fill="hold"/>
+3143: <p:tgtEl>
+3144: <p:spTgt spid="53"/>
+3145: <p:attrNameLst>
+3146: <p:attrName>
+3147: <p:tavLst>
+3148: <p:tav tm="0">
+3149: <p:val>
+3150: <p:strVal val="0-#ppt_w/2"/>
+3151: <p:tav tm="100000">
+3152: <p:val>
+3153: <p:strVal val="#ppt_x"/>
+3154: <p:anim calcmode="lin" valueType="num">
+3155: <p:cBhvr additive="base">
+3156: <p:cTn id="23" dur="250" fill="hold"/>
+3157: <p:tgtEl>
+3158: <p:spTgt spid="53"/>
+3159: <p:attrNameLst>
+3160: <p:attrName>
+3161: <p:tavLst>
+3162: <p:tav tm="0">
+3163: <p:val>
+3164: <p:strVal val="#ppt_y"/>
+3165: <p:tav tm="100000">
+3166: <p:val>
+3167: <p:strVal val="#ppt_y"/>
+3168: <p:par>
+3169: <p:cTn id="24" fill="hold">
+3170: <p:stCondLst>
+3171: <p:cond delay="750"/>
+3172: <p:childTnLst>
+3173: <p:par>
+3174: <p:cTn id="25" presetID="47" presetClass="entr" presetSubtype="0" fill="hold" nodeType="afterEffect">
+3175: <p:stCondLst>
+3176: <p:cond delay="0"/>
+3177: <p:iterate type="wd">
+3178: <p:tmPct val="0"/>
+3179: <p:childTnLst>
+3180: <p:set>
+3181: <p:cBhvr>
+3182: <p:cTn id="26" dur="1" fill="hold">
+3183: <p:stCondLst>
+3184: <p:cond delay="0"/>
+3185: <p:tgtEl>
+3186: <p:spTgt spid="56"/>
+3187: <p:attrNameLst>
+3188: <p:attrName>
+3189: <p:to>
+3190: <p:strVal val="visible"/>
+3191: <p:animEffect transition="in" filter="fade">
+3192: <p:cBhvr>
+3193: <p:cTn id="27" dur="1000"/>
+3194: <p:tgtEl>
+3195: <p:spTgt spid="56"/>
+3196: <p:anim calcmode="lin" valueType="num">
+3197: <p:cBhvr>
+3198: <p:cTn id="28" dur="1000" fill="hold"/>
+3199: <p:tgtEl>
+3200: <p:spTgt spid="56"/>
+3201: <p:attrNameLst>
+3202: <p:attrName>
+3203: <p:tavLst>
+3204: <p:tav tm="0">
+3205: <p:val>
+3206: <p:strVal val="#ppt_x"/>
+3207: <p:tav tm="100000">
+3208: <p:val>
+3209: <p:strVal val="#ppt_x"/>
+3210: <p:anim calcmode="lin" valueType="num">
+3211: <p:cBhvr>
+3212: <p:cTn id="29" dur="1000" fill="hold"/>
+3213: <p:tgtEl>
+3214: <p:spTgt spid="56"/>
+3215: <p:attrNameLst>
+3216: <p:attrName>
+3217: <p:tavLst>
+3218: <p:tav tm="0">
+3219: <p:val>
+3220: <p:strVal val="#ppt_y-.1"/>
+3221: <p:tav tm="100000">
+3222: <p:val>
+3223: <p:strVal val="#ppt_y"/>
+3224: <p:par>
+3225: <p:cTn id="30" presetID="2" presetClass="entr" presetSubtype="8" fill="hold" nodeType="withEffect">
+3226: <p:stCondLst>
+3227: <p:cond delay="900"/>
+3228: <p:iterate type="wd">
+3229: <p:tmPct val="0"/>
+3230: <p:childTnLst>
+3231: <p:set>
+3232: <p:cBhvr>
+3233: <p:cTn id="31" dur="1" fill="hold">
+3234: <p:stCondLst>
+3235: <p:cond delay="0"/>
+3236: <p:tgtEl>
+3237: <p:spTgt spid="3"/>
+3238: <p:attrNameLst>
+3239: <p:attrName>
+3240: <p:to>
+3241: <p:strVal val="visible"/>
+3242: <p:anim calcmode="lin" valueType="num">
+3243: <p:cBhvr additive="base">
+3244: <p:cTn id="32" dur="750" fill="hold"/>
+3245: <p:tgtEl>
+3246: <p:spTgt spid="3"/>
+3247: <p:attrNameLst>
+3248: <p:attrName>
+3249: <p:tavLst>
+3250: <p:tav tm="0">
+3251: <p:val>
+3252: <p:strVal val="0-#ppt_w/2"/>
+3253: <p:tav tm="100000">
+3254: <p:val>
+3255: <p:strVal val="#ppt_x"/>
+3256: <p:anim calcmode="lin" valueType="num">
+3257: <p:cBhvr additive="base">
+3258: <p:cTn id="33" dur="750" fill="hold"/>
+3259: <p:tgtEl>
+3260: <p:spTgt spid="3"/>
+3261: <p:attrNameLst>
+3262: <p:attrName>
+3263: <p:tavLst>
+3264: <p:tav tm="0">
+3265: <p:val>
+3266: <p:strVal val="#ppt_y"/>
+3267: <p:tav tm="100000">
+3268: <p:val>
+3269: <p:strVal val="#ppt_y"/>
+3270: <p:par>
+3271: <p:cTn id="34" presetID="2" presetClass="entr" presetSubtype="2" fill="hold" nodeType="withEffect">
+3272: <p:stCondLst>
+3273: <p:cond delay="900"/>
+3274: <p:iterate type="wd">
+3275: <p:tmPct val="0"/>
+3276: <p:childTnLst>
+3277: <p:set>
+3278: <p:cBhvr>
+3279: <p:cTn id="35" dur="1" fill="hold">
+3280: <p:stCondLst>
+3281: <p:cond delay="0"/>
+3282: <p:tgtEl>
+3283: <p:spTgt spid="2"/>
+3284: <p:attrNameLst>
+3285: <p:attrName>
+3286: <p:to>
+3287: <p:strVal val="visible"/>
+3288: <p:anim calcmode="lin" valueType="num">
+3289: <p:cBhvr additive="base">
+3290: <p:cTn id="36" dur="750" fill="hold"/>
+3291: <p:tgtEl>
+3292: <p:spTgt spid="2"/>
+3293: <p:attrNameLst>
+3294: <p:attrName>
+3295: <p:tavLst>
+3296: <p:tav tm="0">
+3297: <p:val>
+3298: <p:strVal val="1+#ppt_w/2"/>
+3299: <p:tav tm="100000">
+3300: <p:val>
+3301: <p:strVal val="#ppt_x"/>
+3302: <p:anim calcmode="lin" valueType="num">
+3303: <p:cBhvr additive="base">
+3304: <p:cTn id="37" dur="750" fill="hold"/>
+3305: <p:tgtEl>
+3306: <p:spTgt spid="2"/>
+3307: <p:attrNameLst>
+3308: <p:attrName>
+3309: <p:tavLst>
+3310: <p:tav tm="0">
+3311: <p:val>
+3312: <p:strVal val="#ppt_y"/>
+3313: <p:tav tm="100000">
+3314: <p:val>
+3315: <p:strVal val="#ppt_y"/>
+3316: <p:par>
+3317: <p:cTn id="38" fill="hold">
+3318: <p:stCondLst>
+3319: <p:cond delay="2400"/>
+3320: <p:childTnLst>
+3321: <p:par>
+3322: <p:cTn id="39" presetID="42" presetClass="entr" presetSubtype="0" fill="hold" nodeType="afterEffect">
+3323: <p:stCondLst>
+3324: <p:cond delay="0"/>
+3325: <p:iterate type="wd">
+3326: <p:tmPct val="0"/>
+3327: <p:childTnLst>
+3328: <p:set>
+3329: <p:cBhvr>
+3330: <p:cTn id="40" dur="1" fill="hold">
+3331: <p:stCondLst>
+3332: <p:cond delay="0"/>
+3333: <p:tgtEl>
+3334: <p:spTgt spid="11"/>
+3335: <p:attrNameLst>
+3336: <p:attrName>
+3337: <p:to>
+3338: <p:strVal val="visible"/>
+3339: <p:animEffect transition="in" filter="fade">
+3340: <p:cBhvr>
+3341: <p:cTn id="41" dur="1000"/>
+3342: <p:tgtEl>
+3343: <p:spTgt spid="11"/>
+3344: <p:anim calcmode="lin" valueType="num">
+3345: <p:cBhvr>
+3346: <p:cTn id="42" dur="1000" fill="hold"/>
+3347: <p:tgtEl>
+3348: <p:spTgt spid="11"/>
+3349: <p:attrNameLst>
+3350: <p:attrName>
+3351: <p:tavLst>
+3352: <p:tav tm="0">
+3353: <p:val>
+3354: <p:strVal val="#ppt_x"/>
+3355: <p:tav tm="100000">
+3356: <p:val>
+3357: <p:strVal val="#ppt_x"/>
+3358: <p:anim calcmode="lin" valueType="num">
+3359: <p:cBhvr>
+3360: <p:cTn id="43" dur="1000" fill="hold"/>
+3361: <p:tgtEl>
+3362: <p:spTgt spid="11"/>
+3363: <p:attrNameLst>
+3364: <p:attrName>
+3365: <p:tavLst>
+3366: <p:tav tm="0">
+3367: <p:val>
+3368: <p:strVal val="#ppt_y+.1"/>
+3369: <p:tav tm="100000">
+3370: <p:val>
+3371: <p:strVal val="#ppt_y"/>
+3372: <p:par>
+3373: <p:cTn id="44" presetID="2" presetClass="entr" presetSubtype="8" fill="hold" nodeType="withEffect">
+3374: <p:stCondLst>
+3375: <p:cond delay="1000"/>
+3376: <p:iterate type="wd">
+3377: <p:tmPct val="0"/>
+3378: <p:childTnLst>
+3379: <p:set>
+3380: <p:cBhvr>
+3381: <p:cTn id="45" dur="1" fill="hold">
+3382: <p:stCondLst>
+3383: <p:cond delay="0"/>
+3384: <p:tgtEl>
+3385: <p:spTgt spid="5"/>
+3386: <p:attrNameLst>
+3387: <p:attrName>
+3388: <p:to>
+3389: <p:strVal val="visible"/>
+3390: <p:anim calcmode="lin" valueType="num">
+3391: <p:cBhvr additive="base">
+3392: <p:cTn id="46" dur="1000" fill="hold"/>
+3393: <p:tgtEl>
+3394: <p:spTgt spid="5"/>
+3395: <p:attrNameLst>
+3396: <p:attrName>
+3397: <p:tavLst>
+3398: <p:tav tm="0">
+3399: <p:val>
+3400: <p:strVal val="0-#ppt_w/2"/>
+3401: <p:tav tm="100000">
+3402: <p:val>
+3403: <p:strVal val="#ppt_x"/>
+3404: <p:anim calcmode="lin" valueType="num">
+3405: <p:cBhvr additive="base">
+3406: <p:cTn id="47" dur="1000" fill="hold"/>
+3407: <p:tgtEl>
+3408: <p:spTgt spid="5"/>
+3409: <p:attrNameLst>
+3410: <p:attrName>
+3411: <p:tavLst>
+3412: <p:tav tm="0">
+3413: <p:val>
+3414: <p:strVal val="#ppt_y"/>
+3415: <p:tav tm="100000">
+3416: <p:val>
+3417: <p:strVal val="#ppt_y"/>
+3418: <p:par>
+3419: <p:cTn id="48" presetID="2" presetClass="entr" presetSubtype="2" fill="hold" nodeType="withEffect">
+3420: <p:stCondLst>
+3421: <p:cond delay="1000"/>
+3422: <p:iterate type="wd">
+3423: <p:tmPct val="0"/>
+3424: <p:childTnLst>
+3425: <p:set>
+3426: <p:cBhvr>
+3427: <p:cTn id="49" dur="1" fill="hold">
+3428: <p:stCondLst>
+3429: <p:cond delay="0"/>
+3430: <p:tgtEl>
+3431: <p:spTgt spid="10"/>
+3432: <p:attrNameLst>
+3433: <p:attrName>
+3434: <p:to>
+3435: <p:strVal val="visible"/>
+3436: <p:anim calcmode="lin" valueType="num">
+3437: <p:cBhvr additive="base">
+3438: <p:cTn id="50" dur="1000" fill="hold"/>
+3439: <p:tgtEl>
+3440: <p:spTgt spid="10"/>
+3441: <p:attrNameLst>
+3442: <p:attrName>
+3443: <p:tavLst>
+3444: <p:tav tm="0">
+3445: <p:val>
+3446: <p:strVal val="1+#ppt_w/2"/>
+3447: <p:tav tm="100000">
+3448: <p:val>
+3449: <p:strVal val="#ppt_x"/>
+3450: <p:anim calcmode="lin" valueType="num">
+3451: <p:cBhvr additive="base">
+3452: <p:cTn id="51" dur="1000" fill="hold"/>
+3453: <p:tgtEl>
+3454: <p:spTgt spid="10"/>
+3455: <p:attrNameLst>
+3456: <p:attrName>
+3457: <p:tavLst>
+3458: <p:tav tm="0">
+3459: <p:val>
+3460: <p:strVal val="#ppt_y"/>
+3461: <p:tav tm="100000">
+3462: <p:val>
+3463: <p:strVal val="#ppt_y"/>
+3464: <p:par>
+3465: <p:cTn id="52" presetID="42" presetClass="entr" presetSubtype="0" fill="hold" grpId="0" nodeType="withEffect">
+3466: <p:stCondLst>
+3467: <p:cond delay="2000"/>
+3468: <p:iterate type="wd">
+3469: <p:tmPct val="0"/>
+3470: <p:childTnLst>
+3471: <p:set>
+3472: <p:cBhvr>
+3473: <p:cTn id="53" dur="1" fill="hold">
+3474: <p:stCondLst>
+3475: <p:cond delay="0"/>
+3476: <p:tgtEl>
+3477: <p:spTgt spid="35"/>
+3478: <p:attrNameLst>
+3479: <p:attrName>
+3480: <p:to>
+3481: <p:strVal val="visible"/>
+3482: <p:animEffect transition="in" filter="fade">
+3483: <p:cBhvr>
+3484: <p:cTn id="54" dur="1000"/>
+3485: <p:tgtEl>
+3486: <p:spTgt spid="35"/>
+3487: <p:anim calcmode="lin" valueType="num">
+3488: <p:cBhvr>
+3489: <p:cTn id="55" dur="1000" fill="hold"/>
+3490: <p:tgtEl>
+3491: <p:spTgt spid="35"/>
+3492: <p:attrNameLst>
+3493: <p:attrName>
+3494: <p:tavLst>
+3495: <p:tav tm="0">
+3496: <p:val>
+3497: <p:strVal val="#ppt_x"/>
+3498: <p:tav tm="100000">
+3499: <p:val>
+3500: <p:strVal val="#ppt_x"/>
+3501: <p:anim calcmode="lin" valueType="num">
+3502: <p:cBhvr>
+3503: <p:cTn id="56" dur="1000" fill="hold"/>
+3504: <p:tgtEl>
+3505: <p:spTgt spid="35"/>
+3506: <p:attrNameLst>
+3507: <p:attrName>
+3508: <p:tavLst>
+3509: <p:tav tm="0">
+3510: <p:val>
+3511: <p:strVal val="#ppt_y+.1"/>
+3512: <p:tav tm="100000">
+3513: <p:val>
+3514: <p:strVal val="#ppt_y"/>
+3515: <p:par>
+3516: <p:cTn id="57" presetID="42" presetClass="entr" presetSubtype="0" fill="hold" grpId="0" nodeType="withEffect">
+3517: <p:stCondLst>
+3518: <p:cond delay="2000"/>
+3519: <p:iterate type="wd">
+3520: <p:tmPct val="0"/>
+3521: <p:childTnLst>
+3522: <p:set>
+3523: <p:cBhvr>
+3524: <p:cTn id="58" dur="1" fill="hold">
+3525: <p:stCondLst>
+3526: <p:cond delay="0"/>
+3527: <p:tgtEl>
+3528: <p:spTgt spid="34"/>
+3529: <p:attrNameLst>
+3530: <p:attrName>
+3531: <p:to>
+3532: <p:strVal val="visible"/>
+3533: <p:animEffect transition="in" filter="fade">
+3534: <p:cBhvr>
+3535: <p:cTn id="59" dur="1000"/>
+3536: <p:tgtEl>
+3537: <p:spTgt spid="34"/>
+3538: <p:anim calcmode="lin" valueType="num">
+3539: <p:cBhvr>
+3540: <p:cTn id="60" dur="1000" fill="hold"/>
+3541: <p:tgtEl>
+3542: <p:spTgt spid="34"/>
+3543: <p:attrNameLst>
+3544: <p:attrName>
+3545: <p:tavLst>
+3546: <p:tav tm="0">
+3547: <p:val>
+3548: <p:strVal val="#ppt_x"/>
+3549: <p:tav tm="100000">
+3550: <p:val>
+3551: <p:strVal val="#ppt_x"/>
+3552: <p:anim calcmode="lin" valueType="num">
+3553: <p:cBhvr>
+3554: <p:cTn id="61" dur="1000" fill="hold"/>
+3555: <p:tgtEl>
+3556: <p:spTgt spid="34"/>
+3557: <p:attrNameLst>
+3558: <p:attrName>
+3559: <p:tavLst>
+3560: <p:tav tm="0">
+3561: <p:val>
+3562: <p:strVal val="#ppt_y+.1"/>
+3563: <p:tav tm="100000">
+3564: <p:val>
+3565: <p:strVal val="#ppt_y"/>
+3566: <p:par>
+3567: <p:cTn id="62" presetID="2" presetClass="entr" presetSubtype="8" fill="hold" nodeType="withEffect">
+3568: <p:stCondLst>
+3569: <p:cond delay="3000"/>
+3570: <p:iterate type="wd">
+3571: <p:tmPct val="0"/>
+3572: <p:childTnLst>
+3573: <p:set>
+3574: <p:cBhvr>
+3575: <p:cTn id="63" dur="1" fill="hold">
+3576: <p:stCondLst>
+3577: <p:cond delay="0"/>
+3578: <p:tgtEl>
+3579: <p:spTgt spid="4"/>
+3580: <p:attrNameLst>
+3581: <p:attrName>
+3582: <p:to>
+3583: <p:strVal val="visible"/>
+3584: <p:anim calcmode="lin" valueType="num">
+3585: <p:cBhvr additive="base">
+3586: <p:cTn id="64" dur="1000" fill="hold"/>
+3587: <p:tgtEl>
+3588: <p:spTgt spid="4"/>
+3589: <p:attrNameLst>
+3590: <p:attrName>
+3591: <p:tavLst>
+3592: <p:tav tm="0">
+3593: <p:val>
+3594: <p:strVal val="0-#ppt_w/2"/>
+3595: <p:tav tm="100000">
+3596: <p:val>
+3597: <p:strVal val="#ppt_x"/>
+3598: <p:anim calcmode="lin" valueType="num">
+3599: <p:cBhvr additive="base">
+3600: <p:cTn id="65" dur="1000" fill="hold"/>
+3601: <p:tgtEl>
+3602: <p:spTgt spid="4"/>
+3603: <p:attrNameLst>
+3604: <p:attrName>
+3605: <p:tavLst>
+3606: <p:tav tm="0">
+3607: <p:val>
+3608: <p:strVal val="#ppt_y"/>
+3609: <p:tav tm="100000">
+3610: <p:val>
+3611: <p:strVal val="#ppt_y"/>
+3612: <p:par>
+3613: <p:cTn id="66" presetID="2" presetClass="entr" presetSubtype="2" fill="hold" nodeType="withEffect">
+3614: <p:stCondLst>
+3615: <p:cond delay="3000"/>
+3616: <p:iterate type="wd">
+3617: <p:tmPct val="0"/>
+3618: <p:childTnLst>
+3619: <p:set>
+3620: <p:cBhvr>
+3621: <p:cTn id="67" dur="1" fill="hold">
+3622: <p:stCondLst>
+3623: <p:cond delay="0"/>
+3624: <p:tgtEl>
+3625: <p:spTgt spid="9"/>
+3626: <p:attrNameLst>
+3627: <p:attrName>
+3628: <p:to>
+3629: <p:strVal val="visible"/>
+3630: <p:anim calcmode="lin" valueType="num">
+3631: <p:cBhvr additive="base">
+3632: <p:cTn id="68" dur="1000" fill="hold"/>
+3633: <p:tgtEl>
+3634: <p:spTgt spid="9"/>
+3635: <p:attrNameLst>
+3636: <p:attrName>
+3637: <p:tavLst>
+3638: <p:tav tm="0">
+3639: <p:val>
+3640: <p:strVal val="1+#ppt_w/2"/>
+3641: <p:tav tm="100000">
+3642: <p:val>
+3643: <p:strVal val="#ppt_x"/>
+3644: <p:anim calcmode="lin" valueType="num">
+3645: <p:cBhvr additive="base">
+3646: <p:cTn id="69" dur="1000" fill="hold"/>
+3647: <p:tgtEl>
+3648: <p:spTgt spid="9"/>
+3649: <p:attrNameLst>
+3650: <p:attrName>
+3651: <p:tavLst>
+3652: <p:tav tm="0">
+3653: <p:val>
+3654: <p:strVal val="#ppt_y"/>
+3655: <p:tav tm="100000">
+3656: <p:val>
+3657: <p:strVal val="#ppt_y"/>
+3658: <p:par>
+3659: <p:cTn id="70" presetID="42" presetClass="entr" presetSubtype="0" fill="hold" grpId="0" nodeType="withEffect">
+3660: <p:stCondLst>
+3661: <p:cond delay="4000"/>
+3662: <p:iterate type="wd">
+3663: <p:tmPct val="0"/>
+3664: <p:childTnLst>
+3665: <p:set>
+3666: <p:cBhvr>
+3667: <p:cTn id="71" dur="1" fill="hold">
+3668: <p:stCondLst>
+3669: <p:cond delay="0"/>
+3670: <p:tgtEl>
+3671: <p:spTgt spid="33"/>
+3672: <p:attrNameLst>
+3673: <p:attrName>
+3674: <p:to>
+3675: <p:strVal val="visible"/>
+3676: <p:animEffect transition="in" filter="fade">
+3677: <p:cBhvr>
+3678: <p:cTn id="72" dur="1000"/>
+3679: <p:tgtEl>
+3680: <p:spTgt spid="33"/>
+3681: <p:anim calcmode="lin" valueType="num">
+3682: <p:cBhvr>
+3683: <p:cTn id="73" dur="1000" fill="hold"/>
+3684: <p:tgtEl>
+3685: <p:spTgt spid="33"/>
+3686: <p:attrNameLst>
+3687: <p:attrName>
+3688: <p:tavLst>
+3689: <p:tav tm="0">
+3690: <p:val>
+3691: <p:strVal val="#ppt_x"/>
+3692: <p:tav tm="100000">
+3693: <p:val>
+3694: <p:strVal val="#ppt_x"/>
+3695: <p:anim calcmode="lin" valueType="num">
+3696: <p:cBhvr>
+3697: <p:cTn id="74" dur="1000" fill="hold"/>
+3698: <p:tgtEl>
+3699: <p:spTgt spid="33"/>
+3700: <p:attrNameLst>
+3701: <p:attrName>
+3702: <p:tavLst>
+3703: <p:tav tm="0">
+3704: <p:val>
+3705: <p:strVal val="#ppt_y+.1"/>
+3706: <p:tav tm="100000">
+3707: <p:val>
+3708: <p:strVal val="#ppt_y"/>
+3709: <p:par>
+3710: <p:cTn id="75" presetID="42" presetClass="entr" presetSubtype="0" fill="hold" grpId="0" nodeType="withEffect">
+3711: <p:stCondLst>
+3712: <p:cond delay="4000"/>
+3713: <p:iterate type="wd">
+3714: <p:tmPct val="0"/>
+3715: <p:childTnLst>
+3716: <p:set>
+3717: <p:cBhvr>
+3718: <p:cTn id="76" dur="1" fill="hold">
+3719: <p:stCondLst>
+3720: <p:cond delay="0"/>
+3721: <p:tgtEl>
+3722: <p:spTgt spid="36"/>
+3723: <p:attrNameLst>
+3724: <p:attrName>
+3725: <p:to>
+3726: <p:strVal val="visible"/>
+3727: <p:animEffect transition="in" filter="fade">
+3728: <p:cBhvr>
+3729: <p:cTn id="77" dur="1000"/>
+3730: <p:tgtEl>
+3731: <p:spTgt spid="36"/>
+3732: <p:anim calcmode="lin" valueType="num">
+3733: <p:cBhvr>
+3734: <p:cTn id="78" dur="1000" fill="hold"/>
+3735: <p:tgtEl>
+3736: <p:spTgt spid="36"/>
+3737: <p:attrNameLst>
+3738: <p:attrName>
+3739: <p:tavLst>
+3740: <p:tav tm="0">
+3741: <p:val>
+3742: <p:strVal val="#ppt_x"/>
+3743: <p:tav tm="100000">
+3744: <p:val>
+3745: <p:strVal val="#ppt_x"/>
+3746: <p:anim calcmode="lin" valueType="num">
+3747: <p:cBhvr>
+3748: <p:cTn id="79" dur="1000" fill="hold"/>
+3749: <p:tgtEl>
+3750: <p:spTgt spid="36"/>
+3751: <p:attrNameLst>
+3752: <p:attrName>
+3753: <p:tavLst>
+3754: <p:tav tm="0">
+3755: <p:val>
+3756: <p:strVal val="#ppt_y+.1"/>
+3757: <p:tav tm="100000">
+3758: <p:val>
+3759: <p:strVal val="#ppt_y"/>
+3760: <p:par>
+3761: <p:cTn id="80" presetID="2" presetClass="entr" presetSubtype="8" fill="hold" nodeType="withEffect">
+3762: <p:stCondLst>
+3763: <p:cond delay="5000"/>
+3764: <p:iterate type="wd">
+3765: <p:tmPct val="0"/>
+3766: <p:childTnLst>
+3767: <p:set>
+3768: <p:cBhvr>
+3769: <p:cTn id="81" dur="1" fill="hold">
+3770: <p:stCondLst>
+3771: <p:cond delay="0"/>
+3772: <p:tgtEl>
+3773: <p:spTgt spid="7"/>
+3774: <p:attrNameLst>
+3775: <p:attrName>
+3776: <p:to>
+3777: <p:strVal val="visible"/>
+3778: <p:anim calcmode="lin" valueType="num">
+3779: <p:cBhvr additive="base">
+3780: <p:cTn id="82" dur="1000" fill="hold"/>
+3781: <p:tgtEl>
+3782: <p:spTgt spid="7"/>
+3783: <p:attrNameLst>
+3784: <p:attrName>
+3785: <p:tavLst>
+3786: <p:tav tm="0">
+3787: <p:val>
+3788: <p:strVal val="0-#ppt_w/2"/>
+3789: <p:tav tm="100000">
+3790: <p:val>
+3791: <p:strVal val="#ppt_x"/>
+3792: <p:anim calcmode="lin" valueType="num">
+3793: <p:cBhvr additive="base">
+3794: <p:cTn id="83" dur="1000" fill="hold"/>
+3795: <p:tgtEl>
+3796: <p:spTgt spid="7"/>
+3797: <p:attrNameLst>
+3798: <p:attrName>
+3799: <p:tavLst>
+3800: <p:tav tm="0">
+3801: <p:val>
+3802: <p:strVal val="#ppt_y"/>
+3803: <p:tav tm="100000">
+3804: <p:val>
+3805: <p:strVal val="#ppt_y"/>
+3806: <p:par>
+3807: <p:cTn id="84" presetID="2" presetClass="entr" presetSubtype="2" fill="hold" nodeType="withEffect">
+3808: <p:stCondLst>
+3809: <p:cond delay="5000"/>
+3810: <p:iterate type="wd">
+3811: <p:tmPct val="0"/>
+3812: <p:childTnLst>
+3813: <p:set>
+3814: <p:cBhvr>
+3815: <p:cTn id="85" dur="1" fill="hold">
+3816: <p:stCondLst>
+3817: <p:cond delay="0"/>
+3818: <p:tgtEl>
+3819: <p:spTgt spid="8"/>
+3820: <p:attrNameLst>
+3821: <p:attrName>
+3822: <p:to>
+3823: <p:strVal val="visible"/>
+3824: <p:anim calcmode="lin" valueType="num">
+3825: <p:cBhvr additive="base">
+3826: <p:cTn id="86" dur="1000" fill="hold"/>
+3827: <p:tgtEl>
+3828: <p:spTgt spid="8"/>
+3829: <p:attrNameLst>
+3830: <p:attrName>
+3831: <p:tavLst>
+3832: <p:tav tm="0">
+3833: <p:val>
+3834: <p:strVal val="1+#ppt_w/2"/>
+3835: <p:tav tm="100000">
+3836: <p:val>
+3837: <p:strVal val="#ppt_x"/>
+3838: <p:anim calcmode="lin" valueType="num">
+3839: <p:cBhvr additive="base">
+3840: <p:cTn id="87" dur="1000" fill="hold"/>
+3841: <p:tgtEl>
+3842: <p:spTgt spid="8"/>
+3843: <p:attrNameLst>
+3844: <p:attrName>
+3845: <p:tavLst>
+3846: <p:tav tm="0">
+3847: <p:val>
+3848: <p:strVal val="#ppt_y"/>
+3849: <p:tav tm="100000">
+3850: <p:val>
+3851: <p:strVal val="#ppt_y"/>
+3852: <p:par>
+3853: <p:cTn id="88" presetID="42" presetClass="entr" presetSubtype="0" fill="hold" grpId="0" nodeType="withEffect">
+3854: <p:stCondLst>
+3855: <p:cond delay="6000"/>
+3856: <p:iterate type="wd">
+3857: <p:tmPct val="0"/>
+3858: <p:childTnLst>
+3859: <p:set>
+3860: <p:cBhvr>
+3861: <p:cTn id="89" dur="1" fill="hold">
+3862: <p:stCondLst>
+3863: <p:cond delay="0"/>
+3864: <p:tgtEl>
+3865: <p:spTgt spid="32"/>
+3866: <p:attrNameLst>
+3867: <p:attrName>
+3868: <p:to>
+3869: <p:strVal val="visible"/>
+3870: <p:animEffect transition="in" filter="fade">
+3871: <p:cBhvr>
+3872: <p:cTn id="90" dur="1000"/>
+3873: <p:tgtEl>
+3874: <p:spTgt spid="32"/>
+3875: <p:anim calcmode="lin" valueType="num">
+3876: <p:cBhvr>
+3877: <p:cTn id="91" dur="1000" fill="hold"/>
+3878: <p:tgtEl>
+3879: <p:spTgt spid="32"/>
+3880: <p:attrNameLst>
+3881: <p:attrName>
+3882: <p:tavLst>
+3883: <p:tav tm="0">
+3884: <p:val>
+3885: <p:strVal val="#ppt_x"/>
+3886: <p:tav tm="100000">
+3887: <p:val>
+3888: <p:strVal val="#ppt_x"/>
+3889: <p:anim calcmode="lin" valueType="num">
+3890: <p:cBhvr>
+3891: <p:cTn id="92" dur="1000" fill="hold"/>
+3892: <p:tgtEl>
+3893: <p:spTgt spid="32"/>
+3894: <p:attrNameLst>
+3895: <p:attrName>
+3896: <p:tavLst>
+3897: <p:tav tm="0">
+3898: <p:val>
+3899: <p:strVal val="#ppt_y+.1"/>
+3900: <p:tav tm="100000">
+3901: <p:val>
+3902: <p:strVal val="#ppt_y"/>
+3903: <p:par>
+3904: <p:cTn id="93" presetID="42" presetClass="entr" presetSubtype="0" fill="hold" grpId="0" nodeType="withEffect">
+3905: <p:stCondLst>
+3906: <p:cond delay="6000"/>
+3907: <p:iterate type="wd">
+3908: <p:tmPct val="0"/>
+3909: <p:childTnLst>
+3910: <p:set>
+3911: <p:cBhvr>
+3912: <p:cTn id="94" dur="1" fill="hold">
+3913: <p:stCondLst>
+3914: <p:cond delay="0"/>
+3915: <p:tgtEl>
+3916: <p:spTgt spid="37"/>
+3917: <p:attrNameLst>
+3918: <p:attrName>
+3919: <p:to>
+3920: <p:strVal val="visible"/>
+3921: <p:animEffect transition="in" filter="fade">
+3922: <p:cBhvr>
+3923: <p:cTn id="95" dur="1000"/>
+3924: <p:tgtEl>
+3925: <p:spTgt spid="37"/>
+3926: <p:anim calcmode="lin" valueType="num">
+3927: <p:cBhvr>
+3928: <p:cTn id="96" dur="1000" fill="hold"/>
+3929: <p:tgtEl>
+3930: <p:spTgt spid="37"/>
+3931: <p:attrNameLst>
+3932: <p:attrName>
+3933: <p:tavLst>
+3934: <p:tav tm="0">
+3935: <p:val>
+3936: <p:strVal val="#ppt_x"/>
+3937: <p:tav tm="100000">
+3938: <p:val>
+3939: <p:strVal val="#ppt_x"/>
+3940: <p:anim calcmode="lin" valueType="num">
+3941: <p:cBhvr>
+3942: <p:cTn id="97" dur="1000" fill="hold"/>
+3943: <p:tgtEl>
+3944: <p:spTgt spid="37"/>
+3945: <p:attrNameLst>
+3946: <p:attrName>
+3947: <p:tavLst>
+3948: <p:tav tm="0">
+3949: <p:val>
+3950: <p:strVal val="#ppt_y+.1"/>
+3951: <p:tav tm="100000">
+3952: <p:val>
+3953: <p:strVal val="#ppt_y"/>
+3954: <p:par>
+3955: <p:cTn id="98" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" nodeType="withEffect">
+3956: <p:stCondLst>
+3957: <p:cond delay="7250"/>
+3958: <p:iterate type="wd">
+3959: <p:tmPct val="10000"/>
+3960: <p:childTnLst>
+3961: <p:anim calcmode="lin" valueType="num">
+3962: <p:cBhvr>
+3963: <p:cTn id="99" dur="1000"/>
+3964: <p:tgtEl>
+3965: <p:spTgt spid="3"/>
+3966: <p:attrNameLst>
+3967: <p:attrName>
+3968: <p:tavLst>
+3969: <p:tav tm="0">
+3970: <p:val>
+3971: <p:strVal val="ppt_w"/>
+3972: <p:tav tm="100000">
+3973: <p:val>
+3974: <p:fltVal val="0"/>
+3975: <p:anim calcmode="lin" valueType="num">
+3976: <p:cBhvr>
+3977: <p:cTn id="100" dur="1000"/>
+3978: <p:tgtEl>
+3979: <p:spTgt spid="3"/>
+3980: <p:attrNameLst>
+3981: <p:attrName>
+3982: <p:tavLst>
+3983: <p:tav tm="0">
+3984: <p:val>
+3985: <p:strVal val="ppt_h"/>
+3986: <p:tav tm="100000">
+3987: <p:val>
+3988: <p:fltVal val="0"/>
+3989: <p:anim calcmode="lin" valueType="num">
+3990: <p:cBhvr>
+3991: <p:cTn id="101" dur="1000"/>
+3992: <p:tgtEl>
+3993: <p:spTgt spid="3"/>
+3994: <p:attrNameLst>
+3995: <p:attrName>
+3996: <p:tavLst>
+3997: <p:tav tm="0">
+3998: <p:val>
+3999: <p:strVal val="ppt_x"/>
+4000: <p:tav tm="100000">
+4001: <p:val>
+4002: <p:fltVal val="0.5"/>
+4003: <p:anim calcmode="lin" valueType="num">
+4004: <p:cBhvr>
+4005: <p:cTn id="102" dur="1000"/>
+4006: <p:tgtEl>
+4007: <p:spTgt spid="3"/>
+4008: <p:attrNameLst>
+4009: <p:attrName>
+4010: <p:tavLst>
+4011: <p:tav tm="0">
+4012: <p:val>
+4013: <p:strVal val="ppt_y"/>
+4014: <p:tav tm="100000">
+4015: <p:val>
+4016: <p:fltVal val="0.5"/>
+4017: <p:set>
+4018: <p:cBhvr>
+4019: <p:cTn id="103" dur="1" fill="hold">
+4020: <p:stCondLst>
+4021: <p:cond delay="999"/>
+4022: <p:tgtEl>
+4023: <p:spTgt spid="3"/>
+4024: <p:attrNameLst>
+4025: <p:attrName>
+4026: <p:to>
+4027: <p:strVal val="hidden"/>
+4028: <p:par>
+4029: <p:cTn id="104" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" nodeType="withEffect">
+4030: <p:stCondLst>
+4031: <p:cond delay="7250"/>
+4032: <p:iterate type="wd">
+4033: <p:tmPct val="10000"/>
+4034: <p:childTnLst>
+4035: <p:anim calcmode="lin" valueType="num">
+4036: <p:cBhvr>
+4037: <p:cTn id="105" dur="1000"/>
+4038: <p:tgtEl>
+4039: <p:spTgt spid="2"/>
+4040: <p:attrNameLst>
+4041: <p:attrName>
+4042: <p:tavLst>
+4043: <p:tav tm="0">
+4044: <p:val>
+4045: <p:strVal val="ppt_w"/>
+4046: <p:tav tm="100000">
+4047: <p:val>
+4048: <p:fltVal val="0"/>
+4049: <p:anim calcmode="lin" valueType="num">
+4050: <p:cBhvr>
+4051: <p:cTn id="106" dur="1000"/>
+4052: <p:tgtEl>
+4053: <p:spTgt spid="2"/>
+4054: <p:attrNameLst>
+4055: <p:attrName>
+4056: <p:tavLst>
+4057: <p:tav tm="0">
+4058: <p:val>
+4059: <p:strVal val="ppt_h"/>
+4060: <p:tav tm="100000">
+4061: <p:val>
+4062: <p:fltVal val="0"/>
+4063: <p:anim calcmode="lin" valueType="num">
+4064: <p:cBhvr>
+4065: <p:cTn id="107" dur="1000"/>
+4066: <p:tgtEl>
+4067: <p:spTgt spid="2"/>
+4068: <p:attrNameLst>
+4069: <p:attrName>
+4070: <p:tavLst>
+4071: <p:tav tm="0">
+4072: <p:val>
+4073: <p:strVal val="ppt_x"/>
+4074: <p:tav tm="100000">
+4075: <p:val>
+4076: <p:fltVal val="0.5"/>
+4077: <p:anim calcmode="lin" valueType="num">
+4078: <p:cBhvr>
+4079: <p:cTn id="108" dur="1000"/>
+4080: <p:tgtEl>
+4081: <p:spTgt spid="2"/>
+4082: <p:attrNameLst>
+4083: <p:attrName>
+4084: <p:tavLst>
+4085: <p:tav tm="0">
+4086: <p:val>
+4087: <p:strVal val="ppt_y"/>
+4088: <p:tav tm="100000">
+4089: <p:val>
+4090: <p:fltVal val="0.5"/>
+4091: <p:set>
+4092: <p:cBhvr>
+4093: <p:cTn id="109" dur="1" fill="hold">
+4094: <p:stCondLst>
+4095: <p:cond delay="999"/>
+4096: <p:tgtEl>
+4097: <p:spTgt spid="2"/>
+4098: <p:attrNameLst>
+4099: <p:attrName>
+4100: <p:to>
+4101: <p:strVal val="hidden"/>
+4102: <p:par>
+4103: <p:cTn id="110" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" nodeType="withEffect">
+4104: <p:stCondLst>
+4105: <p:cond delay="7250"/>
+4106: <p:iterate type="wd">
+4107: <p:tmPct val="10000"/>
+4108: <p:childTnLst>
+4109: <p:anim calcmode="lin" valueType="num">
+4110: <p:cBhvr>
+4111: <p:cTn id="111" dur="1000"/>
+4112: <p:tgtEl>
+4113: <p:spTgt spid="11"/>
+4114: <p:attrNameLst>
+4115: <p:attrName>
+4116: <p:tavLst>
+4117: <p:tav tm="0">
+4118: <p:val>
+4119: <p:strVal val="ppt_w"/>
+4120: <p:tav tm="100000">
+4121: <p:val>
+4122: <p:fltVal val="0"/>
+4123: <p:anim calcmode="lin" valueType="num">
+4124: <p:cBhvr>
+4125: <p:cTn id="112" dur="1000"/>
+4126: <p:tgtEl>
+4127: <p:spTgt spid="11"/>
+4128: <p:attrNameLst>
+4129: <p:attrName>
+4130: <p:tavLst>
+4131: <p:tav tm="0">
+4132: <p:val>
+4133: <p:strVal val="ppt_h"/>
+4134: <p:tav tm="100000">
+4135: <p:val>
+4136: <p:fltVal val="0"/>
+4137: <p:anim calcmode="lin" valueType="num">
+4138: <p:cBhvr>
+4139: <p:cTn id="113" dur="1000"/>
+4140: <p:tgtEl>
+4141: <p:spTgt spid="11"/>
+4142: <p:attrNameLst>
+4143: <p:attrName>
+4144: <p:tavLst>
+4145: <p:tav tm="0">
+4146: <p:val>
+4147: <p:strVal val="ppt_x"/>
+4148: <p:tav tm="100000">
+4149: <p:val>
+4150: <p:fltVal val="0.5"/>
+4151: <p:anim calcmode="lin" valueType="num">
+4152: <p:cBhvr>
+4153: <p:cTn id="114" dur="1000"/>
+4154: <p:tgtEl>
+4155: <p:spTgt spid="11"/>
+4156: <p:attrNameLst>
+4157: <p:attrName>
+4158: <p:tavLst>
+4159: <p:tav tm="0">
+4160: <p:val>
+4161: <p:strVal val="ppt_y"/>
+4162: <p:tav tm="100000">
+4163: <p:val>
+4164: <p:fltVal val="0.5"/>
+4165: <p:set>
+4166: <p:cBhvr>
+4167: <p:cTn id="115" dur="1" fill="hold">
+4168: <p:stCondLst>
+4169: <p:cond delay="999"/>
+4170: <p:tgtEl>
+4171: <p:spTgt spid="11"/>
+4172: <p:attrNameLst>
+4173: <p:attrName>
+4174: <p:to>
+4175: <p:strVal val="hidden"/>
+4176: <p:par>
+4177: <p:cTn id="116" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" nodeType="withEffect">
+4178: <p:stCondLst>
+4179: <p:cond delay="7250"/>
+4180: <p:iterate type="wd">
+4181: <p:tmPct val="10000"/>
+4182: <p:childTnLst>
+4183: <p:anim calcmode="lin" valueType="num">
+4184: <p:cBhvr>
+4185: <p:cTn id="117" dur="1000"/>
+4186: <p:tgtEl>
+4187: <p:spTgt spid="5"/>
+4188: <p:attrNameLst>
+4189: <p:attrName>
+4190: <p:tavLst>
+4191: <p:tav tm="0">
+4192: <p:val>
+4193: <p:strVal val="ppt_w"/>
+4194: <p:tav tm="100000">
+4195: <p:val>
+4196: <p:fltVal val="0"/>
+4197: <p:anim calcmode="lin" valueType="num">
+4198: <p:cBhvr>
+4199: <p:cTn id="118" dur="1000"/>
+4200: <p:tgtEl>
+4201: <p:spTgt spid="5"/>
+4202: <p:attrNameLst>
+4203: <p:attrName>
+4204: <p:tavLst>
+4205: <p:tav tm="0">
+4206: <p:val>
+4207: <p:strVal val="ppt_h"/>
+4208: <p:tav tm="100000">
+4209: <p:val>
+4210: <p:fltVal val="0"/>
+4211: <p:anim calcmode="lin" valueType="num">
+4212: <p:cBhvr>
+4213: <p:cTn id="119" dur="1000"/>
+4214: <p:tgtEl>
+4215: <p:spTgt spid="5"/>
+4216: <p:attrNameLst>
+4217: <p:attrName>
+4218: <p:tavLst>
+4219: <p:tav tm="0">
+4220: <p:val>
+4221: <p:strVal val="ppt_x"/>
+4222: <p:tav tm="100000">
+4223: <p:val>
+4224: <p:fltVal val="0.5"/>
+4225: <p:anim calcmode="lin" valueType="num">
+4226: <p:cBhvr>
+4227: <p:cTn id="120" dur="1000"/>
+4228: <p:tgtEl>
+4229: <p:spTgt spid="5"/>
+4230: <p:attrNameLst>
+4231: <p:attrName>
+4232: <p:tavLst>
+4233: <p:tav tm="0">
+4234: <p:val>
+4235: <p:strVal val="ppt_y"/>
+4236: <p:tav tm="100000">
+4237: <p:val>
+4238: <p:fltVal val="0.5"/>
+4239: <p:set>
+4240: <p:cBhvr>
+4241: <p:cTn id="121" dur="1" fill="hold">
+4242: <p:stCondLst>
+4243: <p:cond delay="999"/>
+4244: <p:tgtEl>
+4245: <p:spTgt spid="5"/>
+4246: <p:attrNameLst>
+4247: <p:attrName>
+4248: <p:to>
+4249: <p:strVal val="hidden"/>
+4250: <p:par>
+4251: <p:cTn id="122" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" nodeType="withEffect">
+4252: <p:stCondLst>
+4253: <p:cond delay="7250"/>
+4254: <p:iterate type="wd">
+4255: <p:tmPct val="10000"/>
+4256: <p:childTnLst>
+4257: <p:anim calcmode="lin" valueType="num">
+4258: <p:cBhvr>
+4259: <p:cTn id="123" dur="1000"/>
+4260: <p:tgtEl>
+4261: <p:spTgt spid="10"/>
+4262: <p:attrNameLst>
+4263: <p:attrName>
+4264: <p:tavLst>
+4265: <p:tav tm="0">
+4266: <p:val>
+4267: <p:strVal val="ppt_w"/>
+4268: <p:tav tm="100000">
+4269: <p:val>
+4270: <p:fltVal val="0"/>
+4271: <p:anim calcmode="lin" valueType="num">
+4272: <p:cBhvr>
+4273: <p:cTn id="124" dur="1000"/>
+4274: <p:tgtEl>
+4275: <p:spTgt spid="10"/>
+4276: <p:attrNameLst>
+4277: <p:attrName>
+4278: <p:tavLst>
+4279: <p:tav tm="0">
+4280: <p:val>
+4281: <p:strVal val="ppt_h"/>
+4282: <p:tav tm="100000">
+4283: <p:val>
+4284: <p:fltVal val="0"/>
+4285: <p:anim calcmode="lin" valueType="num">
+4286: <p:cBhvr>
+4287: <p:cTn id="125" dur="1000"/>
+4288: <p:tgtEl>
+4289: <p:spTgt spid="10"/>
+4290: <p:attrNameLst>
+4291: <p:attrName>
+4292: <p:tavLst>
+4293: <p:tav tm="0">
+4294: <p:val>
+4295: <p:strVal val="ppt_x"/>
+4296: <p:tav tm="100000">
+4297: <p:val>
+4298: <p:fltVal val="0.5"/>
+4299: <p:anim calcmode="lin" valueType="num">
+4300: <p:cBhvr>
+4301: <p:cTn id="126" dur="1000"/>
+4302: <p:tgtEl>
+4303: <p:spTgt spid="10"/>
+4304: <p:attrNameLst>
+4305: <p:attrName>
+4306: <p:tavLst>
+4307: <p:tav tm="0">
+4308: <p:val>
+4309: <p:strVal val="ppt_y"/>
+4310: <p:tav tm="100000">
+4311: <p:val>
+4312: <p:fltVal val="0.5"/>
+4313: <p:set>
+4314: <p:cBhvr>
+4315: <p:cTn id="127" dur="1" fill="hold">
+4316: <p:stCondLst>
+4317: <p:cond delay="999"/>
+4318: <p:tgtEl>
+4319: <p:spTgt spid="10"/>
+4320: <p:attrNameLst>
+4321: <p:attrName>
+4322: <p:to>
+4323: <p:strVal val="hidden"/>
+4324: <p:par>
+4325: <p:cTn id="128" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" grpId="1" nodeType="withEffect">
+4326: <p:stCondLst>
+4327: <p:cond delay="7250"/>
+4328: <p:iterate type="wd">
+4329: <p:tmPct val="10000"/>
+4330: <p:childTnLst>
+4331: <p:anim calcmode="lin" valueType="num">
+4332: <p:cBhvr>
+4333: <p:cTn id="129" dur="1000"/>
+4334: <p:tgtEl>
+4335: <p:spTgt spid="35"/>
+4336: <p:attrNameLst>
+4337: <p:attrName>
+4338: <p:tavLst>
+4339: <p:tav tm="0">
+4340: <p:val>
+4341: <p:strVal val="ppt_w"/>
+4342: <p:tav tm="100000">
+4343: <p:val>
+4344: <p:fltVal val="0"/>
+4345: <p:anim calcmode="lin" valueType="num">
+4346: <p:cBhvr>
+4347: <p:cTn id="130" dur="1000"/>
+4348: <p:tgtEl>
+4349: <p:spTgt spid="35"/>
+4350: <p:attrNameLst>
+4351: <p:attrName>
+4352: <p:tavLst>
+4353: <p:tav tm="0">
+4354: <p:val>
+4355: <p:strVal val="ppt_h"/>
+4356: <p:tav tm="100000">
+4357: <p:val>
+4358: <p:fltVal val="0"/>
+4359: <p:anim calcmode="lin" valueType="num">
+4360: <p:cBhvr>
+4361: <p:cTn id="131" dur="1000"/>
+4362: <p:tgtEl>
+4363: <p:spTgt spid="35"/>
+4364: <p:attrNameLst>
+4365: <p:attrName>
+4366: <p:tavLst>
+4367: <p:tav tm="0">
+4368: <p:val>
+4369: <p:strVal val="ppt_x"/>
+4370: <p:tav tm="100000">
+4371: <p:val>
+4372: <p:fltVal val="0.5"/>
+4373: <p:anim calcmode="lin" valueType="num">
+4374: <p:cBhvr>
+4375: <p:cTn id="132" dur="1000"/>
+4376: <p:tgtEl>
+4377: <p:spTgt spid="35"/>
+4378: <p:attrNameLst>
+4379: <p:attrName>
+4380: <p:tavLst>
+4381: <p:tav tm="0">
+4382: <p:val>
+4383: <p:strVal val="ppt_y"/>
+4384: <p:tav tm="100000">
+4385: <p:val>
+4386: <p:fltVal val="0.5"/>
+4387: <p:set>
+4388: <p:cBhvr>
+4389: <p:cTn id="133" dur="1" fill="hold">
+4390: <p:stCondLst>
+4391: <p:cond delay="999"/>
+4392: <p:tgtEl>
+4393: <p:spTgt spid="35"/>
+4394: <p:attrNameLst>
+4395: <p:attrName>
+4396: <p:to>
+4397: <p:strVal val="hidden"/>
+4398: <p:par>
+4399: <p:cTn id="134" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" grpId="1" nodeType="withEffect">
+4400: <p:stCondLst>
+4401: <p:cond delay="7250"/>
+4402: <p:iterate type="wd">
+4403: <p:tmPct val="10000"/>
+4404: <p:childTnLst>
+4405: <p:anim calcmode="lin" valueType="num">
+4406: <p:cBhvr>
+4407: <p:cTn id="135" dur="1000"/>
+4408: <p:tgtEl>
+4409: <p:spTgt spid="34"/>
+4410: <p:attrNameLst>
+4411: <p:attrName>
+4412: <p:tavLst>
+4413: <p:tav tm="0">
+4414: <p:val>
+4415: <p:strVal val="ppt_w"/>
+4416: <p:tav tm="100000">
+4417: <p:val>
+4418: <p:fltVal val="0"/>
+4419: <p:anim calcmode="lin" valueType="num">
+4420: <p:cBhvr>
+4421: <p:cTn id="136" dur="1000"/>
+4422: <p:tgtEl>
+4423: <p:spTgt spid="34"/>
+4424: <p:attrNameLst>
+4425: <p:attrName>
+4426: <p:tavLst>
+4427: <p:tav tm="0">
+4428: <p:val>
+4429: <p:strVal val="ppt_h"/>
+4430: <p:tav tm="100000">
+4431: <p:val>
+4432: <p:fltVal val="0"/>
+4433: <p:anim calcmode="lin" valueType="num">
+4434: <p:cBhvr>
+4435: <p:cTn id="137" dur="1000"/>
+4436: <p:tgtEl>
+4437: <p:spTgt spid="34"/>
+4438: <p:attrNameLst>
+4439: <p:attrName>
+4440: <p:tavLst>
+4441: <p:tav tm="0">
+4442: <p:val>
+4443: <p:strVal val="ppt_x"/>
+4444: <p:tav tm="100000">
+4445: <p:val>
+4446: <p:fltVal val="0.5"/>
+4447: <p:anim calcmode="lin" valueType="num">
+4448: <p:cBhvr>
+4449: <p:cTn id="138" dur="1000"/>
+4450: <p:tgtEl>
+4451: <p:spTgt spid="34"/>
+4452: <p:attrNameLst>
+4453: <p:attrName>
+4454: <p:tavLst>
+4455: <p:tav tm="0">
+4456: <p:val>
+4457: <p:strVal val="ppt_y"/>
+4458: <p:tav tm="100000">
+4459: <p:val>
+4460: <p:fltVal val="0.5"/>
+4461: <p:set>
+4462: <p:cBhvr>
+4463: <p:cTn id="139" dur="1" fill="hold">
+4464: <p:stCondLst>
+4465: <p:cond delay="999"/>
+4466: <p:tgtEl>
+4467: <p:spTgt spid="34"/>
+4468: <p:attrNameLst>
+4469: <p:attrName>
+4470: <p:to>
+4471: <p:strVal val="hidden"/>
+4472: <p:par>
+4473: <p:cTn id="140" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" nodeType="withEffect">
+4474: <p:stCondLst>
+4475: <p:cond delay="7250"/>
+4476: <p:iterate type="wd">
+4477: <p:tmPct val="10000"/>
+4478: <p:childTnLst>
+4479: <p:anim calcmode="lin" valueType="num">
+4480: <p:cBhvr>
+4481: <p:cTn id="141" dur="1000"/>
+4482: <p:tgtEl>
+4483: <p:spTgt spid="4"/>
+4484: <p:attrNameLst>
+4485: <p:attrName>
+4486: <p:tavLst>
+4487: <p:tav tm="0">
+4488: <p:val>
+4489: <p:strVal val="ppt_w"/>
+4490: <p:tav tm="100000">
+4491: <p:val>
+4492: <p:fltVal val="0"/>
+4493: <p:anim calcmode="lin" valueType="num">
+4494: <p:cBhvr>
+4495: <p:cTn id="142" dur="1000"/>
+4496: <p:tgtEl>
+4497: <p:spTgt spid="4"/>
+4498: <p:attrNameLst>
+4499: <p:attrName>
+4500: <p:tavLst>
+4501: <p:tav tm="0">
+4502: <p:val>
+4503: <p:strVal val="ppt_h"/>
+4504: <p:tav tm="100000">
+4505: <p:val>
+4506: <p:fltVal val="0"/>
+4507: <p:anim calcmode="lin" valueType="num">
+4508: <p:cBhvr>
+4509: <p:cTn id="143" dur="1000"/>
+4510: <p:tgtEl>
+4511: <p:spTgt spid="4"/>
+4512: <p:attrNameLst>
+4513: <p:attrName>
+4514: <p:tavLst>
+4515: <p:tav tm="0">
+4516: <p:val>
+4517: <p:strVal val="ppt_x"/>
+4518: <p:tav tm="100000">
+4519: <p:val>
+4520: <p:fltVal val="0.5"/>
+4521: <p:anim calcmode="lin" valueType="num">
+4522: <p:cBhvr>
+4523: <p:cTn id="144" dur="1000"/>
+4524: <p:tgtEl>
+4525: <p:spTgt spid="4"/>
+4526: <p:attrNameLst>
+4527: <p:attrName>
+4528: <p:tavLst>
+4529: <p:tav tm="0">
+4530: <p:val>
+4531: <p:strVal val="ppt_y"/>
+4532: <p:tav tm="100000">
+4533: <p:val>
+4534: <p:fltVal val="0.5"/>
+4535: <p:set>
+4536: <p:cBhvr>
+4537: <p:cTn id="145" dur="1" fill="hold">
+4538: <p:stCondLst>
+4539: <p:cond delay="999"/>
+4540: <p:tgtEl>
+4541: <p:spTgt spid="4"/>
+4542: <p:attrNameLst>
+4543: <p:attrName>
+4544: <p:to>
+4545: <p:strVal val="hidden"/>
+4546: <p:par>
+4547: <p:cTn id="146" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" nodeType="withEffect">
+4548: <p:stCondLst>
+4549: <p:cond delay="7250"/>
+4550: <p:iterate type="wd">
+4551: <p:tmPct val="10000"/>
+4552: <p:childTnLst>
+4553: <p:anim calcmode="lin" valueType="num">
+4554: <p:cBhvr>
+4555: <p:cTn id="147" dur="1000"/>
+4556: <p:tgtEl>
+4557: <p:spTgt spid="9"/>
+4558: <p:attrNameLst>
+4559: <p:attrName>
+4560: <p:tavLst>
+4561: <p:tav tm="0">
+4562: <p:val>
+4563: <p:strVal val="ppt_w"/>
+4564: <p:tav tm="100000">
+4565: <p:val>
+4566: <p:fltVal val="0"/>
+4567: <p:anim calcmode="lin" valueType="num">
+4568: <p:cBhvr>
+4569: <p:cTn id="148" dur="1000"/>
+4570: <p:tgtEl>
+4571: <p:spTgt spid="9"/>
+4572: <p:attrNameLst>
+4573: <p:attrName>
+4574: <p:tavLst>
+4575: <p:tav tm="0">
+4576: <p:val>
+4577: <p:strVal val="ppt_h"/>
+4578: <p:tav tm="100000">
+4579: <p:val>
+4580: <p:fltVal val="0"/>
+4581: <p:anim calcmode="lin" valueType="num">
+4582: <p:cBhvr>
+4583: <p:cTn id="149" dur="1000"/>
+4584: <p:tgtEl>
+4585: <p:spTgt spid="9"/>
+4586: <p:attrNameLst>
+4587: <p:attrName>
+4588: <p:tavLst>
+4589: <p:tav tm="0">
+4590: <p:val>
+4591: <p:strVal val="ppt_x"/>
+4592: <p:tav tm="100000">
+4593: <p:val>
+4594: <p:fltVal val="0.5"/>
+4595: <p:anim calcmode="lin" valueType="num">
+4596: <p:cBhvr>
+4597: <p:cTn id="150" dur="1000"/>
+4598: <p:tgtEl>
+4599: <p:spTgt spid="9"/>
+4600: <p:attrNameLst>
+4601: <p:attrName>
+4602: <p:tavLst>
+4603: <p:tav tm="0">
+4604: <p:val>
+4605: <p:strVal val="ppt_y"/>
+4606: <p:tav tm="100000">
+4607: <p:val>
+4608: <p:fltVal val="0.5"/>
+4609: <p:set>
+4610: <p:cBhvr>
+4611: <p:cTn id="151" dur="1" fill="hold">
+4612: <p:stCondLst>
+4613: <p:cond delay="999"/>
+4614: <p:tgtEl>
+4615: <p:spTgt spid="9"/>
+4616: <p:attrNameLst>
+4617: <p:attrName>
+4618: <p:to>
+4619: <p:strVal val="hidden"/>
+4620: <p:par>
+4621: <p:cTn id="152" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" grpId="1" nodeType="withEffect">
+4622: <p:stCondLst>
+4623: <p:cond delay="7250"/>
+4624: <p:iterate type="wd">
+4625: <p:tmPct val="10000"/>
+4626: <p:childTnLst>
+4627: <p:anim calcmode="lin" valueType="num">
+4628: <p:cBhvr>
+4629: <p:cTn id="153" dur="1000"/>
+4630: <p:tgtEl>
+4631: <p:spTgt spid="33"/>
+4632: <p:attrNameLst>
+4633: <p:attrName>
+4634: <p:tavLst>
+4635: <p:tav tm="0">
+4636: <p:val>
+4637: <p:strVal val="ppt_w"/>
+4638: <p:tav tm="100000">
+4639: <p:val>
+4640: <p:fltVal val="0"/>
+4641: <p:anim calcmode="lin" valueType="num">
+4642: <p:cBhvr>
+4643: <p:cTn id="154" dur="1000"/>
+4644: <p:tgtEl>
+4645: <p:spTgt spid="33"/>
+4646: <p:attrNameLst>
+4647: <p:attrName>
+4648: <p:tavLst>
+4649: <p:tav tm="0">
+4650: <p:val>
+4651: <p:strVal val="ppt_h"/>
+4652: <p:tav tm="100000">
+4653: <p:val>
+4654: <p:fltVal val="0"/>
+4655: <p:anim calcmode="lin" valueType="num">
+4656: <p:cBhvr>
+4657: <p:cTn id="155" dur="1000"/>
+4658: <p:tgtEl>
+4659: <p:spTgt spid="33"/>
+4660: <p:attrNameLst>
+4661: <p:attrName>
+4662: <p:tavLst>
+4663: <p:tav tm="0">
+4664: <p:val>
+4665: <p:strVal val="ppt_x"/>
+4666: <p:tav tm="100000">
+4667: <p:val>
+4668: <p:fltVal val="0.5"/>
+4669: <p:anim calcmode="lin" valueType="num">
+4670: <p:cBhvr>
+4671: <p:cTn id="156" dur="1000"/>
+4672: <p:tgtEl>
+4673: <p:spTgt spid="33"/>
+4674: <p:attrNameLst>
+4675: <p:attrName>
+4676: <p:tavLst>
+4677: <p:tav tm="0">
+4678: <p:val>
+4679: <p:strVal val="ppt_y"/>
+4680: <p:tav tm="100000">
+4681: <p:val>
+4682: <p:fltVal val="0.5"/>
+4683: <p:set>
+4684: <p:cBhvr>
+4685: <p:cTn id="157" dur="1" fill="hold">
+4686: <p:stCondLst>
+4687: <p:cond delay="999"/>
+4688: <p:tgtEl>
+4689: <p:spTgt spid="33"/>
+4690: <p:attrNameLst>
+4691: <p:attrName>
+4692: <p:to>
+4693: <p:strVal val="hidden"/>
+4694: <p:par>
+4695: <p:cTn id="158" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" grpId="1" nodeType="withEffect">
+4696: <p:stCondLst>
+4697: <p:cond delay="7250"/>
+4698: <p:iterate type="wd">
+4699: <p:tmPct val="10000"/>
+4700: <p:childTnLst>
+4701: <p:anim calcmode="lin" valueType="num">
+4702: <p:cBhvr>
+4703: <p:cTn id="159" dur="1000"/>
+4704: <p:tgtEl>
+4705: <p:spTgt spid="36"/>
+4706: <p:attrNameLst>
+4707: <p:attrName>
+4708: <p:tavLst>
+4709: <p:tav tm="0">
+4710: <p:val>
+4711: <p:strVal val="ppt_w"/>
+4712: <p:tav tm="100000">
+4713: <p:val>
+4714: <p:fltVal val="0"/>
+4715: <p:anim calcmode="lin" valueType="num">
+4716: <p:cBhvr>
+4717: <p:cTn id="160" dur="1000"/>
+4718: <p:tgtEl>
+4719: <p:spTgt spid="36"/>
+4720: <p:attrNameLst>
+4721: <p:attrName>
+4722: <p:tavLst>
+4723: <p:tav tm="0">
+4724: <p:val>
+4725: <p:strVal val="ppt_h"/>
+4726: <p:tav tm="100000">
+4727: <p:val>
+4728: <p:fltVal val="0"/>
+4729: <p:anim calcmode="lin" valueType="num">
+4730: <p:cBhvr>
+4731: <p:cTn id="161" dur="1000"/>
+4732: <p:tgtEl>
+4733: <p:spTgt spid="36"/>
+4734: <p:attrNameLst>
+4735: <p:attrName>
+4736: <p:tavLst>
+4737: <p:tav tm="0">
+4738: <p:val>
+4739: <p:strVal val="ppt_x"/>
+4740: <p:tav tm="100000">
+4741: <p:val>
+4742: <p:fltVal val="0.5"/>
+4743: <p:anim calcmode="lin" valueType="num">
+4744: <p:cBhvr>
+4745: <p:cTn id="162" dur="1000"/>
+4746: <p:tgtEl>
+4747: <p:spTgt spid="36"/>
+4748: <p:attrNameLst>
+4749: <p:attrName>
+4750: <p:tavLst>
+4751: <p:tav tm="0">
+4752: <p:val>
+4753: <p:strVal val="ppt_y"/>
+4754: <p:tav tm="100000">
+4755: <p:val>
+4756: <p:fltVal val="0.5"/>
+4757: <p:set>
+4758: <p:cBhvr>
+4759: <p:cTn id="163" dur="1" fill="hold">
+4760: <p:stCondLst>
+4761: <p:cond delay="999"/>
+4762: <p:tgtEl>
+4763: <p:spTgt spid="36"/>
+4764: <p:attrNameLst>
+4765: <p:attrName>
+4766: <p:to>
+4767: <p:strVal val="hidden"/>
+4768: <p:par>
+4769: <p:cTn id="164" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" nodeType="withEffect">
+4770: <p:stCondLst>
+4771: <p:cond delay="7250"/>
+4772: <p:iterate type="wd">
+4773: <p:tmPct val="10000"/>
+4774: <p:childTnLst>
+4775: <p:anim calcmode="lin" valueType="num">
+4776: <p:cBhvr>
+4777: <p:cTn id="165" dur="1000"/>
+4778: <p:tgtEl>
+4779: <p:spTgt spid="7"/>
+4780: <p:attrNameLst>
+4781: <p:attrName>
+4782: <p:tavLst>
+4783: <p:tav tm="0">
+4784: <p:val>
+4785: <p:strVal val="ppt_w"/>
+4786: <p:tav tm="100000">
+4787: <p:val>
+4788: <p:fltVal val="0"/>
+4789: <p:anim calcmode="lin" valueType="num">
+4790: <p:cBhvr>
+4791: <p:cTn id="166" dur="1000"/>
+4792: <p:tgtEl>
+4793: <p:spTgt spid="7"/>
+4794: <p:attrNameLst>
+4795: <p:attrName>
+4796: <p:tavLst>
+4797: <p:tav tm="0">
+4798: <p:val>
+4799: <p:strVal val="ppt_h"/>
+4800: <p:tav tm="100000">
+4801: <p:val>
+4802: <p:fltVal val="0"/>
+4803: <p:anim calcmode="lin" valueType="num">
+4804: <p:cBhvr>
+4805: <p:cTn id="167" dur="1000"/>
+4806: <p:tgtEl>
+4807: <p:spTgt spid="7"/>
+4808: <p:attrNameLst>
+4809: <p:attrName>
+4810: <p:tavLst>
+4811: <p:tav tm="0">
+4812: <p:val>
+4813: <p:strVal val="ppt_x"/>
+4814: <p:tav tm="100000">
+4815: <p:val>
+4816: <p:fltVal val="0.5"/>
+4817: <p:anim calcmode="lin" valueType="num">
+4818: <p:cBhvr>
+4819: <p:cTn id="168" dur="1000"/>
+4820: <p:tgtEl>
+4821: <p:spTgt spid="7"/>
+4822: <p:attrNameLst>
+4823: <p:attrName>
+4824: <p:tavLst>
+4825: <p:tav tm="0">
+4826: <p:val>
+4827: <p:strVal val="ppt_y"/>
+4828: <p:tav tm="100000">
+4829: <p:val>
+4830: <p:fltVal val="0.5"/>
+4831: <p:set>
+4832: <p:cBhvr>
+4833: <p:cTn id="169" dur="1" fill="hold">
+4834: <p:stCondLst>
+4835: <p:cond delay="999"/>
+4836: <p:tgtEl>
+4837: <p:spTgt spid="7"/>
+4838: <p:attrNameLst>
+4839: <p:attrName>
+4840: <p:to>
+4841: <p:strVal val="hidden"/>
+4842: <p:par>
+4843: <p:cTn id="170" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" nodeType="withEffect">
+4844: <p:stCondLst>
+4845: <p:cond delay="7250"/>
+4846: <p:iterate type="wd">
+4847: <p:tmPct val="10000"/>
+4848: <p:childTnLst>
+4849: <p:anim calcmode="lin" valueType="num">
+4850: <p:cBhvr>
+4851: <p:cTn id="171" dur="1000"/>
+4852: <p:tgtEl>
+4853: <p:spTgt spid="8"/>
+4854: <p:attrNameLst>
+4855: <p:attrName>
+4856: <p:tavLst>
+4857: <p:tav tm="0">
+4858: <p:val>
+4859: <p:strVal val="ppt_w"/>
+4860: <p:tav tm="100000">
+4861: <p:val>
+4862: <p:fltVal val="0"/>
+4863: <p:anim calcmode="lin" valueType="num">
+4864: <p:cBhvr>
+4865: <p:cTn id="172" dur="1000"/>
+4866: <p:tgtEl>
+4867: <p:spTgt spid="8"/>
+4868: <p:attrNameLst>
+4869: <p:attrName>
+4870: <p:tavLst>
+4871: <p:tav tm="0">
+4872: <p:val>
+4873: <p:strVal val="ppt_h"/>
+4874: <p:tav tm="100000">
+4875: <p:val>
+4876: <p:fltVal val="0"/>
+4877: <p:anim calcmode="lin" valueType="num">
+4878: <p:cBhvr>
+4879: <p:cTn id="173" dur="1000"/>
+4880: <p:tgtEl>
+4881: <p:spTgt spid="8"/>
+4882: <p:attrNameLst>
+4883: <p:attrName>
+4884: <p:tavLst>
+4885: <p:tav tm="0">
+4886: <p:val>
+4887: <p:strVal val="ppt_x"/>
+4888: <p:tav tm="100000">
+4889: <p:val>
+4890: <p:fltVal val="0.5"/>
+4891: <p:anim calcmode="lin" valueType="num">
+4892: <p:cBhvr>
+4893: <p:cTn id="174" dur="1000"/>
+4894: <p:tgtEl>
+4895: <p:spTgt spid="8"/>
+4896: <p:attrNameLst>
+4897: <p:attrName>
+4898: <p:tavLst>
+4899: <p:tav tm="0">
+4900: <p:val>
+4901: <p:strVal val="ppt_y"/>
+4902: <p:tav tm="100000">
+4903: <p:val>
+4904: <p:fltVal val="0.5"/>
+4905: <p:set>
+4906: <p:cBhvr>
+4907: <p:cTn id="175" dur="1" fill="hold">
+4908: <p:stCondLst>
+4909: <p:cond delay="999"/>
+4910: <p:tgtEl>
+4911: <p:spTgt spid="8"/>
+4912: <p:attrNameLst>
+4913: <p:attrName>
+4914: <p:to>
+4915: <p:strVal val="hidden"/>
+4916: <p:par>
+4917: <p:cTn id="176" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" grpId="1" nodeType="withEffect">
+4918: <p:stCondLst>
+4919: <p:cond delay="7250"/>
+4920: <p:iterate type="wd">
+4921: <p:tmPct val="10000"/>
+4922: <p:childTnLst>
+4923: <p:anim calcmode="lin" valueType="num">
+4924: <p:cBhvr>
+4925: <p:cTn id="177" dur="1000"/>
+4926: <p:tgtEl>
+4927: <p:spTgt spid="32"/>
+4928: <p:attrNameLst>
+4929: <p:attrName>
+4930: <p:tavLst>
+4931: <p:tav tm="0">
+4932: <p:val>
+4933: <p:strVal val="ppt_w"/>
+4934: <p:tav tm="100000">
+4935: <p:val>
+4936: <p:fltVal val="0"/>
+4937: <p:anim calcmode="lin" valueType="num">
+4938: <p:cBhvr>
+4939: <p:cTn id="178" dur="1000"/>
+4940: <p:tgtEl>
+4941: <p:spTgt spid="32"/>
+4942: <p:attrNameLst>
+4943: <p:attrName>
+4944: <p:tavLst>
+4945: <p:tav tm="0">
+4946: <p:val>
+4947: <p:strVal val="ppt_h"/>
+4948: <p:tav tm="100000">
+4949: <p:val>
+4950: <p:fltVal val="0"/>
+4951: <p:anim calcmode="lin" valueType="num">
+4952: <p:cBhvr>
+4953: <p:cTn id="179" dur="1000"/>
+4954: <p:tgtEl>
+4955: <p:spTgt spid="32"/>
+4956: <p:attrNameLst>
+4957: <p:attrName>
+4958: <p:tavLst>
+4959: <p:tav tm="0">
+4960: <p:val>
+4961: <p:strVal val="ppt_x"/>
+4962: <p:tav tm="100000">
+4963: <p:val>
+4964: <p:fltVal val="0.5"/>
+4965: <p:anim calcmode="lin" valueType="num">
+4966: <p:cBhvr>
+4967: <p:cTn id="180" dur="1000"/>
+4968: <p:tgtEl>
+4969: <p:spTgt spid="32"/>
+4970: <p:attrNameLst>
+4971: <p:attrName>
+4972: <p:tavLst>
+4973: <p:tav tm="0">
+4974: <p:val>
+4975: <p:strVal val="ppt_y"/>
+4976: <p:tav tm="100000">
+4977: <p:val>
+4978: <p:fltVal val="0.5"/>
+4979: <p:set>
+4980: <p:cBhvr>
+4981: <p:cTn id="181" dur="1" fill="hold">
+4982: <p:stCondLst>
+4983: <p:cond delay="999"/>
+4984: <p:tgtEl>
+4985: <p:spTgt spid="32"/>
+4986: <p:attrNameLst>
+4987: <p:attrName>
+4988: <p:to>
+4989: <p:strVal val="hidden"/>
+4990: <p:par>
+4991: <p:cTn id="182" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" grpId="1" nodeType="withEffect">
+4992: <p:stCondLst>
+4993: <p:cond delay="7250"/>
+4994: <p:iterate type="wd">
+4995: <p:tmPct val="10000"/>
+4996: <p:childTnLst>
+4997: <p:anim calcmode="lin" valueType="num">
+4998: <p:cBhvr>
+4999: <p:cTn id="183" dur="1000"/>
+5000: <p:tgtEl>
+5001: <p:spTgt spid="37"/>
+5002: <p:attrNameLst>
+5003: <p:attrName>
+5004: <p:tavLst>
+5005: <p:tav tm="0">
+5006: <p:val>
+5007: <p:strVal val="ppt_w"/>
+5008: <p:tav tm="100000">
+5009: <p:val>
+5010: <p:fltVal val="0"/>
+5011: <p:anim calcmode="lin" valueType="num">
+5012: <p:cBhvr>
+5013: <p:cTn id="184" dur="1000"/>
+5014: <p:tgtEl>
+5015: <p:spTgt spid="37"/>
+5016: <p:attrNameLst>
+5017: <p:attrName>
+5018: <p:tavLst>
+5019: <p:tav tm="0">
+5020: <p:val>
+5021: <p:strVal val="ppt_h"/>
+5022: <p:tav tm="100000">
+5023: <p:val>
+5024: <p:fltVal val="0"/>
+5025: <p:anim calcmode="lin" valueType="num">
+5026: <p:cBhvr>
+5027: <p:cTn id="185" dur="1000"/>
+5028: <p:tgtEl>
+5029: <p:spTgt spid="37"/>
+5030: <p:attrNameLst>
+5031: <p:attrName>
+5032: <p:tavLst>
+5033: <p:tav tm="0">
+5034: <p:val>
+5035: <p:strVal val="ppt_x"/>
+5036: <p:tav tm="100000">
+5037: <p:val>
+5038: <p:fltVal val="0.5"/>
+5039: <p:anim calcmode="lin" valueType="num">
+5040: <p:cBhvr>
+5041: <p:cTn id="186" dur="1000"/>
+5042: <p:tgtEl>
+5043: <p:spTgt spid="37"/>
+5044: <p:attrNameLst>
+5045: <p:attrName>
+5046: <p:tavLst>
+5047: <p:tav tm="0">
+5048: <p:val>
+5049: <p:strVal val="ppt_y"/>
+5050: <p:tav tm="100000">
+5051: <p:val>
+5052: <p:fltVal val="0.5"/>
+5053: <p:set>
+5054: <p:cBhvr>
+5055: <p:cTn id="187" dur="1" fill="hold">
+5056: <p:stCondLst>
+5057: <p:cond delay="999"/>
+5058: <p:tgtEl>
+5059: <p:spTgt spid="37"/>
+5060: <p:attrNameLst>
+5061: <p:attrName>
+5062: <p:to>
+5063: <p:strVal val="hidden"/>
+5064: <p:par>
+5065: <p:cTn id="188" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" grpId="1" nodeType="withEffect">
+5066: <p:stCondLst>
+5067: <p:cond delay="750"/>
+5068: <p:iterate type="wd">
+5069: <p:tmPct val="5000"/>
+5070: <p:childTnLst>
+5071: <p:anim calcmode="lin" valueType="num">
+5072: <p:cBhvr>
+5073: <p:cTn id="189" dur="1000"/>
+5074: <p:tgtEl>
+5075: <p:spTgt spid="47"/>
+5076: <p:attrNameLst>
+5077: <p:attrName>
+5078: <p:tavLst>
+5079: <p:tav tm="0">
+5080: <p:val>
+5081: <p:strVal val="ppt_w"/>
+5082: <p:tav tm="100000">
+5083: <p:val>
+5084: <p:fltVal val="0"/>
+5085: <p:anim calcmode="lin" valueType="num">
+5086: <p:cBhvr>
+5087: <p:cTn id="190" dur="1000"/>
+5088: <p:tgtEl>
+5089: <p:spTgt spid="47"/>
+5090: <p:attrNameLst>
+5091: <p:attrName>
+5092: <p:tavLst>
+5093: <p:tav tm="0">
+5094: <p:val>
+5095: <p:strVal val="ppt_h"/>
+5096: <p:tav tm="100000">
+5097: <p:val>
+5098: <p:fltVal val="0"/>
+5099: <p:anim calcmode="lin" valueType="num">
+5100: <p:cBhvr>
+5101: <p:cTn id="191" dur="1000"/>
+5102: <p:tgtEl>
+5103: <p:spTgt spid="47"/>
+5104: <p:attrNameLst>
+5105: <p:attrName>
+5106: <p:tavLst>
+5107: <p:tav tm="0">
+5108: <p:val>
+5109: <p:strVal val="ppt_x"/>
+5110: <p:tav tm="100000">
+5111: <p:val>
+5112: <p:fltVal val="0.5"/>
+5113: <p:anim calcmode="lin" valueType="num">
+5114: <p:cBhvr>
+5115: <p:cTn id="192" dur="1000"/>
+5116: <p:tgtEl>
+5117: <p:spTgt spid="47"/>
+5118: <p:attrNameLst>
+5119: <p:attrName>
+5120: <p:tavLst>
+5121: <p:tav tm="0">
+5122: <p:val>
+5123: <p:strVal val="ppt_y"/>
+5124: <p:tav tm="100000">
+5125: <p:val>
+5126: <p:fltVal val="0.5"/>
+5127: <p:set>
+5128: <p:cBhvr>
+5129: <p:cTn id="193" dur="1" fill="hold">
+5130: <p:stCondLst>
+5131: <p:cond delay="999"/>
+5132: <p:tgtEl>
+5133: <p:spTgt spid="47"/>
+5134: <p:attrNameLst>
+5135: <p:attrName>
+5136: <p:to>
+5137: <p:strVal val="hidden"/>
+5138: <p:par>
+5139: <p:cTn id="194" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" grpId="1" nodeType="withEffect">
+5140: <p:stCondLst>
+5141: <p:cond delay="750"/>
+5142: <p:iterate type="wd">
+5143: <p:tmPct val="5000"/>
+5144: <p:childTnLst>
+5145: <p:anim calcmode="lin" valueType="num">
+5146: <p:cBhvr>
+5147: <p:cTn id="195" dur="1000"/>
+5148: <p:tgtEl>
+5149: <p:spTgt spid="48"/>
+5150: <p:attrNameLst>
+5151: <p:attrName>
+5152: <p:tavLst>
+5153: <p:tav tm="0">
+5154: <p:val>
+5155: <p:strVal val="ppt_w"/>
+5156: <p:tav tm="100000">
+5157: <p:val>
+5158: <p:fltVal val="0"/>
+5159: <p:anim calcmode="lin" valueType="num">
+5160: <p:cBhvr>
+5161: <p:cTn id="196" dur="1000"/>
+5162: <p:tgtEl>
+5163: <p:spTgt spid="48"/>
+5164: <p:attrNameLst>
+5165: <p:attrName>
+5166: <p:tavLst>
+5167: <p:tav tm="0">
+5168: <p:val>
+5169: <p:strVal val="ppt_h"/>
+5170: <p:tav tm="100000">
+5171: <p:val>
+5172: <p:fltVal val="0"/>
+5173: <p:anim calcmode="lin" valueType="num">
+5174: <p:cBhvr>
+5175: <p:cTn id="197" dur="1000"/>
+5176: <p:tgtEl>
+5177: <p:spTgt spid="48"/>
+5178: <p:attrNameLst>
+5179: <p:attrName>
+5180: <p:tavLst>
+5181: <p:tav tm="0">
+5182: <p:val>
+5183: <p:strVal val="ppt_x"/>
+5184: <p:tav tm="100000">
+5185: <p:val>
+5186: <p:fltVal val="0.5"/>
+5187: <p:anim calcmode="lin" valueType="num">
+5188: <p:cBhvr>
+5189: <p:cTn id="198" dur="1000"/>
+5190: <p:tgtEl>
+5191: <p:spTgt spid="48"/>
+5192: <p:attrNameLst>
+5193: <p:attrName>
+5194: <p:tavLst>
+5195: <p:tav tm="0">
+5196: <p:val>
+5197: <p:strVal val="ppt_y"/>
+5198: <p:tav tm="100000">
+5199: <p:val>
+5200: <p:fltVal val="0.5"/>
+5201: <p:set>
+5202: <p:cBhvr>
+5203: <p:cTn id="199" dur="1" fill="hold">
+5204: <p:stCondLst>
+5205: <p:cond delay="999"/>
+5206: <p:tgtEl>
+5207: <p:spTgt spid="48"/>
+5208: <p:attrNameLst>
+5209: <p:attrName>
+5210: <p:to>
+5211: <p:strVal val="hidden"/>
+5212: <p:par>
+5213: <p:cTn id="200" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" grpId="1" nodeType="withEffect">
+5214: <p:stCondLst>
+5215: <p:cond delay="750"/>
+5216: <p:iterate type="wd">
+5217: <p:tmPct val="5000"/>
+5218: <p:childTnLst>
+5219: <p:anim calcmode="lin" valueType="num">
+5220: <p:cBhvr>
+5221: <p:cTn id="201" dur="1000"/>
+5222: <p:tgtEl>
+5223: <p:spTgt spid="49"/>
+5224: <p:attrNameLst>
+5225: <p:attrName>
+5226: <p:tavLst>
+5227: <p:tav tm="0">
+5228: <p:val>
+5229: <p:strVal val="ppt_w"/>
+5230: <p:tav tm="100000">
+5231: <p:val>
+5232: <p:fltVal val="0"/>
+5233: <p:anim calcmode="lin" valueType="num">
+5234: <p:cBhvr>
+5235: <p:cTn id="202" dur="1000"/>
+5236: <p:tgtEl>
+5237: <p:spTgt spid="49"/>
+5238: <p:attrNameLst>
+5239: <p:attrName>
+5240: <p:tavLst>
+5241: <p:tav tm="0">
+5242: <p:val>
+5243: <p:strVal val="ppt_h"/>
+5244: <p:tav tm="100000">
+5245: <p:val>
+5246: <p:fltVal val="0"/>
+5247: <p:anim calcmode="lin" valueType="num">
+5248: <p:cBhvr>
+5249: <p:cTn id="203" dur="1000"/>
+5250: <p:tgtEl>
+5251: <p:spTgt spid="49"/>
+5252: <p:attrNameLst>
+5253: <p:attrName>
+5254: <p:tavLst>
+5255: <p:tav tm="0">
+5256: <p:val>
+5257: <p:strVal val="ppt_x"/>
+5258: <p:tav tm="100000">
+5259: <p:val>
+5260: <p:fltVal val="0.5"/>
+5261: <p:anim calcmode="lin" valueType="num">
+5262: <p:cBhvr>
+5263: <p:cTn id="204" dur="1000"/>
+5264: <p:tgtEl>
+5265: <p:spTgt spid="49"/>
+5266: <p:attrNameLst>
+5267: <p:attrName>
+5268: <p:tavLst>
+5269: <p:tav tm="0">
+5270: <p:val>
+5271: <p:strVal val="ppt_y"/>
+5272: <p:tav tm="100000">
+5273: <p:val>
+5274: <p:fltVal val="0.5"/>
+5275: <p:set>
+5276: <p:cBhvr>
+5277: <p:cTn id="205" dur="1" fill="hold">
+5278: <p:stCondLst>
+5279: <p:cond delay="999"/>
+5280: <p:tgtEl>
+5281: <p:spTgt spid="49"/>
+5282: <p:attrNameLst>
+5283: <p:attrName>
+5284: <p:to>
+5285: <p:strVal val="hidden"/>
+5286: <p:par>
+5287: <p:cTn id="206" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" grpId="1" nodeType="withEffect">
+5288: <p:stCondLst>
+5289: <p:cond delay="750"/>
+5290: <p:iterate type="wd">
+5291: <p:tmPct val="5000"/>
+5292: <p:childTnLst>
+5293: <p:anim calcmode="lin" valueType="num">
+5294: <p:cBhvr>
+5295: <p:cTn id="207" dur="1000"/>
+5296: <p:tgtEl>
+5297: <p:spTgt spid="53"/>
+5298: <p:attrNameLst>
+5299: <p:attrName>
+5300: <p:tavLst>
+5301: <p:tav tm="0">
+5302: <p:val>
+5303: <p:strVal val="ppt_w"/>
+5304: <p:tav tm="100000">
+5305: <p:val>
+5306: <p:fltVal val="0"/>
+5307: <p:anim calcmode="lin" valueType="num">
+5308: <p:cBhvr>
+5309: <p:cTn id="208" dur="1000"/>
+5310: <p:tgtEl>
+5311: <p:spTgt spid="53"/>
+5312: <p:attrNameLst>
+5313: <p:attrName>
+5314: <p:tavLst>
+5315: <p:tav tm="0">
+5316: <p:val>
+5317: <p:strVal val="ppt_h"/>
+5318: <p:tav tm="100000">
+5319: <p:val>
+5320: <p:fltVal val="0"/>
+5321: <p:anim calcmode="lin" valueType="num">
+5322: <p:cBhvr>
+5323: <p:cTn id="209" dur="1000"/>
+5324: <p:tgtEl>
+5325: <p:spTgt spid="53"/>
+5326: <p:attrNameLst>
+5327: <p:attrName>
+5328: <p:tavLst>
+5329: <p:tav tm="0">
+5330: <p:val>
+5331: <p:strVal val="ppt_x"/>
+5332: <p:tav tm="100000">
+5333: <p:val>
+5334: <p:fltVal val="0.5"/>
+5335: <p:anim calcmode="lin" valueType="num">
+5336: <p:cBhvr>
+5337: <p:cTn id="210" dur="1000"/>
+5338: <p:tgtEl>
+5339: <p:spTgt spid="53"/>
+5340: <p:attrNameLst>
+5341: <p:attrName>
+5342: <p:tavLst>
+5343: <p:tav tm="0">
+5344: <p:val>
+5345: <p:strVal val="ppt_y"/>
+5346: <p:tav tm="100000">
+5347: <p:val>
+5348: <p:fltVal val="0.5"/>
+5349: <p:set>
+5350: <p:cBhvr>
+5351: <p:cTn id="211" dur="1" fill="hold">
+5352: <p:stCondLst>
+5353: <p:cond delay="999"/>
+5354: <p:tgtEl>
+5355: <p:spTgt spid="53"/>
+5356: <p:attrNameLst>
+5357: <p:attrName>
+5358: <p:to>
+5359: <p:strVal val="hidden"/>
+5360: <p:par>
+5361: <p:cTn id="212" presetID="23" presetClass="exit" presetSubtype="544" fill="hold" nodeType="withEffect">
+5362: <p:stCondLst>
+5363: <p:cond delay="750"/>
+5364: <p:iterate type="wd">
+5365: <p:tmPct val="5000"/>
+5366: <p:childTnLst>
+5367: <p:anim calcmode="lin" valueType="num">
+5368: <p:cBhvr>
+5369: <p:cTn id="213" dur="1000"/>
+5370: <p:tgtEl>
+5371: <p:spTgt spid="56"/>
+5372: <p:attrNameLst>
+5373: <p:attrName>
+5374: <p:tavLst>
+5375: <p:tav tm="0">
+5376: <p:val>
+5377: <p:strVal val="ppt_w"/>
+5378: <p:tav tm="100000">
+5379: <p:val>
+5380: <p:fltVal val="0"/>
+5381: <p:anim calcmode="lin" valueType="num">
+5382: <p:cBhvr>
+5383: <p:cTn id="214" dur="1000"/>
+5384: <p:tgtEl>
+5385: <p:spTgt spid="56"/>
+5386: <p:attrNameLst>
+5387: <p:attrName>
+5388: <p:tavLst>
+5389: <p:tav tm="0">
+5390: <p:val>
+5391: <p:strVal val="ppt_h"/>
+5392: <p:tav tm="100000">
+5393: <p:val>
+5394: <p:fltVal val="0"/>
+5395: <p:anim calcmode="lin" valueType="num">
+5396: <p:cBhvr>
+5397: <p:cTn id="215" dur="1000"/>
+5398: <p:tgtEl>
+5399: <p:spTgt spid="56"/>
+5400: <p:attrNameLst>
+5401: <p:attrName>
+5402: <p:tavLst>
+5403: <p:tav tm="0">
+5404: <p:val>
+5405: <p:strVal val="ppt_x"/>
+5406: <p:tav tm="100000">
+5407: <p:val>
+5408: <p:fltVal val="0.5"/>
+5409: <p:anim calcmode="lin" valueType="num">
+5410: <p:cBhvr>
+5411: <p:cTn id="216" dur="1000"/>
+5412: <p:tgtEl>
+5413: <p:spTgt spid="56"/>
+5414: <p:attrNameLst>
+5415: <p:attrName>
+5416: <p:tavLst>
+5417: <p:tav tm="0">
+5418: <p:val>
+5419: <p:strVal val="ppt_y"/>
+5420: <p:tav tm="100000">
+5421: <p:val>
+5422: <p:fltVal val="0.5"/>
+5423: <p:set>
+5424: <p:cBhvr>
+5425: <p:cTn id="217" dur="1" fill="hold">
+5426: <p:stCondLst>
+5427: <p:cond delay="999"/>
+5428: <p:tgtEl>
+5429: <p:spTgt spid="56"/>
+5430: <p:attrNameLst>
+5431: <p:attrName>
+5432: <p:to>
+5433: <p:strVal val="hidden"/>
+5434: <p:prevCondLst>
+5435: <p:cond evt="onPrev" delay="0">
+5436: <p:tgtEl>
+5437: <p:sldTgt/>
+5438: <p:nextCondLst>
+5439: <p:cond evt="onNext" delay="0">
+5440: <p:tgtEl>
+5441: <p:sldTgt/>
+5442: <p:bldLst>
+5443: <p:bldP spid="32" grpId="0"/>
+5444: <p:bldP spid="32" grpId="1"/>
+5445: <p:bldP spid="33" grpId="0"/>
+5446: <p:bldP spid="33" grpId="1"/>
+5447: <p:bldP spid="34" grpId="0"/>
+5448: <p:bldP spid="34" grpId="1"/>
+5449: <p:bldP spid="35" grpId="0"/>
+5450: <p:bldP spid="35" grpId="1"/>
+5451: <p:bldP spid="36" grpId="0"/>
+5452: <p:bldP spid="36" grpId="1"/>
+5453: <p:bldP spid="37" grpId="0"/>
+5454: <p:bldP spid="37" grpId="1"/>
+5455: <p:bldP spid="47" grpId="0" animBg="1"/>
+5456: <p:bldP spid="47" grpId="1" animBg="1"/>
+5457: <p:bldP spid="48" grpId="0" animBg="1"/>
+5458: <p:bldP spid="48" grpId="1" animBg="1"/>
+5459: <p:bldP spid="49" grpId="0" animBg="1"/>
+5460: <p:bldP spid="49" grpId="1" animBg="1"/>
+5461: <p:bldP spid="53" grpId="0" animBg="1"/>
+5462: <p:bldP spid="53" grpId="1" animBg="1"/>

@@ -1,0 +1,2632 @@
+1: <p:cNvPr id="1" name=""/>
+2: <p:cNvGrpSpPr/>
+3: <p:nvPr/>
+4: <a:off x="0" y="0"/>
+5: <a:ext cx="0" cy="0"/>
+6: <a:chOff x="0" y="0"/>
+7: <a:chExt cx="0" cy="0"/>
+8: <p:cNvPr id="2" name="组合 1"/>
+9: <p:cNvGrpSpPr/>
+10: <p:nvPr/>
+11: <a:off x="4310063" y="2089547"/>
+12: <a:ext cx="1851422" cy="1841897"/>
+13: <a:chOff x="5747317" y="2786507"/>
+14: <a:chExt cx="2467902" cy="2455201"/>
+15: <p:cNvPr id="106" name="空心弧 105"/>
+16: <p:cNvSpPr/>
+17: <p:nvPr/>
+18: <a:off x="5753668" y="2786504"/>
+19: <a:ext cx="2455201" cy="2455205"/>
+20: <a:gd name="adj1" fmla="val 15749000"/>
+21: <a:gd name="adj2" fmla="val 2096915"/>
+22: <a:gd name="adj3" fmla="val 3665"/>
+23: <a:srgbClr val="8DBF67"/>
+24: <a:noFill/>
+25: <a:shade val="50000"/>
+26: <a:schemeClr val="accent1"/>
+27: <a:schemeClr val="accent1"/>
+28: <a:schemeClr val="lt1"/>
+29: <a:bodyPr anchor="ctr"/>
+30: <a:lstStyle/>
+31: <a:defRPr/>
+32: <a:prstClr val="black"/>
+33: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+34: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+35: <p:cNvPr id="107" name="空心弧 106"/>
+36: <p:cNvSpPr/>
+37: <p:nvPr/>
+38: <a:off x="5760016" y="2786504"/>
+39: <a:ext cx="2455201" cy="2455205"/>
+40: <a:gd name="adj1" fmla="val 10800000"/>
+41: <a:gd name="adj2" fmla="val 15820524"/>
+42: <a:gd name="adj3" fmla="val 4168"/>
+43: <a:srgbClr val="FD6D5C"/>
+44: <a:noFill/>
+45: <a:shade val="50000"/>
+46: <a:schemeClr val="accent1"/>
+47: <a:schemeClr val="accent1"/>
+48: <a:schemeClr val="lt1"/>
+49: <a:bodyPr anchor="ctr"/>
+50: <a:lstStyle/>
+51: <a:defRPr/>
+52: <a:prstClr val="black"/>
+53: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+54: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+55: <p:cNvPr id="108" name="空心弧 107"/>
+56: <p:cNvSpPr/>
+57: <p:nvPr/>
+58: <a:off x="5747320" y="2786504"/>
+59: <a:ext cx="2455201" cy="2455205"/>
+60: <a:gd name="adj1" fmla="val 17965074"/>
+61: <a:gd name="adj2" fmla="val 2096915"/>
+62: <a:gd name="adj3" fmla="val 3665"/>
+63: <a:srgbClr val="BFBFBF"/>
+64: <a:noFill/>
+65: <a:shade val="50000"/>
+66: <a:schemeClr val="accent1"/>
+67: <a:schemeClr val="accent1"/>
+68: <a:schemeClr val="lt1"/>
+69: <a:bodyPr anchor="ctr"/>
+70: <a:lstStyle/>
+71: <a:defRPr/>
+72: <a:prstClr val="black"/>
+73: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+74: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+75: <p:cNvPr id="3" name="组合 2"/>
+76: <p:cNvGrpSpPr/>
+77: <p:nvPr/>
+78: <a:off x="2945606" y="2089547"/>
+79: <a:ext cx="1852613" cy="1841897"/>
+80: <a:chOff x="3928162" y="2786507"/>
+81: <a:chExt cx="2469601" cy="2455201"/>
+82: <p:cNvPr id="104" name="空心弧 103"/>
+83: <p:cNvSpPr/>
+84: <p:nvPr/>
+85: <a:off x="3931395" y="2786448"/>
+86: <a:ext cx="2455201" cy="2455317"/>
+87: <a:gd name="adj1" fmla="val 15749000"/>
+88: <a:gd name="adj2" fmla="val 1083789"/>
+89: <a:gd name="adj3" fmla="val 4002"/>
+90: <a:srgbClr val="5F81A5"/>
+91: <a:noFill/>
+92: <a:shade val="50000"/>
+93: <a:schemeClr val="accent1"/>
+94: <a:schemeClr val="accent1"/>
+95: <a:schemeClr val="lt1"/>
+96: <a:bodyPr anchor="ctr"/>
+97: <a:lstStyle/>
+98: <a:defRPr/>
+99: <a:prstClr val="black"/>
+100: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+101: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+102: <p:cNvPr id="105" name="空心弧 104"/>
+103: <p:cNvSpPr/>
+104: <p:nvPr/>
+105: <a:off x="3928221" y="2786448"/>
+106: <a:ext cx="2455201" cy="2455317"/>
+107: <a:gd name="adj1" fmla="val 10800000"/>
+108: <a:gd name="adj2" fmla="val 15820524"/>
+109: <a:gd name="adj3" fmla="val 4168"/>
+110: <a:srgbClr val="FBC75D"/>
+111: <a:noFill/>
+112: <a:shade val="50000"/>
+113: <a:schemeClr val="accent1"/>
+114: <a:schemeClr val="accent1"/>
+115: <a:schemeClr val="lt1"/>
+116: <a:bodyPr anchor="ctr"/>
+117: <a:lstStyle/>
+118: <a:defRPr/>
+119: <a:prstClr val="black"/>
+120: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+121: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+122: <p:cNvPr id="110" name="空心弧 109"/>
+123: <p:cNvSpPr/>
+124: <p:nvPr/>
+125: <a:off x="3942504" y="2786449"/>
+126: <a:ext cx="2455201" cy="2455316"/>
+127: <a:gd name="adj1" fmla="val 18950913"/>
+128: <a:gd name="adj2" fmla="val 2096915"/>
+129: <a:gd name="adj3" fmla="val 3665"/>
+130: <a:srgbClr val="11B5B8"/>
+131: <a:noFill/>
+132: <a:shade val="50000"/>
+133: <a:schemeClr val="accent1"/>
+134: <a:schemeClr val="accent1"/>
+135: <a:schemeClr val="lt1"/>
+136: <a:bodyPr anchor="ctr"/>
+137: <a:lstStyle/>
+138: <a:defRPr/>
+139: <a:prstClr val="black"/>
+140: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+141: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+142: <p:cNvPr id="4" name="组合 10"/>
+143: <p:cNvGrpSpPr/>
+144: <p:nvPr/>
+145: <a:off x="2255044" y="2689622"/>
+146: <a:ext cx="670322" cy="670322"/>
+147: <a:chOff x="3006681" y="3585649"/>
+148: <a:chExt cx="893782" cy="893782"/>
+149: <p:cNvPr id="94" name="椭圆 93"/>
+150: <p:cNvSpPr/>
+151: <p:nvPr/>
+152: <a:off x="3006681" y="3585649"/>
+153: <a:ext cx="893782" cy="893782"/>
+154: <a:avLst/>
+155: <a:srgbClr val="FBC75D"/>
+156: <a:schemeClr val="bg1"/>
+157: <a:noFill/>
+158: <a:shade val="50000"/>
+159: <a:schemeClr val="accent1"/>
+160: <a:schemeClr val="accent1"/>
+161: <a:schemeClr val="lt1"/>
+162: <a:bodyPr anchor="ctr"/>
+163: <a:lstStyle/>
+164: <a:defRPr/>
+165: <a:prstClr val="white"/>
+166: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+167: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+168: <p:cNvPr id="61477" name="Freeform 275"/>
+169: <a:spLocks noEditPoints="1"/>
+170: <p:nvPr/>
+171: <a:off x="3078677" y="3661381"/>
+172: <a:ext cx="763200" cy="763200"/>
+173: <a:avLst/>
+174: <a:gd name="T0" fmla="*/ 2147483646 w 288"/>
+175: <a:gd name="T1" fmla="*/ 0 h 288"/>
+176: <a:gd name="T2" fmla="*/ 0 w 288"/>
+177: <a:gd name="T3" fmla="*/ 2147483646 h 288"/>
+178: <a:gd name="T4" fmla="*/ 2147483646 w 288"/>
+179: <a:gd name="T5" fmla="*/ 2147483646 h 288"/>
+180: <a:gd name="T6" fmla="*/ 2147483646 w 288"/>
+181: <a:gd name="T7" fmla="*/ 2147483646 h 288"/>
+182: <a:gd name="T8" fmla="*/ 2147483646 w 288"/>
+183: <a:gd name="T9" fmla="*/ 0 h 288"/>
+184: <a:gd name="T10" fmla="*/ 2147483646 w 288"/>
+185: <a:gd name="T11" fmla="*/ 2147483646 h 288"/>
+186: <a:gd name="T12" fmla="*/ 2147483646 w 288"/>
+187: <a:gd name="T13" fmla="*/ 2147483646 h 288"/>
+188: <a:gd name="T14" fmla="*/ 2147483646 w 288"/>
+189: <a:gd name="T15" fmla="*/ 2147483646 h 288"/>
+190: <a:gd name="T16" fmla="*/ 2147483646 w 288"/>
+191: <a:gd name="T17" fmla="*/ 2147483646 h 288"/>
+192: <a:gd name="T18" fmla="*/ 2147483646 w 288"/>
+193: <a:gd name="T19" fmla="*/ 2147483646 h 288"/>
+194: <a:gd name="T20" fmla="*/ 2147483646 w 288"/>
+195: <a:gd name="T21" fmla="*/ 2147483646 h 288"/>
+196: <a:gd name="T22" fmla="*/ 2147483646 w 288"/>
+197: <a:gd name="T23" fmla="*/ 2147483646 h 288"/>
+198: <a:gd name="T24" fmla="*/ 2147483646 w 288"/>
+199: <a:gd name="T25" fmla="*/ 2147483646 h 288"/>
+200: <a:gd name="T26" fmla="*/ 2147483646 w 288"/>
+201: <a:gd name="T27" fmla="*/ 2147483646 h 288"/>
+202: <a:gd name="T28" fmla="*/ 2147483646 w 288"/>
+203: <a:gd name="T29" fmla="*/ 2147483646 h 288"/>
+204: <a:gd name="T30" fmla="*/ 2147483646 w 288"/>
+205: <a:gd name="T31" fmla="*/ 2147483646 h 288"/>
+206: <a:gd name="T32" fmla="*/ 2147483646 w 288"/>
+207: <a:gd name="T33" fmla="*/ 2147483646 h 288"/>
+208: <a:gd name="T34" fmla="*/ 2147483646 w 288"/>
+209: <a:gd name="T35" fmla="*/ 2147483646 h 288"/>
+210: <a:gd name="T36" fmla="*/ 2147483646 w 288"/>
+211: <a:gd name="T37" fmla="*/ 2147483646 h 288"/>
+212: <a:gd name="T38" fmla="*/ 2147483646 w 288"/>
+213: <a:gd name="T39" fmla="*/ 2147483646 h 288"/>
+214: <a:gd name="T40" fmla="*/ 2147483646 w 288"/>
+215: <a:gd name="T41" fmla="*/ 2147483646 h 288"/>
+216: <a:gd name="T42" fmla="*/ 2147483646 w 288"/>
+217: <a:gd name="T43" fmla="*/ 2147483646 h 288"/>
+218: <a:gd name="T44" fmla="*/ 2147483646 w 288"/>
+219: <a:gd name="T45" fmla="*/ 2147483646 h 288"/>
+220: <a:gd name="T46" fmla="*/ 2147483646 w 288"/>
+221: <a:gd name="T47" fmla="*/ 2147483646 h 288"/>
+222: <a:gd name="T48" fmla="*/ 2147483646 w 288"/>
+223: <a:gd name="T49" fmla="*/ 2147483646 h 288"/>
+224: <a:gd name="T50" fmla="*/ 2147483646 w 288"/>
+225: <a:gd name="T51" fmla="*/ 2147483646 h 288"/>
+226: <a:gd name="T52" fmla="*/ 2147483646 w 288"/>
+227: <a:gd name="T53" fmla="*/ 2147483646 h 288"/>
+228: <a:gd name="T54" fmla="*/ 2147483646 w 288"/>
+229: <a:gd name="T55" fmla="*/ 2147483646 h 288"/>
+230: <a:gd name="T56" fmla="*/ 2147483646 w 288"/>
+231: <a:gd name="T57" fmla="*/ 2147483646 h 288"/>
+232: <a:gd name="T58" fmla="*/ 2147483646 w 288"/>
+233: <a:gd name="T59" fmla="*/ 2147483646 h 288"/>
+234: <a:gd name="T60" fmla="*/ 2147483646 w 288"/>
+235: <a:gd name="T61" fmla="*/ 2147483646 h 288"/>
+236: <a:gd name="T62" fmla="*/ 2147483646 w 288"/>
+237: <a:gd name="T63" fmla="*/ 2147483646 h 288"/>
+238: <a:gd name="T64" fmla="*/ 2147483646 w 288"/>
+239: <a:gd name="T65" fmla="*/ 2147483646 h 288"/>
+240: <a:gd name="T66" fmla="*/ 2147483646 w 288"/>
+241: <a:gd name="T67" fmla="*/ 2147483646 h 288"/>
+242: <a:gd name="T68" fmla="*/ 2147483646 w 288"/>
+243: <a:gd name="T69" fmla="*/ 2147483646 h 288"/>
+244: <a:gd name="T70" fmla="*/ 2147483646 w 288"/>
+245: <a:gd name="T71" fmla="*/ 2147483646 h 288"/>
+246: <a:gd name="T72" fmla="*/ 2147483646 w 288"/>
+247: <a:gd name="T73" fmla="*/ 2147483646 h 288"/>
+248: <a:gd name="T74" fmla="*/ 2147483646 w 288"/>
+249: <a:gd name="T75" fmla="*/ 2147483646 h 288"/>
+250: <a:gd name="T76" fmla="*/ 2147483646 w 288"/>
+251: <a:gd name="T77" fmla="*/ 2147483646 h 288"/>
+252: <a:gd name="T78" fmla="*/ 2147483646 w 288"/>
+253: <a:gd name="T79" fmla="*/ 2147483646 h 288"/>
+254: <a:gd name="T80" fmla="*/ 2147483646 w 288"/>
+255: <a:gd name="T81" fmla="*/ 2147483646 h 288"/>
+256: <a:gd name="T82" fmla="*/ 2147483646 w 288"/>
+257: <a:gd name="T83" fmla="*/ 2147483646 h 288"/>
+258: <a:gd name="T84" fmla="*/ 2147483646 w 288"/>
+259: <a:gd name="T85" fmla="*/ 2147483646 h 288"/>
+260: <a:gd name="T86" fmla="*/ 2147483646 w 288"/>
+261: <a:gd name="T87" fmla="*/ 2147483646 h 288"/>
+262: <a:gd name="T88" fmla="*/ 2147483646 w 288"/>
+263: <a:gd name="T89" fmla="*/ 2147483646 h 288"/>
+264: <a:gd name="T90" fmla="*/ 2147483646 w 288"/>
+265: <a:gd name="T91" fmla="*/ 2147483646 h 288"/>
+266: <a:gd name="T92" fmla="*/ 2147483646 w 288"/>
+267: <a:gd name="T93" fmla="*/ 2147483646 h 288"/>
+268: <a:gd name="T94" fmla="*/ 2147483646 w 288"/>
+269: <a:gd name="T95" fmla="*/ 2147483646 h 288"/>
+270: <a:gd name="T96" fmla="*/ 2147483646 w 288"/>
+271: <a:gd name="T97" fmla="*/ 2147483646 h 288"/>
+272: <a:gd name="T98" fmla="*/ 0 60000 65536"/>
+273: <a:gd name="T99" fmla="*/ 0 60000 65536"/>
+274: <a:gd name="T100" fmla="*/ 0 60000 65536"/>
+275: <a:gd name="T101" fmla="*/ 0 60000 65536"/>
+276: <a:gd name="T102" fmla="*/ 0 60000 65536"/>
+277: <a:gd name="T103" fmla="*/ 0 60000 65536"/>
+278: <a:gd name="T104" fmla="*/ 0 60000 65536"/>
+279: <a:gd name="T105" fmla="*/ 0 60000 65536"/>
+280: <a:gd name="T106" fmla="*/ 0 60000 65536"/>
+281: <a:gd name="T107" fmla="*/ 0 60000 65536"/>
+282: <a:gd name="T108" fmla="*/ 0 60000 65536"/>
+283: <a:gd name="T109" fmla="*/ 0 60000 65536"/>
+284: <a:gd name="T110" fmla="*/ 0 60000 65536"/>
+285: <a:gd name="T111" fmla="*/ 0 60000 65536"/>
+286: <a:gd name="T112" fmla="*/ 0 60000 65536"/>
+287: <a:gd name="T113" fmla="*/ 0 60000 65536"/>
+288: <a:gd name="T114" fmla="*/ 0 60000 65536"/>
+289: <a:gd name="T115" fmla="*/ 0 60000 65536"/>
+290: <a:gd name="T116" fmla="*/ 0 60000 65536"/>
+291: <a:gd name="T117" fmla="*/ 0 60000 65536"/>
+292: <a:gd name="T118" fmla="*/ 0 60000 65536"/>
+293: <a:gd name="T119" fmla="*/ 0 60000 65536"/>
+294: <a:gd name="T120" fmla="*/ 0 60000 65536"/>
+295: <a:gd name="T121" fmla="*/ 0 60000 65536"/>
+296: <a:gd name="T122" fmla="*/ 0 60000 65536"/>
+297: <a:gd name="T123" fmla="*/ 0 60000 65536"/>
+298: <a:gd name="T124" fmla="*/ 0 60000 65536"/>
+299: <a:gd name="T125" fmla="*/ 0 60000 65536"/>
+300: <a:gd name="T126" fmla="*/ 0 60000 65536"/>
+301: <a:gd name="T127" fmla="*/ 0 60000 65536"/>
+302: <a:gd name="T128" fmla="*/ 0 60000 65536"/>
+303: <a:gd name="T129" fmla="*/ 0 60000 65536"/>
+304: <a:gd name="T130" fmla="*/ 0 60000 65536"/>
+305: <a:gd name="T131" fmla="*/ 0 60000 65536"/>
+306: <a:gd name="T132" fmla="*/ 0 60000 65536"/>
+307: <a:gd name="T133" fmla="*/ 0 60000 65536"/>
+308: <a:gd name="T134" fmla="*/ 0 60000 65536"/>
+309: <a:gd name="T135" fmla="*/ 0 60000 65536"/>
+310: <a:gd name="T136" fmla="*/ 0 60000 65536"/>
+311: <a:gd name="T137" fmla="*/ 0 60000 65536"/>
+312: <a:gd name="T138" fmla="*/ 0 60000 65536"/>
+313: <a:gd name="T139" fmla="*/ 0 60000 65536"/>
+314: <a:gd name="T140" fmla="*/ 0 60000 65536"/>
+315: <a:gd name="T141" fmla="*/ 0 60000 65536"/>
+316: <a:gd name="T142" fmla="*/ 0 60000 65536"/>
+317: <a:gd name="T143" fmla="*/ 0 60000 65536"/>
+318: <a:gd name="T144" fmla="*/ 0 60000 65536"/>
+319: <a:gd name="T145" fmla="*/ 0 60000 65536"/>
+320: <a:gd name="T146" fmla="*/ 0 60000 65536"/>
+321: <a:gd name="T147" fmla="*/ 0 w 288"/>
+322: <a:gd name="T148" fmla="*/ 0 h 288"/>
+323: <a:gd name="T149" fmla="*/ 288 w 288"/>
+324: <a:gd name="T150" fmla="*/ 288 h 288"/>
+325: <a:ahLst/>
+326: <a:pos x="T0" y="T1"/>
+327: <a:pos x="T2" y="T3"/>
+328: <a:pos x="T4" y="T5"/>
+329: <a:pos x="T6" y="T7"/>
+330: <a:pos x="T8" y="T9"/>
+331: <a:pos x="T10" y="T11"/>
+332: <a:pos x="T12" y="T13"/>
+333: <a:pos x="T14" y="T15"/>
+334: <a:pos x="T16" y="T17"/>
+335: <a:pos x="T18" y="T19"/>
+336: <a:pos x="T20" y="T21"/>
+337: <a:pos x="T22" y="T23"/>
+338: <a:pos x="T24" y="T25"/>
+339: <a:pos x="T26" y="T27"/>
+340: <a:pos x="T28" y="T29"/>
+341: <a:pos x="T30" y="T31"/>
+342: <a:pos x="T32" y="T33"/>
+343: <a:pos x="T34" y="T35"/>
+344: <a:pos x="T36" y="T37"/>
+345: <a:pos x="T38" y="T39"/>
+346: <a:pos x="T40" y="T41"/>
+347: <a:pos x="T42" y="T43"/>
+348: <a:pos x="T44" y="T45"/>
+349: <a:pos x="T46" y="T47"/>
+350: <a:pos x="T48" y="T49"/>
+351: <a:pos x="T50" y="T51"/>
+352: <a:pos x="T52" y="T53"/>
+353: <a:pos x="T54" y="T55"/>
+354: <a:pos x="T56" y="T57"/>
+355: <a:pos x="T58" y="T59"/>
+356: <a:pos x="T60" y="T61"/>
+357: <a:pos x="T62" y="T63"/>
+358: <a:pos x="T64" y="T65"/>
+359: <a:pos x="T66" y="T67"/>
+360: <a:pos x="T68" y="T69"/>
+361: <a:pos x="T70" y="T71"/>
+362: <a:pos x="T72" y="T73"/>
+363: <a:pos x="T74" y="T75"/>
+364: <a:pos x="T76" y="T77"/>
+365: <a:pos x="T78" y="T79"/>
+366: <a:pos x="T80" y="T81"/>
+367: <a:pos x="T82" y="T83"/>
+368: <a:pos x="T84" y="T85"/>
+369: <a:pos x="T86" y="T87"/>
+370: <a:pos x="T88" y="T89"/>
+371: <a:pos x="T90" y="T91"/>
+372: <a:pos x="T92" y="T93"/>
+373: <a:pos x="T94" y="T95"/>
+374: <a:pos x="T96" y="T97"/>
+375: <a:rect l="T147" t="T148" r="T149" b="T150"/>
+376: <a:pt x="144" y="0"/>
+377: <a:pt x="65" y="0"/>
+378: <a:pt x="0" y="64"/>
+379: <a:pt x="0" y="144"/>
+380: <a:pt x="0" y="223"/>
+381: <a:pt x="65" y="288"/>
+382: <a:pt x="144" y="288"/>
+383: <a:pt x="224" y="288"/>
+384: <a:pt x="288" y="223"/>
+385: <a:pt x="288" y="144"/>
+386: <a:pt x="288" y="64"/>
+387: <a:pt x="224" y="0"/>
+388: <a:pt x="144" y="0"/>
+389: <a:close/>
+390: <a:pt x="233" y="131"/>
+391: <a:pt x="232" y="133"/>
+392: <a:pt x="231" y="134"/>
+393: <a:pt x="230" y="134"/>
+394: <a:pt x="189" y="161"/>
+395: <a:pt x="189" y="161"/>
+396: <a:pt x="189" y="161"/>
+397: <a:pt x="188" y="161"/>
+398: <a:pt x="187" y="164"/>
+399: <a:pt x="187" y="165"/>
+400: <a:pt x="187" y="165"/>
+401: <a:pt x="187" y="166"/>
+402: <a:pt x="188" y="166"/>
+403: <a:pt x="205" y="218"/>
+404: <a:pt x="205" y="218"/>
+405: <a:pt x="205" y="218"/>
+406: <a:pt x="206" y="220"/>
+407: <a:pt x="206" y="221"/>
+408: <a:pt x="206" y="223"/>
+409: <a:pt x="206" y="225"/>
+410: <a:pt x="206" y="227"/>
+411: <a:pt x="205" y="229"/>
+412: <a:pt x="203" y="231"/>
+413: <a:pt x="200" y="232"/>
+414: <a:pt x="198" y="232"/>
+415: <a:pt x="198" y="232"/>
+416: <a:pt x="198" y="232"/>
+417: <a:pt x="198" y="232"/>
+418: <a:pt x="194" y="232"/>
+419: <a:pt x="192" y="230"/>
+420: <a:pt x="190" y="229"/>
+421: <a:pt x="148" y="195"/>
+422: <a:pt x="148" y="195"/>
+423: <a:pt x="148" y="195"/>
+424: <a:pt x="148" y="194"/>
+425: <a:pt x="147" y="194"/>
+426: <a:pt x="146" y="194"/>
+427: <a:pt x="145" y="194"/>
+428: <a:pt x="144" y="194"/>
+429: <a:pt x="144" y="195"/>
+430: <a:pt x="104" y="229"/>
+431: <a:pt x="104" y="229"/>
+432: <a:pt x="104" y="229"/>
+433: <a:pt x="102" y="230"/>
+434: <a:pt x="100" y="232"/>
+435: <a:pt x="96" y="232"/>
+436: <a:pt x="94" y="232"/>
+437: <a:pt x="91" y="231"/>
+438: <a:pt x="89" y="229"/>
+439: <a:pt x="88" y="226"/>
+440: <a:pt x="87" y="224"/>
+441: <a:pt x="87" y="223"/>
+442: <a:pt x="87" y="221"/>
+443: <a:pt x="88" y="220"/>
+444: <a:pt x="88" y="218"/>
+445: <a:pt x="104" y="166"/>
+446: <a:pt x="104" y="166"/>
+447: <a:pt x="104" y="166"/>
+448: <a:pt x="104" y="166"/>
+449: <a:pt x="104" y="166"/>
+450: <a:pt x="104" y="165"/>
+451: <a:pt x="104" y="164"/>
+452: <a:pt x="103" y="162"/>
+453: <a:pt x="102" y="161"/>
+454: <a:pt x="61" y="134"/>
+455: <a:pt x="61" y="134"/>
+456: <a:pt x="61" y="134"/>
+457: <a:pt x="60" y="134"/>
+458: <a:pt x="59" y="133"/>
+459: <a:pt x="58" y="131"/>
+460: <a:pt x="57" y="130"/>
+461: <a:pt x="56" y="128"/>
+462: <a:pt x="56" y="125"/>
+463: <a:pt x="56" y="123"/>
+464: <a:pt x="56" y="121"/>
+465: <a:pt x="57" y="120"/>
+466: <a:pt x="59" y="119"/>
+467: <a:pt x="60" y="118"/>
+468: <a:pt x="61" y="117"/>
+469: <a:pt x="63" y="116"/>
+470: <a:pt x="65" y="116"/>
+471: <a:pt x="67" y="116"/>
+472: <a:pt x="118" y="116"/>
+473: <a:pt x="118" y="116"/>
+474: <a:pt x="118" y="116"/>
+475: <a:pt x="118" y="116"/>
+476: <a:pt x="119" y="116"/>
+477: <a:pt x="120" y="115"/>
+478: <a:pt x="121" y="115"/>
+479: <a:pt x="121" y="114"/>
+480: <a:pt x="122" y="113"/>
+481: <a:pt x="136" y="61"/>
+482: <a:pt x="136" y="61"/>
+483: <a:pt x="136" y="61"/>
+484: <a:pt x="137" y="59"/>
+485: <a:pt x="137" y="57"/>
+486: <a:pt x="138" y="56"/>
+487: <a:pt x="139" y="54"/>
+488: <a:pt x="142" y="52"/>
+489: <a:pt x="146" y="52"/>
+490: <a:pt x="150" y="52"/>
+491: <a:pt x="152" y="54"/>
+492: <a:pt x="153" y="56"/>
+493: <a:pt x="154" y="57"/>
+494: <a:pt x="154" y="59"/>
+495: <a:pt x="155" y="61"/>
+496: <a:pt x="170" y="113"/>
+497: <a:pt x="170" y="113"/>
+498: <a:pt x="170" y="113"/>
+499: <a:pt x="170" y="114"/>
+500: <a:pt x="170" y="115"/>
+501: <a:pt x="171" y="115"/>
+502: <a:pt x="172" y="116"/>
+503: <a:pt x="173" y="116"/>
+504: <a:pt x="174" y="116"/>
+505: <a:pt x="224" y="116"/>
+506: <a:pt x="224" y="116"/>
+507: <a:pt x="224" y="116"/>
+508: <a:pt x="226" y="116"/>
+509: <a:pt x="227" y="116"/>
+510: <a:pt x="229" y="117"/>
+511: <a:pt x="230" y="117"/>
+512: <a:pt x="232" y="118"/>
+513: <a:pt x="234" y="120"/>
+514: <a:pt x="235" y="121"/>
+515: <a:pt x="236" y="123"/>
+516: <a:pt x="236" y="125"/>
+517: <a:pt x="236" y="128"/>
+518: <a:pt x="234" y="130"/>
+519: <a:pt x="233" y="131"/>
+520: <a:close/>
+521: <a:srgbClr val="FBC75D"/>
+522: <a:noFill/>
+523: <a:srgbClr val="000000"/>
+524: <a:round/>
+525: <a:bodyPr/>
+526: <a:lstStyle/>
+527: <a:spcPct val="0"/>
+528: <a:spcPct val="0"/>
+529: <a:prstClr val="black"/>
+530: <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+531: <a:ea typeface="宋体" panose="02010600030101010101" pitchFamily="2" charset="-122"/>
+532: <p:cNvPr id="5" name="组合 11"/>
+533: <p:cNvGrpSpPr/>
+534: <p:nvPr/>
+535: <a:off x="2512219" y="1665685"/>
+536: <a:ext cx="670322" cy="670322"/>
+537: <a:chOff x="3350323" y="2220987"/>
+538: <a:chExt cx="893782" cy="893782"/>
+539: <p:cNvPr id="88" name="椭圆 87"/>
+540: <p:cNvSpPr/>
+541: <p:nvPr/>
+542: <a:off x="3350323" y="2220987"/>
+543: <a:ext cx="893782" cy="893782"/>
+544: <a:avLst/>
+545: <a:srgbClr val="6080A6"/>
+546: <a:schemeClr val="bg1"/>
+547: <a:noFill/>
+548: <a:shade val="50000"/>
+549: <a:schemeClr val="accent1"/>
+550: <a:schemeClr val="accent1"/>
+551: <a:schemeClr val="lt1"/>
+552: <a:bodyPr anchor="ctr"/>
+553: <a:lstStyle/>
+554: <a:defRPr/>
+555: <a:prstClr val="white"/>
+556: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+557: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+558: <p:cNvPr id="6" name="组合 78"/>
+559: <p:cNvGrpSpPr/>
+560: <p:nvPr/>
+561: <a:off x="3409023" y="2290896"/>
+562: <a:ext cx="763200" cy="763200"/>
+563: <a:chOff x="6537326" y="1397001"/>
+564: <a:chExt cx="176213" cy="176213"/>
+565: <a:srgbClr val="5F81A5"/>
+566: <p:cNvPr id="80" name="Oval 508"/>
+567: <a:spLocks noChangeArrowheads="1"/>
+568: <p:nvPr/>
+569: <a:off x="6592888" y="1452563"/>
+570: <a:ext cx="42863" cy="42863"/>
+571: <a:avLst/>
+572: <a:grpFill/>
+573: <a:noFill/>
+574: <a:bodyPr/>
+575: <a:lstStyle/>
+576: <a:defRPr/>
+577: <a:prstClr val="black"/>
+578: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+579: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+580: <p:cNvPr id="81" name="Freeform 509"/>
+581: <a:spLocks noEditPoints="1"/>
+582: <p:nvPr/>
+583: <a:off x="6537326" y="1397001"/>
+584: <a:ext cx="176213" cy="176213"/>
+585: <a:avLst/>
+586: <a:gd name="T0" fmla="*/ 144 w 288"/>
+587: <a:gd name="T1" fmla="*/ 0 h 288"/>
+588: <a:gd name="T2" fmla="*/ 0 w 288"/>
+589: <a:gd name="T3" fmla="*/ 144 h 288"/>
+590: <a:gd name="T4" fmla="*/ 144 w 288"/>
+591: <a:gd name="T5" fmla="*/ 288 h 288"/>
+592: <a:gd name="T6" fmla="*/ 288 w 288"/>
+593: <a:gd name="T7" fmla="*/ 144 h 288"/>
+594: <a:gd name="T8" fmla="*/ 144 w 288"/>
+595: <a:gd name="T9" fmla="*/ 0 h 288"/>
+596: <a:gd name="T10" fmla="*/ 220 w 288"/>
+597: <a:gd name="T11" fmla="*/ 220 h 288"/>
+598: <a:gd name="T12" fmla="*/ 211 w 288"/>
+599: <a:gd name="T13" fmla="*/ 224 h 288"/>
+600: <a:gd name="T14" fmla="*/ 211 w 288"/>
+601: <a:gd name="T15" fmla="*/ 224 h 288"/>
+602: <a:gd name="T16" fmla="*/ 200 w 288"/>
+603: <a:gd name="T17" fmla="*/ 220 h 288"/>
+604: <a:gd name="T18" fmla="*/ 157 w 288"/>
+605: <a:gd name="T19" fmla="*/ 177 h 288"/>
+606: <a:gd name="T20" fmla="*/ 124 w 288"/>
+607: <a:gd name="T21" fmla="*/ 186 h 288"/>
+608: <a:gd name="T22" fmla="*/ 63 w 288"/>
+609: <a:gd name="T23" fmla="*/ 125 h 288"/>
+610: <a:gd name="T24" fmla="*/ 124 w 288"/>
+611: <a:gd name="T25" fmla="*/ 63 h 288"/>
+612: <a:gd name="T26" fmla="*/ 186 w 288"/>
+613: <a:gd name="T27" fmla="*/ 125 h 288"/>
+614: <a:gd name="T28" fmla="*/ 176 w 288"/>
+615: <a:gd name="T29" fmla="*/ 157 h 288"/>
+616: <a:gd name="T30" fmla="*/ 219 w 288"/>
+617: <a:gd name="T31" fmla="*/ 200 h 288"/>
+618: <a:gd name="T32" fmla="*/ 224 w 288"/>
+619: <a:gd name="T33" fmla="*/ 211 h 288"/>
+620: <a:gd name="T34" fmla="*/ 220 w 288"/>
+621: <a:gd name="T35" fmla="*/ 220 h 288"/>
+622: <a:ahLst/>
+623: <a:pos x="T0" y="T1"/>
+624: <a:pos x="T2" y="T3"/>
+625: <a:pos x="T4" y="T5"/>
+626: <a:pos x="T6" y="T7"/>
+627: <a:pos x="T8" y="T9"/>
+628: <a:pos x="T10" y="T11"/>
+629: <a:pos x="T12" y="T13"/>
+630: <a:pos x="T14" y="T15"/>
+631: <a:pos x="T16" y="T17"/>
+632: <a:pos x="T18" y="T19"/>
+633: <a:pos x="T20" y="T21"/>
+634: <a:pos x="T22" y="T23"/>
+635: <a:pos x="T24" y="T25"/>
+636: <a:pos x="T26" y="T27"/>
+637: <a:pos x="T28" y="T29"/>
+638: <a:pos x="T30" y="T31"/>
+639: <a:pos x="T32" y="T33"/>
+640: <a:pos x="T34" y="T35"/>
+641: <a:rect l="0" t="0" r="r" b="b"/>
+642: <a:pt x="144" y="0"/>
+643: <a:pt x="64" y="0"/>
+644: <a:pt x="0" y="65"/>
+645: <a:pt x="0" y="144"/>
+646: <a:pt x="0" y="224"/>
+647: <a:pt x="64" y="288"/>
+648: <a:pt x="144" y="288"/>
+649: <a:pt x="224" y="288"/>
+650: <a:pt x="288" y="224"/>
+651: <a:pt x="288" y="144"/>
+652: <a:pt x="288" y="65"/>
+653: <a:pt x="224" y="0"/>
+654: <a:pt x="144" y="0"/>
+655: <a:close/>
+656: <a:pt x="220" y="220"/>
+657: <a:pt x="218" y="223"/>
+658: <a:pt x="214" y="224"/>
+659: <a:pt x="211" y="224"/>
+660: <a:pt x="211" y="224"/>
+661: <a:pt x="211" y="224"/>
+662: <a:pt x="211" y="224"/>
+663: <a:pt x="207" y="224"/>
+664: <a:pt x="203" y="222"/>
+665: <a:pt x="200" y="220"/>
+666: <a:pt x="157" y="177"/>
+667: <a:pt x="157" y="177"/>
+668: <a:pt x="157" y="177"/>
+669: <a:pt x="148" y="182"/>
+670: <a:pt x="136" y="186"/>
+671: <a:pt x="124" y="186"/>
+672: <a:pt x="91" y="186"/>
+673: <a:pt x="63" y="159"/>
+674: <a:pt x="63" y="125"/>
+675: <a:pt x="63" y="91"/>
+676: <a:pt x="91" y="63"/>
+677: <a:pt x="124" y="63"/>
+678: <a:pt x="158" y="63"/>
+679: <a:pt x="186" y="91"/>
+680: <a:pt x="186" y="125"/>
+681: <a:pt x="186" y="137"/>
+682: <a:pt x="182" y="148"/>
+683: <a:pt x="176" y="157"/>
+684: <a:pt x="219" y="200"/>
+685: <a:pt x="219" y="200"/>
+686: <a:pt x="219" y="200"/>
+687: <a:pt x="222" y="203"/>
+688: <a:pt x="224" y="207"/>
+689: <a:pt x="224" y="211"/>
+690: <a:pt x="224" y="214"/>
+691: <a:pt x="223" y="218"/>
+692: <a:pt x="220" y="220"/>
+693: <a:close/>
+694: <a:grpFill/>
+695: <a:noFill/>
+696: <a:bodyPr/>
+697: <a:lstStyle/>
+698: <a:defRPr/>
+699: <a:prstClr val="black"/>
+700: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+701: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+702: <p:cNvPr id="7" name="组合 9"/>
+703: <p:cNvGrpSpPr/>
+704: <p:nvPr/>
+705: <a:off x="2540794" y="3712369"/>
+706: <a:ext cx="670322" cy="670322"/>
+707: <a:chOff x="3388423" y="4949461"/>
+708: <a:chExt cx="893782" cy="893782"/>
+709: <p:cNvPr id="87" name="椭圆 86"/>
+710: <p:cNvSpPr/>
+711: <p:nvPr/>
+712: <a:off x="3388423" y="4949461"/>
+713: <a:ext cx="893782" cy="893782"/>
+714: <a:avLst/>
+715: <a:srgbClr val="11B5B8"/>
+716: <a:schemeClr val="bg1"/>
+717: <a:noFill/>
+718: <a:shade val="50000"/>
+719: <a:schemeClr val="accent1"/>
+720: <a:schemeClr val="accent1"/>
+721: <a:schemeClr val="lt1"/>
+722: <a:bodyPr anchor="ctr"/>
+723: <a:lstStyle/>
+724: <a:defRPr/>
+725: <a:prstClr val="white"/>
+726: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+727: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+728: <p:cNvPr id="61473" name="Freeform 409"/>
+729: <a:spLocks noEditPoints="1"/>
+730: <p:nvPr/>
+731: <a:off x="3453714" y="5014753"/>
+732: <a:ext cx="763200" cy="763200"/>
+733: <a:avLst/>
+734: <a:gd name="T0" fmla="*/ 2147483646 w 288"/>
+735: <a:gd name="T1" fmla="*/ 0 h 288"/>
+736: <a:gd name="T2" fmla="*/ 0 w 288"/>
+737: <a:gd name="T3" fmla="*/ 2147483646 h 288"/>
+738: <a:gd name="T4" fmla="*/ 2147483646 w 288"/>
+739: <a:gd name="T5" fmla="*/ 2147483646 h 288"/>
+740: <a:gd name="T6" fmla="*/ 2147483646 w 288"/>
+741: <a:gd name="T7" fmla="*/ 2147483646 h 288"/>
+742: <a:gd name="T8" fmla="*/ 2147483646 w 288"/>
+743: <a:gd name="T9" fmla="*/ 0 h 288"/>
+744: <a:gd name="T10" fmla="*/ 2147483646 w 288"/>
+745: <a:gd name="T11" fmla="*/ 2147483646 h 288"/>
+746: <a:gd name="T12" fmla="*/ 2147483646 w 288"/>
+747: <a:gd name="T13" fmla="*/ 2147483646 h 288"/>
+748: <a:gd name="T14" fmla="*/ 2147483646 w 288"/>
+749: <a:gd name="T15" fmla="*/ 2147483646 h 288"/>
+750: <a:gd name="T16" fmla="*/ 2147483646 w 288"/>
+751: <a:gd name="T17" fmla="*/ 2147483646 h 288"/>
+752: <a:gd name="T18" fmla="*/ 2147483646 w 288"/>
+753: <a:gd name="T19" fmla="*/ 2147483646 h 288"/>
+754: <a:gd name="T20" fmla="*/ 2147483646 w 288"/>
+755: <a:gd name="T21" fmla="*/ 2147483646 h 288"/>
+756: <a:gd name="T22" fmla="*/ 2147483646 w 288"/>
+757: <a:gd name="T23" fmla="*/ 2147483646 h 288"/>
+758: <a:gd name="T24" fmla="*/ 2147483646 w 288"/>
+759: <a:gd name="T25" fmla="*/ 2147483646 h 288"/>
+760: <a:gd name="T26" fmla="*/ 2147483646 w 288"/>
+761: <a:gd name="T27" fmla="*/ 2147483646 h 288"/>
+762: <a:gd name="T28" fmla="*/ 2147483646 w 288"/>
+763: <a:gd name="T29" fmla="*/ 2147483646 h 288"/>
+764: <a:gd name="T30" fmla="*/ 2147483646 w 288"/>
+765: <a:gd name="T31" fmla="*/ 2147483646 h 288"/>
+766: <a:gd name="T32" fmla="*/ 2147483646 w 288"/>
+767: <a:gd name="T33" fmla="*/ 2147483646 h 288"/>
+768: <a:gd name="T34" fmla="*/ 2147483646 w 288"/>
+769: <a:gd name="T35" fmla="*/ 2147483646 h 288"/>
+770: <a:gd name="T36" fmla="*/ 2147483646 w 288"/>
+771: <a:gd name="T37" fmla="*/ 2147483646 h 288"/>
+772: <a:gd name="T38" fmla="*/ 2147483646 w 288"/>
+773: <a:gd name="T39" fmla="*/ 2147483646 h 288"/>
+774: <a:gd name="T40" fmla="*/ 2147483646 w 288"/>
+775: <a:gd name="T41" fmla="*/ 2147483646 h 288"/>
+776: <a:gd name="T42" fmla="*/ 2147483646 w 288"/>
+777: <a:gd name="T43" fmla="*/ 2147483646 h 288"/>
+778: <a:gd name="T44" fmla="*/ 2147483646 w 288"/>
+779: <a:gd name="T45" fmla="*/ 2147483646 h 288"/>
+780: <a:gd name="T46" fmla="*/ 2147483646 w 288"/>
+781: <a:gd name="T47" fmla="*/ 2147483646 h 288"/>
+782: <a:gd name="T48" fmla="*/ 2147483646 w 288"/>
+783: <a:gd name="T49" fmla="*/ 2147483646 h 288"/>
+784: <a:gd name="T50" fmla="*/ 2147483646 w 288"/>
+785: <a:gd name="T51" fmla="*/ 2147483646 h 288"/>
+786: <a:gd name="T52" fmla="*/ 2147483646 w 288"/>
+787: <a:gd name="T53" fmla="*/ 2147483646 h 288"/>
+788: <a:gd name="T54" fmla="*/ 2147483646 w 288"/>
+789: <a:gd name="T55" fmla="*/ 2147483646 h 288"/>
+790: <a:gd name="T56" fmla="*/ 2147483646 w 288"/>
+791: <a:gd name="T57" fmla="*/ 2147483646 h 288"/>
+792: <a:gd name="T58" fmla="*/ 2147483646 w 288"/>
+793: <a:gd name="T59" fmla="*/ 2147483646 h 288"/>
+794: <a:gd name="T60" fmla="*/ 2147483646 w 288"/>
+795: <a:gd name="T61" fmla="*/ 2147483646 h 288"/>
+796: <a:gd name="T62" fmla="*/ 2147483646 w 288"/>
+797: <a:gd name="T63" fmla="*/ 2147483646 h 288"/>
+798: <a:gd name="T64" fmla="*/ 2147483646 w 288"/>
+799: <a:gd name="T65" fmla="*/ 2147483646 h 288"/>
+800: <a:gd name="T66" fmla="*/ 2147483646 w 288"/>
+801: <a:gd name="T67" fmla="*/ 2147483646 h 288"/>
+802: <a:gd name="T68" fmla="*/ 2147483646 w 288"/>
+803: <a:gd name="T69" fmla="*/ 2147483646 h 288"/>
+804: <a:gd name="T70" fmla="*/ 2147483646 w 288"/>
+805: <a:gd name="T71" fmla="*/ 2147483646 h 288"/>
+806: <a:gd name="T72" fmla="*/ 0 60000 65536"/>
+807: <a:gd name="T73" fmla="*/ 0 60000 65536"/>
+808: <a:gd name="T74" fmla="*/ 0 60000 65536"/>
+809: <a:gd name="T75" fmla="*/ 0 60000 65536"/>
+810: <a:gd name="T76" fmla="*/ 0 60000 65536"/>
+811: <a:gd name="T77" fmla="*/ 0 60000 65536"/>
+812: <a:gd name="T78" fmla="*/ 0 60000 65536"/>
+813: <a:gd name="T79" fmla="*/ 0 60000 65536"/>
+814: <a:gd name="T80" fmla="*/ 0 60000 65536"/>
+815: <a:gd name="T81" fmla="*/ 0 60000 65536"/>
+816: <a:gd name="T82" fmla="*/ 0 60000 65536"/>
+817: <a:gd name="T83" fmla="*/ 0 60000 65536"/>
+818: <a:gd name="T84" fmla="*/ 0 60000 65536"/>
+819: <a:gd name="T85" fmla="*/ 0 60000 65536"/>
+820: <a:gd name="T86" fmla="*/ 0 60000 65536"/>
+821: <a:gd name="T87" fmla="*/ 0 60000 65536"/>
+822: <a:gd name="T88" fmla="*/ 0 60000 65536"/>
+823: <a:gd name="T89" fmla="*/ 0 60000 65536"/>
+824: <a:gd name="T90" fmla="*/ 0 60000 65536"/>
+825: <a:gd name="T91" fmla="*/ 0 60000 65536"/>
+826: <a:gd name="T92" fmla="*/ 0 60000 65536"/>
+827: <a:gd name="T93" fmla="*/ 0 60000 65536"/>
+828: <a:gd name="T94" fmla="*/ 0 60000 65536"/>
+829: <a:gd name="T95" fmla="*/ 0 60000 65536"/>
+830: <a:gd name="T96" fmla="*/ 0 60000 65536"/>
+831: <a:gd name="T97" fmla="*/ 0 60000 65536"/>
+832: <a:gd name="T98" fmla="*/ 0 60000 65536"/>
+833: <a:gd name="T99" fmla="*/ 0 60000 65536"/>
+834: <a:gd name="T100" fmla="*/ 0 60000 65536"/>
+835: <a:gd name="T101" fmla="*/ 0 60000 65536"/>
+836: <a:gd name="T102" fmla="*/ 0 60000 65536"/>
+837: <a:gd name="T103" fmla="*/ 0 60000 65536"/>
+838: <a:gd name="T104" fmla="*/ 0 60000 65536"/>
+839: <a:gd name="T105" fmla="*/ 0 60000 65536"/>
+840: <a:gd name="T106" fmla="*/ 0 60000 65536"/>
+841: <a:gd name="T107" fmla="*/ 0 60000 65536"/>
+842: <a:gd name="T108" fmla="*/ 0 w 288"/>
+843: <a:gd name="T109" fmla="*/ 0 h 288"/>
+844: <a:gd name="T110" fmla="*/ 288 w 288"/>
+845: <a:gd name="T111" fmla="*/ 288 h 288"/>
+846: <a:ahLst/>
+847: <a:pos x="T0" y="T1"/>
+848: <a:pos x="T2" y="T3"/>
+849: <a:pos x="T4" y="T5"/>
+850: <a:pos x="T6" y="T7"/>
+851: <a:pos x="T8" y="T9"/>
+852: <a:pos x="T10" y="T11"/>
+853: <a:pos x="T12" y="T13"/>
+854: <a:pos x="T14" y="T15"/>
+855: <a:pos x="T16" y="T17"/>
+856: <a:pos x="T18" y="T19"/>
+857: <a:pos x="T20" y="T21"/>
+858: <a:pos x="T22" y="T23"/>
+859: <a:pos x="T24" y="T25"/>
+860: <a:pos x="T26" y="T27"/>
+861: <a:pos x="T28" y="T29"/>
+862: <a:pos x="T30" y="T31"/>
+863: <a:pos x="T32" y="T33"/>
+864: <a:pos x="T34" y="T35"/>
+865: <a:pos x="T36" y="T37"/>
+866: <a:pos x="T38" y="T39"/>
+867: <a:pos x="T40" y="T41"/>
+868: <a:pos x="T42" y="T43"/>
+869: <a:pos x="T44" y="T45"/>
+870: <a:pos x="T46" y="T47"/>
+871: <a:pos x="T48" y="T49"/>
+872: <a:pos x="T50" y="T51"/>
+873: <a:pos x="T52" y="T53"/>
+874: <a:pos x="T54" y="T55"/>
+875: <a:pos x="T56" y="T57"/>
+876: <a:pos x="T58" y="T59"/>
+877: <a:pos x="T60" y="T61"/>
+878: <a:pos x="T62" y="T63"/>
+879: <a:pos x="T64" y="T65"/>
+880: <a:pos x="T66" y="T67"/>
+881: <a:pos x="T68" y="T69"/>
+882: <a:pos x="T70" y="T71"/>
+883: <a:rect l="T108" t="T109" r="T110" b="T111"/>
+884: <a:pt x="144" y="0"/>
+885: <a:pt x="64" y="0"/>
+886: <a:pt x="0" y="65"/>
+887: <a:pt x="0" y="144"/>
+888: <a:pt x="0" y="224"/>
+889: <a:pt x="64" y="288"/>
+890: <a:pt x="144" y="288"/>
+891: <a:pt x="224" y="288"/>
+892: <a:pt x="288" y="224"/>
+893: <a:pt x="288" y="144"/>
+894: <a:pt x="288" y="65"/>
+895: <a:pt x="224" y="0"/>
+896: <a:pt x="144" y="0"/>
+897: <a:close/>
+898: <a:pt x="162" y="45"/>
+899: <a:pt x="168" y="45"/>
+900: <a:pt x="173" y="47"/>
+901: <a:pt x="176" y="50"/>
+902: <a:pt x="179" y="54"/>
+903: <a:pt x="180" y="58"/>
+904: <a:pt x="180" y="63"/>
+905: <a:pt x="180" y="75"/>
+906: <a:pt x="170" y="87"/>
+907: <a:pt x="157" y="87"/>
+908: <a:pt x="157" y="87"/>
+909: <a:pt x="157" y="87"/>
+910: <a:pt x="157" y="87"/>
+911: <a:pt x="146" y="87"/>
+912: <a:pt x="139" y="79"/>
+913: <a:pt x="139" y="68"/>
+914: <a:pt x="139" y="58"/>
+915: <a:pt x="147" y="45"/>
+916: <a:pt x="162" y="45"/>
+917: <a:close/>
+918: <a:pt x="180" y="206"/>
+919: <a:pt x="160" y="228"/>
+920: <a:pt x="135" y="241"/>
+921: <a:pt x="125" y="241"/>
+922: <a:pt x="125" y="241"/>
+923: <a:pt x="125" y="241"/>
+924: <a:pt x="125" y="241"/>
+925: <a:pt x="122" y="241"/>
+926: <a:pt x="119" y="241"/>
+927: <a:pt x="117" y="238"/>
+928: <a:pt x="114" y="235"/>
+929: <a:pt x="113" y="231"/>
+930: <a:pt x="113" y="226"/>
+931: <a:pt x="113" y="221"/>
+932: <a:pt x="114" y="212"/>
+933: <a:pt x="115" y="205"/>
+934: <a:pt x="130" y="143"/>
+935: <a:pt x="130" y="143"/>
+936: <a:pt x="130" y="143"/>
+937: <a:pt x="130" y="139"/>
+938: <a:pt x="131" y="137"/>
+939: <a:pt x="131" y="135"/>
+940: <a:pt x="128" y="136"/>
+941: <a:pt x="117" y="144"/>
+942: <a:pt x="112" y="149"/>
+943: <a:pt x="110" y="150"/>
+944: <a:pt x="110" y="150"/>
+945: <a:pt x="110" y="150"/>
+946: <a:pt x="104" y="135"/>
+947: <a:pt x="104" y="135"/>
+948: <a:pt x="104" y="135"/>
+949: <a:pt x="105" y="134"/>
+950: <a:pt x="105" y="134"/>
+951: <a:pt x="105" y="134"/>
+952: <a:pt x="126" y="115"/>
+953: <a:pt x="150" y="100"/>
+954: <a:pt x="161" y="100"/>
+955: <a:pt x="165" y="100"/>
+956: <a:pt x="167" y="101"/>
+957: <a:pt x="169" y="104"/>
+958: <a:pt x="170" y="107"/>
+959: <a:pt x="171" y="110"/>
+960: <a:pt x="171" y="114"/>
+961: <a:pt x="171" y="118"/>
+962: <a:pt x="170" y="128"/>
+963: <a:pt x="169" y="134"/>
+964: <a:pt x="153" y="198"/>
+965: <a:pt x="153" y="198"/>
+966: <a:pt x="153" y="198"/>
+967: <a:pt x="152" y="201"/>
+968: <a:pt x="152" y="204"/>
+969: <a:pt x="152" y="205"/>
+970: <a:pt x="152" y="206"/>
+971: <a:pt x="152" y="206"/>
+972: <a:pt x="152" y="207"/>
+973: <a:pt x="154" y="206"/>
+974: <a:pt x="165" y="199"/>
+975: <a:pt x="172" y="192"/>
+976: <a:pt x="174" y="190"/>
+977: <a:pt x="174" y="190"/>
+978: <a:pt x="174" y="190"/>
+979: <a:pt x="180" y="204"/>
+980: <a:pt x="180" y="204"/>
+981: <a:pt x="180" y="204"/>
+982: <a:pt x="181" y="205"/>
+983: <a:pt x="181" y="205"/>
+984: <a:pt x="181" y="205"/>
+985: <a:pt x="180" y="206"/>
+986: <a:close/>
+987: <a:srgbClr val="11B5B8"/>
+988: <a:noFill/>
+989: <a:srgbClr val="000000"/>
+990: <a:round/>
+991: <a:bodyPr/>
+992: <a:lstStyle/>
+993: <a:spcPct val="0"/>
+994: <a:spcPct val="0"/>
+995: <a:prstClr val="black"/>
+996: <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+997: <a:ea typeface="宋体" panose="02010600030101010101" pitchFamily="2" charset="-122"/>
+998: <p:cNvPr id="32" name="矩形 31"/>
+999: <p:cNvSpPr/>
+1000: <p:nvPr/>
+1001: <a:off x="523875" y="3777854"/>
+1002: <a:ext cx="1970485" cy="406400"/>
+1003: <a:avLst/>
+1004: <a:noFill/>
+1005: <a:spAutoFit/>
+1006: <a:lstStyle/>
+1007: <a:spcPct val="130000"/>
+1008: <a:defRPr/>
+1009: <a:lumMod val="25000"/>
+1010: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1011: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1012: <a:lumMod val="25000"/>
+1013: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1014: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1015: <p:cNvPr id="33" name="矩形 32"/>
+1016: <p:cNvSpPr/>
+1017: <p:nvPr/>
+1018: <a:off x="276225" y="2655094"/>
+1019: <a:ext cx="1969294" cy="406400"/>
+1020: <a:avLst/>
+1021: <a:noFill/>
+1022: <a:spAutoFit/>
+1023: <a:lstStyle/>
+1024: <a:spcPct val="130000"/>
+1025: <a:defRPr/>
+1026: <a:lumMod val="25000"/>
+1027: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1028: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1029: <a:lumMod val="25000"/>
+1030: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1031: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1032: <p:cNvPr id="34" name="矩形 33"/>
+1033: <p:cNvSpPr/>
+1034: <p:nvPr/>
+1035: <a:off x="523875" y="1627585"/>
+1036: <a:ext cx="1969294" cy="406400"/>
+1037: <a:avLst/>
+1038: <a:noFill/>
+1039: <a:spAutoFit/>
+1040: <a:lstStyle/>
+1041: <a:spcPct val="130000"/>
+1042: <a:defRPr/>
+1043: <a:lumMod val="25000"/>
+1044: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1045: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1046: <a:lumMod val="25000"/>
+1047: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1048: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1049: <p:cNvPr id="8" name="组合 8"/>
+1050: <p:cNvGrpSpPr/>
+1051: <p:nvPr/>
+1052: <a:off x="5913835" y="3746897"/>
+1053: <a:ext cx="670322" cy="670322"/>
+1054: <a:chOff x="7885229" y="4996425"/>
+1055: <a:chExt cx="893782" cy="893782"/>
+1056: <p:cNvPr id="93" name="椭圆 92"/>
+1057: <p:cNvSpPr/>
+1058: <p:nvPr/>
+1059: <a:off x="7885229" y="4996425"/>
+1060: <a:ext cx="893782" cy="893782"/>
+1061: <a:avLst/>
+1062: <a:srgbClr val="BFBFBF"/>
+1063: <a:schemeClr val="bg1"/>
+1064: <a:noFill/>
+1065: <a:shade val="50000"/>
+1066: <a:schemeClr val="accent1"/>
+1067: <a:schemeClr val="accent1"/>
+1068: <a:schemeClr val="lt1"/>
+1069: <a:bodyPr anchor="ctr"/>
+1070: <a:lstStyle/>
+1071: <a:defRPr/>
+1072: <a:prstClr val="white"/>
+1073: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+1074: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1075: <p:cNvPr id="61471" name="Freeform 369"/>
+1076: <a:spLocks noEditPoints="1"/>
+1077: <p:nvPr/>
+1078: <a:off x="7946042" y="5049016"/>
+1079: <a:ext cx="763200" cy="763200"/>
+1080: <a:avLst/>
+1081: <a:gd name="T0" fmla="*/ 2147483646 w 288"/>
+1082: <a:gd name="T1" fmla="*/ 0 h 288"/>
+1083: <a:gd name="T2" fmla="*/ 0 w 288"/>
+1084: <a:gd name="T3" fmla="*/ 2147483646 h 288"/>
+1085: <a:gd name="T4" fmla="*/ 2147483646 w 288"/>
+1086: <a:gd name="T5" fmla="*/ 2147483646 h 288"/>
+1087: <a:gd name="T6" fmla="*/ 2147483646 w 288"/>
+1088: <a:gd name="T7" fmla="*/ 2147483646 h 288"/>
+1089: <a:gd name="T8" fmla="*/ 2147483646 w 288"/>
+1090: <a:gd name="T9" fmla="*/ 0 h 288"/>
+1091: <a:gd name="T10" fmla="*/ 2147483646 w 288"/>
+1092: <a:gd name="T11" fmla="*/ 2147483646 h 288"/>
+1093: <a:gd name="T12" fmla="*/ 2147483646 w 288"/>
+1094: <a:gd name="T13" fmla="*/ 2147483646 h 288"/>
+1095: <a:gd name="T14" fmla="*/ 2147483646 w 288"/>
+1096: <a:gd name="T15" fmla="*/ 2147483646 h 288"/>
+1097: <a:gd name="T16" fmla="*/ 2147483646 w 288"/>
+1098: <a:gd name="T17" fmla="*/ 2147483646 h 288"/>
+1099: <a:gd name="T18" fmla="*/ 2147483646 w 288"/>
+1100: <a:gd name="T19" fmla="*/ 2147483646 h 288"/>
+1101: <a:gd name="T20" fmla="*/ 2147483646 w 288"/>
+1102: <a:gd name="T21" fmla="*/ 2147483646 h 288"/>
+1103: <a:gd name="T22" fmla="*/ 2147483646 w 288"/>
+1104: <a:gd name="T23" fmla="*/ 2147483646 h 288"/>
+1105: <a:gd name="T24" fmla="*/ 2147483646 w 288"/>
+1106: <a:gd name="T25" fmla="*/ 2147483646 h 288"/>
+1107: <a:gd name="T26" fmla="*/ 2147483646 w 288"/>
+1108: <a:gd name="T27" fmla="*/ 2147483646 h 288"/>
+1109: <a:gd name="T28" fmla="*/ 2147483646 w 288"/>
+1110: <a:gd name="T29" fmla="*/ 2147483646 h 288"/>
+1111: <a:gd name="T30" fmla="*/ 2147483646 w 288"/>
+1112: <a:gd name="T31" fmla="*/ 2147483646 h 288"/>
+1113: <a:gd name="T32" fmla="*/ 2147483646 w 288"/>
+1114: <a:gd name="T33" fmla="*/ 2147483646 h 288"/>
+1115: <a:gd name="T34" fmla="*/ 2147483646 w 288"/>
+1116: <a:gd name="T35" fmla="*/ 2147483646 h 288"/>
+1117: <a:gd name="T36" fmla="*/ 2147483646 w 288"/>
+1118: <a:gd name="T37" fmla="*/ 2147483646 h 288"/>
+1119: <a:gd name="T38" fmla="*/ 2147483646 w 288"/>
+1120: <a:gd name="T39" fmla="*/ 2147483646 h 288"/>
+1121: <a:gd name="T40" fmla="*/ 2147483646 w 288"/>
+1122: <a:gd name="T41" fmla="*/ 2147483646 h 288"/>
+1123: <a:gd name="T42" fmla="*/ 2147483646 w 288"/>
+1124: <a:gd name="T43" fmla="*/ 2147483646 h 288"/>
+1125: <a:gd name="T44" fmla="*/ 2147483646 w 288"/>
+1126: <a:gd name="T45" fmla="*/ 2147483646 h 288"/>
+1127: <a:gd name="T46" fmla="*/ 2147483646 w 288"/>
+1128: <a:gd name="T47" fmla="*/ 2147483646 h 288"/>
+1129: <a:gd name="T48" fmla="*/ 2147483646 w 288"/>
+1130: <a:gd name="T49" fmla="*/ 2147483646 h 288"/>
+1131: <a:gd name="T50" fmla="*/ 2147483646 w 288"/>
+1132: <a:gd name="T51" fmla="*/ 2147483646 h 288"/>
+1133: <a:gd name="T52" fmla="*/ 0 60000 65536"/>
+1134: <a:gd name="T53" fmla="*/ 0 60000 65536"/>
+1135: <a:gd name="T54" fmla="*/ 0 60000 65536"/>
+1136: <a:gd name="T55" fmla="*/ 0 60000 65536"/>
+1137: <a:gd name="T56" fmla="*/ 0 60000 65536"/>
+1138: <a:gd name="T57" fmla="*/ 0 60000 65536"/>
+1139: <a:gd name="T58" fmla="*/ 0 60000 65536"/>
+1140: <a:gd name="T59" fmla="*/ 0 60000 65536"/>
+1141: <a:gd name="T60" fmla="*/ 0 60000 65536"/>
+1142: <a:gd name="T61" fmla="*/ 0 60000 65536"/>
+1143: <a:gd name="T62" fmla="*/ 0 60000 65536"/>
+1144: <a:gd name="T63" fmla="*/ 0 60000 65536"/>
+1145: <a:gd name="T64" fmla="*/ 0 60000 65536"/>
+1146: <a:gd name="T65" fmla="*/ 0 60000 65536"/>
+1147: <a:gd name="T66" fmla="*/ 0 60000 65536"/>
+1148: <a:gd name="T67" fmla="*/ 0 60000 65536"/>
+1149: <a:gd name="T68" fmla="*/ 0 60000 65536"/>
+1150: <a:gd name="T69" fmla="*/ 0 60000 65536"/>
+1151: <a:gd name="T70" fmla="*/ 0 60000 65536"/>
+1152: <a:gd name="T71" fmla="*/ 0 60000 65536"/>
+1153: <a:gd name="T72" fmla="*/ 0 60000 65536"/>
+1154: <a:gd name="T73" fmla="*/ 0 60000 65536"/>
+1155: <a:gd name="T74" fmla="*/ 0 60000 65536"/>
+1156: <a:gd name="T75" fmla="*/ 0 60000 65536"/>
+1157: <a:gd name="T76" fmla="*/ 0 60000 65536"/>
+1158: <a:gd name="T77" fmla="*/ 0 60000 65536"/>
+1159: <a:gd name="T78" fmla="*/ 0 w 288"/>
+1160: <a:gd name="T79" fmla="*/ 0 h 288"/>
+1161: <a:gd name="T80" fmla="*/ 288 w 288"/>
+1162: <a:gd name="T81" fmla="*/ 288 h 288"/>
+1163: <a:ahLst/>
+1164: <a:pos x="T0" y="T1"/>
+1165: <a:pos x="T2" y="T3"/>
+1166: <a:pos x="T4" y="T5"/>
+1167: <a:pos x="T6" y="T7"/>
+1168: <a:pos x="T8" y="T9"/>
+1169: <a:pos x="T10" y="T11"/>
+1170: <a:pos x="T12" y="T13"/>
+1171: <a:pos x="T14" y="T15"/>
+1172: <a:pos x="T16" y="T17"/>
+1173: <a:pos x="T18" y="T19"/>
+1174: <a:pos x="T20" y="T21"/>
+1175: <a:pos x="T22" y="T23"/>
+1176: <a:pos x="T24" y="T25"/>
+1177: <a:pos x="T26" y="T27"/>
+1178: <a:pos x="T28" y="T29"/>
+1179: <a:pos x="T30" y="T31"/>
+1180: <a:pos x="T32" y="T33"/>
+1181: <a:pos x="T34" y="T35"/>
+1182: <a:pos x="T36" y="T37"/>
+1183: <a:pos x="T38" y="T39"/>
+1184: <a:pos x="T40" y="T41"/>
+1185: <a:pos x="T42" y="T43"/>
+1186: <a:pos x="T44" y="T45"/>
+1187: <a:pos x="T46" y="T47"/>
+1188: <a:pos x="T48" y="T49"/>
+1189: <a:pos x="T50" y="T51"/>
+1190: <a:rect l="T78" t="T79" r="T80" b="T81"/>
+1191: <a:pt x="144" y="0"/>
+1192: <a:pt x="64" y="0"/>
+1193: <a:pt x="0" y="65"/>
+1194: <a:pt x="0" y="144"/>
+1195: <a:pt x="0" y="224"/>
+1196: <a:pt x="64" y="288"/>
+1197: <a:pt x="144" y="288"/>
+1198: <a:pt x="224" y="288"/>
+1199: <a:pt x="288" y="224"/>
+1200: <a:pt x="288" y="144"/>
+1201: <a:pt x="288" y="65"/>
+1202: <a:pt x="224" y="0"/>
+1203: <a:pt x="144" y="0"/>
+1204: <a:close/>
+1205: <a:pt x="193" y="132"/>
+1206: <a:pt x="188" y="132"/>
+1207: <a:pt x="183" y="131"/>
+1208: <a:pt x="178" y="128"/>
+1209: <a:pt x="128" y="178"/>
+1210: <a:pt x="128" y="178"/>
+1211: <a:pt x="128" y="178"/>
+1212: <a:pt x="131" y="183"/>
+1213: <a:pt x="133" y="188"/>
+1214: <a:pt x="133" y="193"/>
+1215: <a:pt x="133" y="214"/>
+1216: <a:pt x="113" y="233"/>
+1217: <a:pt x="92" y="233"/>
+1218: <a:pt x="92" y="233"/>
+1219: <a:pt x="90" y="231"/>
+1220: <a:pt x="88" y="230"/>
+1221: <a:pt x="105" y="213"/>
+1222: <a:pt x="106" y="214"/>
+1223: <a:pt x="106" y="203"/>
+1224: <a:pt x="106" y="195"/>
+1225: <a:pt x="93" y="182"/>
+1226: <a:pt x="85" y="182"/>
+1227: <a:pt x="75" y="182"/>
+1228: <a:pt x="75" y="183"/>
+1229: <a:pt x="58" y="200"/>
+1230: <a:pt x="57" y="198"/>
+1231: <a:pt x="55" y="196"/>
+1232: <a:pt x="55" y="196"/>
+1233: <a:pt x="54" y="175"/>
+1234: <a:pt x="74" y="155"/>
+1235: <a:pt x="95" y="155"/>
+1236: <a:pt x="100" y="155"/>
+1237: <a:pt x="105" y="157"/>
+1238: <a:pt x="110" y="161"/>
+1239: <a:pt x="160" y="110"/>
+1240: <a:pt x="160" y="110"/>
+1241: <a:pt x="160" y="110"/>
+1242: <a:pt x="157" y="105"/>
+1243: <a:pt x="155" y="100"/>
+1244: <a:pt x="155" y="95"/>
+1245: <a:pt x="155" y="74"/>
+1246: <a:pt x="175" y="55"/>
+1247: <a:pt x="196" y="54"/>
+1248: <a:pt x="196" y="54"/>
+1249: <a:pt x="198" y="57"/>
+1250: <a:pt x="200" y="58"/>
+1251: <a:pt x="183" y="75"/>
+1252: <a:pt x="182" y="74"/>
+1253: <a:pt x="182" y="85"/>
+1254: <a:pt x="182" y="93"/>
+1255: <a:pt x="195" y="106"/>
+1256: <a:pt x="203" y="106"/>
+1257: <a:pt x="213" y="106"/>
+1258: <a:pt x="213" y="105"/>
+1259: <a:pt x="230" y="88"/>
+1260: <a:pt x="231" y="90"/>
+1261: <a:pt x="233" y="92"/>
+1262: <a:pt x="233" y="92"/>
+1263: <a:pt x="234" y="113"/>
+1264: <a:pt x="214" y="132"/>
+1265: <a:pt x="193" y="132"/>
+1266: <a:close/>
+1267: <a:srgbClr val="BFBFBF"/>
+1268: <a:noFill/>
+1269: <a:srgbClr val="000000"/>
+1270: <a:round/>
+1271: <a:bodyPr/>
+1272: <a:lstStyle/>
+1273: <a:spcPct val="0"/>
+1274: <a:spcPct val="0"/>
+1275: <a:prstClr val="black"/>
+1276: <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+1277: <a:ea typeface="宋体" panose="02010600030101010101" pitchFamily="2" charset="-122"/>
+1278: <p:cNvPr id="9" name="组合 7"/>
+1279: <p:cNvGrpSpPr/>
+1280: <p:nvPr/>
+1281: <a:off x="6197203" y="2689622"/>
+1282: <a:ext cx="670322" cy="670322"/>
+1283: <a:chOff x="8262189" y="3585649"/>
+1284: <a:chExt cx="893782" cy="893782"/>
+1285: <p:cNvPr id="95" name="椭圆 94"/>
+1286: <p:cNvSpPr/>
+1287: <p:nvPr/>
+1288: <a:off x="8262189" y="3585649"/>
+1289: <a:ext cx="893782" cy="893782"/>
+1290: <a:avLst/>
+1291: <a:srgbClr val="FD6D5C"/>
+1292: <a:schemeClr val="bg1"/>
+1293: <a:noFill/>
+1294: <a:shade val="50000"/>
+1295: <a:schemeClr val="accent1"/>
+1296: <a:schemeClr val="accent1"/>
+1297: <a:schemeClr val="lt1"/>
+1298: <a:bodyPr anchor="ctr"/>
+1299: <a:lstStyle/>
+1300: <a:defRPr/>
+1301: <a:prstClr val="white"/>
+1302: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+1303: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1304: <p:cNvPr id="61469" name="Freeform 737"/>
+1305: <a:spLocks noEditPoints="1"/>
+1306: <p:nvPr/>
+1307: <a:off x="8331929" y="3661381"/>
+1308: <a:ext cx="763200" cy="763200"/>
+1309: <a:avLst/>
+1310: <a:gd name="T0" fmla="*/ 2147483646 w 288"/>
+1311: <a:gd name="T1" fmla="*/ 0 h 288"/>
+1312: <a:gd name="T2" fmla="*/ 0 w 288"/>
+1313: <a:gd name="T3" fmla="*/ 2147483646 h 288"/>
+1314: <a:gd name="T4" fmla="*/ 2147483646 w 288"/>
+1315: <a:gd name="T5" fmla="*/ 2147483646 h 288"/>
+1316: <a:gd name="T6" fmla="*/ 2147483646 w 288"/>
+1317: <a:gd name="T7" fmla="*/ 2147483646 h 288"/>
+1318: <a:gd name="T8" fmla="*/ 2147483646 w 288"/>
+1319: <a:gd name="T9" fmla="*/ 0 h 288"/>
+1320: <a:gd name="T10" fmla="*/ 2147483646 w 288"/>
+1321: <a:gd name="T11" fmla="*/ 2147483646 h 288"/>
+1322: <a:gd name="T12" fmla="*/ 2147483646 w 288"/>
+1323: <a:gd name="T13" fmla="*/ 2147483646 h 288"/>
+1324: <a:gd name="T14" fmla="*/ 2147483646 w 288"/>
+1325: <a:gd name="T15" fmla="*/ 2147483646 h 288"/>
+1326: <a:gd name="T16" fmla="*/ 2147483646 w 288"/>
+1327: <a:gd name="T17" fmla="*/ 2147483646 h 288"/>
+1328: <a:gd name="T18" fmla="*/ 2147483646 w 288"/>
+1329: <a:gd name="T19" fmla="*/ 2147483646 h 288"/>
+1330: <a:gd name="T20" fmla="*/ 2147483646 w 288"/>
+1331: <a:gd name="T21" fmla="*/ 2147483646 h 288"/>
+1332: <a:gd name="T22" fmla="*/ 2147483646 w 288"/>
+1333: <a:gd name="T23" fmla="*/ 2147483646 h 288"/>
+1334: <a:gd name="T24" fmla="*/ 2147483646 w 288"/>
+1335: <a:gd name="T25" fmla="*/ 2147483646 h 288"/>
+1336: <a:gd name="T26" fmla="*/ 2147483646 w 288"/>
+1337: <a:gd name="T27" fmla="*/ 2147483646 h 288"/>
+1338: <a:gd name="T28" fmla="*/ 2147483646 w 288"/>
+1339: <a:gd name="T29" fmla="*/ 2147483646 h 288"/>
+1340: <a:gd name="T30" fmla="*/ 2147483646 w 288"/>
+1341: <a:gd name="T31" fmla="*/ 2147483646 h 288"/>
+1342: <a:gd name="T32" fmla="*/ 2147483646 w 288"/>
+1343: <a:gd name="T33" fmla="*/ 2147483646 h 288"/>
+1344: <a:gd name="T34" fmla="*/ 2147483646 w 288"/>
+1345: <a:gd name="T35" fmla="*/ 2147483646 h 288"/>
+1346: <a:gd name="T36" fmla="*/ 2147483646 w 288"/>
+1347: <a:gd name="T37" fmla="*/ 2147483646 h 288"/>
+1348: <a:gd name="T38" fmla="*/ 2147483646 w 288"/>
+1349: <a:gd name="T39" fmla="*/ 2147483646 h 288"/>
+1350: <a:gd name="T40" fmla="*/ 2147483646 w 288"/>
+1351: <a:gd name="T41" fmla="*/ 2147483646 h 288"/>
+1352: <a:gd name="T42" fmla="*/ 2147483646 w 288"/>
+1353: <a:gd name="T43" fmla="*/ 2147483646 h 288"/>
+1354: <a:gd name="T44" fmla="*/ 2147483646 w 288"/>
+1355: <a:gd name="T45" fmla="*/ 2147483646 h 288"/>
+1356: <a:gd name="T46" fmla="*/ 2147483646 w 288"/>
+1357: <a:gd name="T47" fmla="*/ 2147483646 h 288"/>
+1358: <a:gd name="T48" fmla="*/ 2147483646 w 288"/>
+1359: <a:gd name="T49" fmla="*/ 2147483646 h 288"/>
+1360: <a:gd name="T50" fmla="*/ 2147483646 w 288"/>
+1361: <a:gd name="T51" fmla="*/ 2147483646 h 288"/>
+1362: <a:gd name="T52" fmla="*/ 2147483646 w 288"/>
+1363: <a:gd name="T53" fmla="*/ 2147483646 h 288"/>
+1364: <a:gd name="T54" fmla="*/ 2147483646 w 288"/>
+1365: <a:gd name="T55" fmla="*/ 2147483646 h 288"/>
+1366: <a:gd name="T56" fmla="*/ 2147483646 w 288"/>
+1367: <a:gd name="T57" fmla="*/ 2147483646 h 288"/>
+1368: <a:gd name="T58" fmla="*/ 0 60000 65536"/>
+1369: <a:gd name="T59" fmla="*/ 0 60000 65536"/>
+1370: <a:gd name="T60" fmla="*/ 0 60000 65536"/>
+1371: <a:gd name="T61" fmla="*/ 0 60000 65536"/>
+1372: <a:gd name="T62" fmla="*/ 0 60000 65536"/>
+1373: <a:gd name="T63" fmla="*/ 0 60000 65536"/>
+1374: <a:gd name="T64" fmla="*/ 0 60000 65536"/>
+1375: <a:gd name="T65" fmla="*/ 0 60000 65536"/>
+1376: <a:gd name="T66" fmla="*/ 0 60000 65536"/>
+1377: <a:gd name="T67" fmla="*/ 0 60000 65536"/>
+1378: <a:gd name="T68" fmla="*/ 0 60000 65536"/>
+1379: <a:gd name="T69" fmla="*/ 0 60000 65536"/>
+1380: <a:gd name="T70" fmla="*/ 0 60000 65536"/>
+1381: <a:gd name="T71" fmla="*/ 0 60000 65536"/>
+1382: <a:gd name="T72" fmla="*/ 0 60000 65536"/>
+1383: <a:gd name="T73" fmla="*/ 0 60000 65536"/>
+1384: <a:gd name="T74" fmla="*/ 0 60000 65536"/>
+1385: <a:gd name="T75" fmla="*/ 0 60000 65536"/>
+1386: <a:gd name="T76" fmla="*/ 0 60000 65536"/>
+1387: <a:gd name="T77" fmla="*/ 0 60000 65536"/>
+1388: <a:gd name="T78" fmla="*/ 0 60000 65536"/>
+1389: <a:gd name="T79" fmla="*/ 0 60000 65536"/>
+1390: <a:gd name="T80" fmla="*/ 0 60000 65536"/>
+1391: <a:gd name="T81" fmla="*/ 0 60000 65536"/>
+1392: <a:gd name="T82" fmla="*/ 0 60000 65536"/>
+1393: <a:gd name="T83" fmla="*/ 0 60000 65536"/>
+1394: <a:gd name="T84" fmla="*/ 0 60000 65536"/>
+1395: <a:gd name="T85" fmla="*/ 0 60000 65536"/>
+1396: <a:gd name="T86" fmla="*/ 0 60000 65536"/>
+1397: <a:gd name="T87" fmla="*/ 0 w 288"/>
+1398: <a:gd name="T88" fmla="*/ 0 h 288"/>
+1399: <a:gd name="T89" fmla="*/ 288 w 288"/>
+1400: <a:gd name="T90" fmla="*/ 288 h 288"/>
+1401: <a:ahLst/>
+1402: <a:pos x="T0" y="T1"/>
+1403: <a:pos x="T2" y="T3"/>
+1404: <a:pos x="T4" y="T5"/>
+1405: <a:pos x="T6" y="T7"/>
+1406: <a:pos x="T8" y="T9"/>
+1407: <a:pos x="T10" y="T11"/>
+1408: <a:pos x="T12" y="T13"/>
+1409: <a:pos x="T14" y="T15"/>
+1410: <a:pos x="T16" y="T17"/>
+1411: <a:pos x="T18" y="T19"/>
+1412: <a:pos x="T20" y="T21"/>
+1413: <a:pos x="T22" y="T23"/>
+1414: <a:pos x="T24" y="T25"/>
+1415: <a:pos x="T26" y="T27"/>
+1416: <a:pos x="T28" y="T29"/>
+1417: <a:pos x="T30" y="T31"/>
+1418: <a:pos x="T32" y="T33"/>
+1419: <a:pos x="T34" y="T35"/>
+1420: <a:pos x="T36" y="T37"/>
+1421: <a:pos x="T38" y="T39"/>
+1422: <a:pos x="T40" y="T41"/>
+1423: <a:pos x="T42" y="T43"/>
+1424: <a:pos x="T44" y="T45"/>
+1425: <a:pos x="T46" y="T47"/>
+1426: <a:pos x="T48" y="T49"/>
+1427: <a:pos x="T50" y="T51"/>
+1428: <a:pos x="T52" y="T53"/>
+1429: <a:pos x="T54" y="T55"/>
+1430: <a:pos x="T56" y="T57"/>
+1431: <a:rect l="T87" t="T88" r="T89" b="T90"/>
+1432: <a:pt x="144" y="0"/>
+1433: <a:pt x="64" y="0"/>
+1434: <a:pt x="0" y="65"/>
+1435: <a:pt x="0" y="144"/>
+1436: <a:pt x="0" y="224"/>
+1437: <a:pt x="64" y="288"/>
+1438: <a:pt x="144" y="288"/>
+1439: <a:pt x="224" y="288"/>
+1440: <a:pt x="288" y="224"/>
+1441: <a:pt x="288" y="144"/>
+1442: <a:pt x="288" y="65"/>
+1443: <a:pt x="224" y="0"/>
+1444: <a:pt x="144" y="0"/>
+1445: <a:close/>
+1446: <a:pt x="63" y="189"/>
+1447: <a:pt x="71" y="183"/>
+1448: <a:pt x="75" y="177"/>
+1449: <a:pt x="77" y="172"/>
+1450: <a:pt x="66" y="169"/>
+1451: <a:pt x="58" y="159"/>
+1452: <a:pt x="58" y="147"/>
+1453: <a:pt x="58" y="99"/>
+1454: <a:pt x="58" y="99"/>
+1455: <a:pt x="58" y="99"/>
+1456: <a:pt x="58" y="84"/>
+1457: <a:pt x="69" y="73"/>
+1458: <a:pt x="83" y="73"/>
+1459: <a:pt x="170" y="73"/>
+1460: <a:pt x="170" y="73"/>
+1461: <a:pt x="170" y="73"/>
+1462: <a:pt x="184" y="73"/>
+1463: <a:pt x="195" y="84"/>
+1464: <a:pt x="195" y="99"/>
+1465: <a:pt x="195" y="147"/>
+1466: <a:pt x="195" y="147"/>
+1467: <a:pt x="195" y="147"/>
+1468: <a:pt x="195" y="161"/>
+1469: <a:pt x="184" y="173"/>
+1470: <a:pt x="170" y="173"/>
+1471: <a:pt x="109" y="173"/>
+1472: <a:pt x="109" y="173"/>
+1473: <a:pt x="109" y="173"/>
+1474: <a:pt x="94" y="188"/>
+1475: <a:pt x="78" y="192"/>
+1476: <a:pt x="70" y="192"/>
+1477: <a:pt x="64" y="192"/>
+1478: <a:pt x="61" y="190"/>
+1479: <a:pt x="63" y="189"/>
+1480: <a:close/>
+1481: <a:pt x="229" y="173"/>
+1482: <a:pt x="229" y="185"/>
+1483: <a:pt x="221" y="195"/>
+1484: <a:pt x="211" y="197"/>
+1485: <a:pt x="212" y="203"/>
+1486: <a:pt x="216" y="208"/>
+1487: <a:pt x="224" y="214"/>
+1488: <a:pt x="229" y="218"/>
+1489: <a:pt x="203" y="223"/>
+1490: <a:pt x="179" y="198"/>
+1491: <a:pt x="118" y="198"/>
+1492: <a:pt x="118" y="198"/>
+1493: <a:pt x="118" y="198"/>
+1494: <a:pt x="112" y="198"/>
+1495: <a:pt x="106" y="196"/>
+1496: <a:pt x="102" y="193"/>
+1497: <a:pt x="106" y="190"/>
+1498: <a:pt x="109" y="188"/>
+1499: <a:pt x="113" y="184"/>
+1500: <a:pt x="170" y="184"/>
+1501: <a:pt x="170" y="184"/>
+1502: <a:pt x="170" y="184"/>
+1503: <a:pt x="190" y="184"/>
+1504: <a:pt x="207" y="167"/>
+1505: <a:pt x="207" y="147"/>
+1506: <a:pt x="207" y="99"/>
+1507: <a:pt x="207" y="99"/>
+1508: <a:pt x="207" y="99"/>
+1509: <a:pt x="219" y="100"/>
+1510: <a:pt x="229" y="111"/>
+1511: <a:pt x="229" y="124"/>
+1512: <a:pt x="229" y="173"/>
+1513: <a:close/>
+1514: <a:srgbClr val="FD6D5C"/>
+1515: <a:noFill/>
+1516: <a:srgbClr val="000000"/>
+1517: <a:round/>
+1518: <a:bodyPr/>
+1519: <a:lstStyle/>
+1520: <a:spcPct val="0"/>
+1521: <a:spcPct val="0"/>
+1522: <a:prstClr val="black"/>
+1523: <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+1524: <a:ea typeface="宋体" panose="02010600030101010101" pitchFamily="2" charset="-122"/>
+1525: <p:cNvPr id="10" name="组合 6"/>
+1526: <p:cNvGrpSpPr/>
+1527: <p:nvPr/>
+1528: <a:off x="5932885" y="1694260"/>
+1529: <a:ext cx="670322" cy="670322"/>
+1530: <a:chOff x="7910629" y="2259087"/>
+1531: <a:chExt cx="893782" cy="893782"/>
+1532: <p:cNvPr id="89" name="椭圆 88"/>
+1533: <p:cNvSpPr/>
+1534: <p:nvPr/>
+1535: <a:off x="7910629" y="2259087"/>
+1536: <a:ext cx="893782" cy="893782"/>
+1537: <a:avLst/>
+1538: <a:srgbClr val="8DBF67"/>
+1539: <a:schemeClr val="bg1"/>
+1540: <a:noFill/>
+1541: <a:shade val="50000"/>
+1542: <a:schemeClr val="accent1"/>
+1543: <a:schemeClr val="accent1"/>
+1544: <a:schemeClr val="lt1"/>
+1545: <a:bodyPr anchor="ctr"/>
+1546: <a:lstStyle/>
+1547: <a:defRPr/>
+1548: <a:prstClr val="white"/>
+1549: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+1550: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1551: <p:cNvPr id="61467" name="Freeform 723"/>
+1552: <a:spLocks noEditPoints="1"/>
+1553: <p:nvPr/>
+1554: <a:off x="7979208" y="2327673"/>
+1555: <a:ext cx="763200" cy="763200"/>
+1556: <a:avLst/>
+1557: <a:gd name="T0" fmla="*/ 2147483646 w 288"/>
+1558: <a:gd name="T1" fmla="*/ 0 h 288"/>
+1559: <a:gd name="T2" fmla="*/ 0 w 288"/>
+1560: <a:gd name="T3" fmla="*/ 2147483646 h 288"/>
+1561: <a:gd name="T4" fmla="*/ 2147483646 w 288"/>
+1562: <a:gd name="T5" fmla="*/ 2147483646 h 288"/>
+1563: <a:gd name="T6" fmla="*/ 2147483646 w 288"/>
+1564: <a:gd name="T7" fmla="*/ 2147483646 h 288"/>
+1565: <a:gd name="T8" fmla="*/ 2147483646 w 288"/>
+1566: <a:gd name="T9" fmla="*/ 0 h 288"/>
+1567: <a:gd name="T10" fmla="*/ 2147483646 w 288"/>
+1568: <a:gd name="T11" fmla="*/ 2147483646 h 288"/>
+1569: <a:gd name="T12" fmla="*/ 2147483646 w 288"/>
+1570: <a:gd name="T13" fmla="*/ 2147483646 h 288"/>
+1571: <a:gd name="T14" fmla="*/ 2147483646 w 288"/>
+1572: <a:gd name="T15" fmla="*/ 2147483646 h 288"/>
+1573: <a:gd name="T16" fmla="*/ 2147483646 w 288"/>
+1574: <a:gd name="T17" fmla="*/ 2147483646 h 288"/>
+1575: <a:gd name="T18" fmla="*/ 2147483646 w 288"/>
+1576: <a:gd name="T19" fmla="*/ 2147483646 h 288"/>
+1577: <a:gd name="T20" fmla="*/ 2147483646 w 288"/>
+1578: <a:gd name="T21" fmla="*/ 2147483646 h 288"/>
+1579: <a:gd name="T22" fmla="*/ 2147483646 w 288"/>
+1580: <a:gd name="T23" fmla="*/ 2147483646 h 288"/>
+1581: <a:gd name="T24" fmla="*/ 2147483646 w 288"/>
+1582: <a:gd name="T25" fmla="*/ 2147483646 h 288"/>
+1583: <a:gd name="T26" fmla="*/ 2147483646 w 288"/>
+1584: <a:gd name="T27" fmla="*/ 2147483646 h 288"/>
+1585: <a:gd name="T28" fmla="*/ 2147483646 w 288"/>
+1586: <a:gd name="T29" fmla="*/ 2147483646 h 288"/>
+1587: <a:gd name="T30" fmla="*/ 2147483646 w 288"/>
+1588: <a:gd name="T31" fmla="*/ 2147483646 h 288"/>
+1589: <a:gd name="T32" fmla="*/ 2147483646 w 288"/>
+1590: <a:gd name="T33" fmla="*/ 2147483646 h 288"/>
+1591: <a:gd name="T34" fmla="*/ 2147483646 w 288"/>
+1592: <a:gd name="T35" fmla="*/ 2147483646 h 288"/>
+1593: <a:gd name="T36" fmla="*/ 0 60000 65536"/>
+1594: <a:gd name="T37" fmla="*/ 0 60000 65536"/>
+1595: <a:gd name="T38" fmla="*/ 0 60000 65536"/>
+1596: <a:gd name="T39" fmla="*/ 0 60000 65536"/>
+1597: <a:gd name="T40" fmla="*/ 0 60000 65536"/>
+1598: <a:gd name="T41" fmla="*/ 0 60000 65536"/>
+1599: <a:gd name="T42" fmla="*/ 0 60000 65536"/>
+1600: <a:gd name="T43" fmla="*/ 0 60000 65536"/>
+1601: <a:gd name="T44" fmla="*/ 0 60000 65536"/>
+1602: <a:gd name="T45" fmla="*/ 0 60000 65536"/>
+1603: <a:gd name="T46" fmla="*/ 0 60000 65536"/>
+1604: <a:gd name="T47" fmla="*/ 0 60000 65536"/>
+1605: <a:gd name="T48" fmla="*/ 0 60000 65536"/>
+1606: <a:gd name="T49" fmla="*/ 0 60000 65536"/>
+1607: <a:gd name="T50" fmla="*/ 0 60000 65536"/>
+1608: <a:gd name="T51" fmla="*/ 0 60000 65536"/>
+1609: <a:gd name="T52" fmla="*/ 0 60000 65536"/>
+1610: <a:gd name="T53" fmla="*/ 0 60000 65536"/>
+1611: <a:gd name="T54" fmla="*/ 0 w 288"/>
+1612: <a:gd name="T55" fmla="*/ 0 h 288"/>
+1613: <a:gd name="T56" fmla="*/ 288 w 288"/>
+1614: <a:gd name="T57" fmla="*/ 288 h 288"/>
+1615: <a:ahLst/>
+1616: <a:pos x="T0" y="T1"/>
+1617: <a:pos x="T2" y="T3"/>
+1618: <a:pos x="T4" y="T5"/>
+1619: <a:pos x="T6" y="T7"/>
+1620: <a:pos x="T8" y="T9"/>
+1621: <a:pos x="T10" y="T11"/>
+1622: <a:pos x="T12" y="T13"/>
+1623: <a:pos x="T14" y="T15"/>
+1624: <a:pos x="T16" y="T17"/>
+1625: <a:pos x="T18" y="T19"/>
+1626: <a:pos x="T20" y="T21"/>
+1627: <a:pos x="T22" y="T23"/>
+1628: <a:pos x="T24" y="T25"/>
+1629: <a:pos x="T26" y="T27"/>
+1630: <a:pos x="T28" y="T29"/>
+1631: <a:pos x="T30" y="T31"/>
+1632: <a:pos x="T32" y="T33"/>
+1633: <a:pos x="T34" y="T35"/>
+1634: <a:rect l="T54" t="T55" r="T56" b="T57"/>
+1635: <a:pt x="144" y="0"/>
+1636: <a:pt x="64" y="0"/>
+1637: <a:pt x="0" y="65"/>
+1638: <a:pt x="0" y="144"/>
+1639: <a:pt x="0" y="224"/>
+1640: <a:pt x="64" y="288"/>
+1641: <a:pt x="144" y="288"/>
+1642: <a:pt x="224" y="288"/>
+1643: <a:pt x="288" y="224"/>
+1644: <a:pt x="288" y="144"/>
+1645: <a:pt x="288" y="65"/>
+1646: <a:pt x="224" y="0"/>
+1647: <a:pt x="144" y="0"/>
+1648: <a:close/>
+1649: <a:pt x="229" y="168"/>
+1650: <a:pt x="169" y="227"/>
+1651: <a:pt x="169" y="227"/>
+1652: <a:pt x="169" y="227"/>
+1653: <a:pt x="167" y="229"/>
+1654: <a:pt x="164" y="229"/>
+1655: <a:pt x="162" y="227"/>
+1656: <a:pt x="80" y="145"/>
+1657: <a:pt x="80" y="145"/>
+1658: <a:pt x="80" y="145"/>
+1659: <a:pt x="78" y="143"/>
+1660: <a:pt x="77" y="140"/>
+1661: <a:pt x="76" y="137"/>
+1662: <a:pt x="72" y="92"/>
+1663: <a:pt x="72" y="92"/>
+1664: <a:pt x="72" y="92"/>
+1665: <a:pt x="72" y="90"/>
+1666: <a:pt x="74" y="86"/>
+1667: <a:pt x="75" y="84"/>
+1668: <a:pt x="86" y="74"/>
+1669: <a:pt x="86" y="74"/>
+1670: <a:pt x="86" y="74"/>
+1671: <a:pt x="88" y="72"/>
+1672: <a:pt x="91" y="70"/>
+1673: <a:pt x="94" y="71"/>
+1674: <a:pt x="138" y="75"/>
+1675: <a:pt x="138" y="75"/>
+1676: <a:pt x="138" y="75"/>
+1677: <a:pt x="141" y="75"/>
+1678: <a:pt x="145" y="77"/>
+1679: <a:pt x="147" y="79"/>
+1680: <a:pt x="229" y="160"/>
+1681: <a:pt x="229" y="160"/>
+1682: <a:pt x="229" y="160"/>
+1683: <a:pt x="231" y="162"/>
+1684: <a:pt x="231" y="166"/>
+1685: <a:pt x="229" y="168"/>
+1686: <a:close/>
+1687: <a:srgbClr val="8DBF67"/>
+1688: <a:noFill/>
+1689: <a:srgbClr val="000000"/>
+1690: <a:round/>
+1691: <a:bodyPr/>
+1692: <a:lstStyle/>
+1693: <a:spcPct val="0"/>
+1694: <a:spcPct val="0"/>
+1695: <a:prstClr val="black"/>
+1696: <a:latin typeface="Arial" panose="020B0604020202020204" pitchFamily="34" charset="0"/>
+1697: <a:ea typeface="宋体" panose="02010600030101010101" pitchFamily="2" charset="-122"/>
+1698: <p:cNvPr id="35" name="矩形 34"/>
+1699: <p:cNvSpPr/>
+1700: <p:nvPr/>
+1701: <a:off x="6654404" y="1706167"/>
+1702: <a:ext cx="1969294" cy="406400"/>
+1703: <a:avLst/>
+1704: <a:noFill/>
+1705: <a:spAutoFit/>
+1706: <a:lstStyle/>
+1707: <a:spcPct val="130000"/>
+1708: <a:defRPr/>
+1709: <a:lumMod val="25000"/>
+1710: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1711: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1712: <a:lumMod val="25000"/>
+1713: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1714: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1715: <p:cNvPr id="36" name="矩形 35"/>
+1716: <p:cNvSpPr/>
+1717: <p:nvPr/>
+1718: <a:off x="6873479" y="2719388"/>
+1719: <a:ext cx="1969294" cy="406400"/>
+1720: <a:avLst/>
+1721: <a:noFill/>
+1722: <a:spAutoFit/>
+1723: <a:lstStyle/>
+1724: <a:spcPct val="130000"/>
+1725: <a:defRPr/>
+1726: <a:lumMod val="25000"/>
+1727: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1728: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1729: <a:lumMod val="25000"/>
+1730: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1731: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1732: <p:cNvPr id="37" name="矩形 36"/>
+1733: <p:cNvSpPr/>
+1734: <p:nvPr/>
+1735: <a:off x="6603207" y="3842148"/>
+1736: <a:ext cx="1969294" cy="406400"/>
+1737: <a:avLst/>
+1738: <a:noFill/>
+1739: <a:spAutoFit/>
+1740: <a:lstStyle/>
+1741: <a:spcPct val="130000"/>
+1742: <a:defRPr/>
+1743: <a:lumMod val="25000"/>
+1744: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1745: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1746: <a:lumMod val="25000"/>
+1747: <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1748: <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+1749: <p:cNvPr id="11" name="组合 37"/>
+1750: <p:cNvGrpSpPr/>
+1751: <p:nvPr/>
+1752: <a:off x="3662362" y="2805110"/>
+1753: <a:ext cx="1720454" cy="446947"/>
+1754: <a:chOff x="5158599" y="3146136"/>
+1755: <a:chExt cx="2294737" cy="595904"/>
+1756: <p:cNvPr id="39" name="文本框 38"/>
+1757: <p:cNvSpPr txBox="1"/>
+1758: <p:nvPr/>
+1759: <a:off x="5158599" y="3146136"/>
+1760: <a:ext cx="2294737" cy="430868"/>
+1761: <a:avLst/>
+1762: <a:spAutoFit/>
+1763: <a:defRPr lang="zh-CN"/>
+1764: <a:lumMod val="25000"/>
+1765: <a:alpha val="85000"/>
+1766: <a:latin typeface="+mn-ea"/>
+1767: <a:defRPr/>
+1768: <a:lumMod val="25000"/>
+1769: <a:alpha val="85000"/>
+1770: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1771: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1772: <a:lumMod val="25000"/>
+1773: <a:alpha val="85000"/>
+1774: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1775: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1776: <p:cNvPr id="40" name="矩形 39"/>
+1777: <p:cNvSpPr/>
+1778: <p:nvPr/>
+1779: <a:off x="5158599" y="3457272"/>
+1780: <a:ext cx="2210570" cy="284768"/>
+1781: <a:avLst/>
+1782: <a:spAutoFit/>
+1783: <a:lstStyle/>
+1784: <a:defRPr/>
+1785: <a:lumMod val="50000"/>
+1786: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1787: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1788: <a:lumMod val="50000"/>
+1789: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1790: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1791: <p:cNvPr id="47" name="矩形 46"/>
+1792: <p:cNvSpPr/>
+1793: <p:nvPr/>
+1794: <a:off x="0" y="359398"/>
+1795: <a:ext cx="251222" cy="597694"/>
+1796: <a:avLst/>
+1797: <a:srgbClr val="66BFBC"/>
+1798: <a:noFill/>
+1799: <a:shade val="50000"/>
+1800: <a:schemeClr val="accent1"/>
+1801: <a:schemeClr val="accent1"/>
+1802: <a:schemeClr val="lt1"/>
+1803: <a:bodyPr anchor="ctr"/>
+1804: <a:lstStyle/>
+1805: <a:defRPr/>
+1806: <a:prstClr val="white"/>
+1807: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+1808: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1809: <p:cNvPr id="48" name="矩形 47"/>
+1810: <p:cNvSpPr/>
+1811: <p:nvPr/>
+1812: <a:off x="357188" y="359398"/>
+1813: <a:ext cx="113109" cy="597694"/>
+1814: <a:avLst/>
+1815: <a:srgbClr val="8CC066"/>
+1816: <a:noFill/>
+1817: <a:shade val="50000"/>
+1818: <a:schemeClr val="accent1"/>
+1819: <a:schemeClr val="accent1"/>
+1820: <a:schemeClr val="lt1"/>
+1821: <a:bodyPr anchor="ctr"/>
+1822: <a:lstStyle/>
+1823: <a:defRPr/>
+1824: <a:prstClr val="white"/>
+1825: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+1826: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1827: <p:cNvPr id="49" name="矩形 48"/>
+1828: <p:cNvSpPr/>
+1829: <p:nvPr/>
+1830: <a:off x="576263" y="359398"/>
+1831: <a:ext cx="70247" cy="597694"/>
+1832: <a:avLst/>
+1833: <a:srgbClr val="FBC75D"/>
+1834: <a:noFill/>
+1835: <a:shade val="50000"/>
+1836: <a:schemeClr val="accent1"/>
+1837: <a:schemeClr val="accent1"/>
+1838: <a:schemeClr val="lt1"/>
+1839: <a:bodyPr anchor="ctr"/>
+1840: <a:lstStyle/>
+1841: <a:defRPr/>
+1842: <a:prstClr val="white"/>
+1843: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+1844: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1845: <p:cNvPr id="53" name="矩形 52"/>
+1846: <p:cNvSpPr/>
+1847: <p:nvPr/>
+1848: <a:off x="752476" y="359398"/>
+1849: <a:ext cx="39290" cy="597694"/>
+1850: <a:avLst/>
+1851: <a:srgbClr val="FC6E5B"/>
+1852: <a:noFill/>
+1853: <a:shade val="50000"/>
+1854: <a:schemeClr val="accent1"/>
+1855: <a:schemeClr val="accent1"/>
+1856: <a:schemeClr val="lt1"/>
+1857: <a:bodyPr anchor="ctr"/>
+1858: <a:lstStyle/>
+1859: <a:defRPr/>
+1860: <a:prstClr val="white"/>
+1861: <a:latin typeface="Arial" panose="020B0604020202020204"/>
+1862: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1863: <p:cNvPr id="56" name="组合 9"/>
+1864: <p:cNvGrpSpPr/>
+1865: <p:nvPr/>
+1866: <a:off x="813586" y="287917"/>
+1867: <a:ext cx="2897204" cy="654426"/>
+1868: <a:chOff x="1051541" y="624028"/>
+1869: <a:chExt cx="3862374" cy="872759"/>
+1870: <p:cNvPr id="57" name="文本框 56"/>
+1871: <p:cNvSpPr txBox="1"/>
+1872: <p:nvPr/>
+1873: <a:off x="1051541" y="624028"/>
+1874: <a:ext cx="3862374" cy="615688"/>
+1875: <a:avLst/>
+1876: <a:spAutoFit/>
+1877: <a:defRPr lang="zh-CN"/>
+1878: <a:lumMod val="25000"/>
+1879: <a:alpha val="85000"/>
+1880: <a:latin typeface="+mn-ea"/>
+1881: <a:defRPr/>
+1882: <a:lumMod val="10000"/>
+1883: <a:alpha val="85000"/>
+1884: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1885: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1886: <a:lumMod val="10000"/>
+1887: <a:alpha val="85000"/>
+1888: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1889: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1890: <p:cNvPr id="58" name="矩形 57"/>
+1891: <p:cNvSpPr/>
+1892: <p:nvPr/>
+1893: <a:off x="1051541" y="1127374"/>
+1894: <a:ext cx="3390404" cy="369413"/>
+1895: <a:avLst/>
+1896: <a:spAutoFit/>
+1897: <a:lstStyle/>
+1898: <a:defRPr/>
+1899: <a:lumMod val="10000"/>
+1900: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1901: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1902: <a:lumMod val="10000"/>
+1903: <a:latin typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1904: <a:ea typeface="幼圆" panose="02010509060101010101" pitchFamily="49" charset="-122"/>
+1905: <a:masterClrMapping/>
+1906: <p:circle/>
+1907: <p:cond delay="indefinite"/>
+1908: <p:tn val="2"/>
+1909: <p:cond delay="0"/>
+1910: <p:cond delay="0"/>
+1911: <p:tmPct val="0"/>
+1912: <p:cond delay="0"/>
+1913: <p:spTgt spid="47"/>
+1914: <p:strVal val="visible"/>
+1915: <p:cTn id="7" dur="250" fill="hold"/>
+1916: <p:spTgt spid="47"/>
+1917: <p:strVal val="0-#ppt_w/2"/>
+1918: <p:strVal val="#ppt_x"/>
+1919: <p:cTn id="8" dur="250" fill="hold"/>
+1920: <p:spTgt spid="47"/>
+1921: <p:strVal val="#ppt_y"/>
+1922: <p:strVal val="#ppt_y"/>
+1923: <p:cond delay="0"/>
+1924: <p:cond delay="0"/>
+1925: <p:tmPct val="0"/>
+1926: <p:cond delay="0"/>
+1927: <p:spTgt spid="48"/>
+1928: <p:strVal val="visible"/>
+1929: <p:cTn id="12" dur="250" fill="hold"/>
+1930: <p:spTgt spid="48"/>
+1931: <p:strVal val="0-#ppt_w/2"/>
+1932: <p:strVal val="#ppt_x"/>
+1933: <p:cTn id="13" dur="250" fill="hold"/>
+1934: <p:spTgt spid="48"/>
+1935: <p:strVal val="#ppt_y"/>
+1936: <p:strVal val="#ppt_y"/>
+1937: <p:cond delay="250"/>
+1938: <p:cond delay="0"/>
+1939: <p:tmPct val="0"/>
+1940: <p:cond delay="0"/>
+1941: <p:spTgt spid="49"/>
+1942: <p:strVal val="visible"/>
+1943: <p:cTn id="17" dur="250" fill="hold"/>
+1944: <p:spTgt spid="49"/>
+1945: <p:strVal val="0-#ppt_w/2"/>
+1946: <p:strVal val="#ppt_x"/>
+1947: <p:cTn id="18" dur="250" fill="hold"/>
+1948: <p:spTgt spid="49"/>
+1949: <p:strVal val="#ppt_y"/>
+1950: <p:strVal val="#ppt_y"/>
+1951: <p:cond delay="500"/>
+1952: <p:cond delay="0"/>
+1953: <p:tmPct val="0"/>
+1954: <p:cond delay="0"/>
+1955: <p:spTgt spid="53"/>
+1956: <p:strVal val="visible"/>
+1957: <p:cTn id="22" dur="250" fill="hold"/>
+1958: <p:spTgt spid="53"/>
+1959: <p:strVal val="0-#ppt_w/2"/>
+1960: <p:strVal val="#ppt_x"/>
+1961: <p:cTn id="23" dur="250" fill="hold"/>
+1962: <p:spTgt spid="53"/>
+1963: <p:strVal val="#ppt_y"/>
+1964: <p:strVal val="#ppt_y"/>
+1965: <p:cond delay="750"/>
+1966: <p:cond delay="0"/>
+1967: <p:tmPct val="0"/>
+1968: <p:cond delay="0"/>
+1969: <p:spTgt spid="56"/>
+1970: <p:strVal val="visible"/>
+1971: <p:cTn id="27" dur="1000"/>
+1972: <p:spTgt spid="56"/>
+1973: <p:cTn id="28" dur="1000" fill="hold"/>
+1974: <p:spTgt spid="56"/>
+1975: <p:strVal val="#ppt_x"/>
+1976: <p:strVal val="#ppt_x"/>
+1977: <p:cTn id="29" dur="1000" fill="hold"/>
+1978: <p:spTgt spid="56"/>
+1979: <p:strVal val="#ppt_y-.1"/>
+1980: <p:strVal val="#ppt_y"/>
+1981: <p:cond delay="900"/>
+1982: <p:tmPct val="0"/>
+1983: <p:cond delay="0"/>
+1984: <p:spTgt spid="3"/>
+1985: <p:strVal val="visible"/>
+1986: <p:cTn id="32" dur="750" fill="hold"/>
+1987: <p:spTgt spid="3"/>
+1988: <p:strVal val="0-#ppt_w/2"/>
+1989: <p:strVal val="#ppt_x"/>
+1990: <p:cTn id="33" dur="750" fill="hold"/>
+1991: <p:spTgt spid="3"/>
+1992: <p:strVal val="#ppt_y"/>
+1993: <p:strVal val="#ppt_y"/>
+1994: <p:cond delay="900"/>
+1995: <p:tmPct val="0"/>
+1996: <p:cond delay="0"/>
+1997: <p:spTgt spid="2"/>
+1998: <p:strVal val="visible"/>
+1999: <p:cTn id="36" dur="750" fill="hold"/>
+2000: <p:spTgt spid="2"/>
+2001: <p:strVal val="1+#ppt_w/2"/>
+2002: <p:strVal val="#ppt_x"/>
+2003: <p:cTn id="37" dur="750" fill="hold"/>
+2004: <p:spTgt spid="2"/>
+2005: <p:strVal val="#ppt_y"/>
+2006: <p:strVal val="#ppt_y"/>
+2007: <p:cond delay="2400"/>
+2008: <p:cond delay="0"/>
+2009: <p:tmPct val="0"/>
+2010: <p:cond delay="0"/>
+2011: <p:spTgt spid="11"/>
+2012: <p:strVal val="visible"/>
+2013: <p:cTn id="41" dur="1000"/>
+2014: <p:spTgt spid="11"/>
+2015: <p:cTn id="42" dur="1000" fill="hold"/>
+2016: <p:spTgt spid="11"/>
+2017: <p:strVal val="#ppt_x"/>
+2018: <p:strVal val="#ppt_x"/>
+2019: <p:cTn id="43" dur="1000" fill="hold"/>
+2020: <p:spTgt spid="11"/>
+2021: <p:strVal val="#ppt_y+.1"/>
+2022: <p:strVal val="#ppt_y"/>
+2023: <p:cond delay="1000"/>
+2024: <p:tmPct val="0"/>
+2025: <p:cond delay="0"/>
+2026: <p:spTgt spid="5"/>
+2027: <p:strVal val="visible"/>
+2028: <p:cTn id="46" dur="1000" fill="hold"/>
+2029: <p:spTgt spid="5"/>
+2030: <p:strVal val="0-#ppt_w/2"/>
+2031: <p:strVal val="#ppt_x"/>
+2032: <p:cTn id="47" dur="1000" fill="hold"/>
+2033: <p:spTgt spid="5"/>
+2034: <p:strVal val="#ppt_y"/>
+2035: <p:strVal val="#ppt_y"/>
+2036: <p:cond delay="1000"/>
+2037: <p:tmPct val="0"/>
+2038: <p:cond delay="0"/>
+2039: <p:spTgt spid="10"/>
+2040: <p:strVal val="visible"/>
+2041: <p:cTn id="50" dur="1000" fill="hold"/>
+2042: <p:spTgt spid="10"/>
+2043: <p:strVal val="1+#ppt_w/2"/>
+2044: <p:strVal val="#ppt_x"/>
+2045: <p:cTn id="51" dur="1000" fill="hold"/>
+2046: <p:spTgt spid="10"/>
+2047: <p:strVal val="#ppt_y"/>
+2048: <p:strVal val="#ppt_y"/>
+2049: <p:cond delay="2000"/>
+2050: <p:tmPct val="0"/>
+2051: <p:cond delay="0"/>
+2052: <p:spTgt spid="35"/>
+2053: <p:strVal val="visible"/>
+2054: <p:cTn id="54" dur="1000"/>
+2055: <p:spTgt spid="35"/>
+2056: <p:cTn id="55" dur="1000" fill="hold"/>
+2057: <p:spTgt spid="35"/>
+2058: <p:strVal val="#ppt_x"/>
+2059: <p:strVal val="#ppt_x"/>
+2060: <p:cTn id="56" dur="1000" fill="hold"/>
+2061: <p:spTgt spid="35"/>
+2062: <p:strVal val="#ppt_y+.1"/>
+2063: <p:strVal val="#ppt_y"/>
+2064: <p:cond delay="2000"/>
+2065: <p:tmPct val="0"/>
+2066: <p:cond delay="0"/>
+2067: <p:spTgt spid="34"/>
+2068: <p:strVal val="visible"/>
+2069: <p:cTn id="59" dur="1000"/>
+2070: <p:spTgt spid="34"/>
+2071: <p:cTn id="60" dur="1000" fill="hold"/>
+2072: <p:spTgt spid="34"/>
+2073: <p:strVal val="#ppt_x"/>
+2074: <p:strVal val="#ppt_x"/>
+2075: <p:cTn id="61" dur="1000" fill="hold"/>
+2076: <p:spTgt spid="34"/>
+2077: <p:strVal val="#ppt_y+.1"/>
+2078: <p:strVal val="#ppt_y"/>
+2079: <p:cond delay="3000"/>
+2080: <p:tmPct val="0"/>
+2081: <p:cond delay="0"/>
+2082: <p:spTgt spid="4"/>
+2083: <p:strVal val="visible"/>
+2084: <p:cTn id="64" dur="1000" fill="hold"/>
+2085: <p:spTgt spid="4"/>
+2086: <p:strVal val="0-#ppt_w/2"/>
+2087: <p:strVal val="#ppt_x"/>
+2088: <p:cTn id="65" dur="1000" fill="hold"/>
+2089: <p:spTgt spid="4"/>
+2090: <p:strVal val="#ppt_y"/>
+2091: <p:strVal val="#ppt_y"/>
+2092: <p:cond delay="3000"/>
+2093: <p:tmPct val="0"/>
+2094: <p:cond delay="0"/>
+2095: <p:spTgt spid="9"/>
+2096: <p:strVal val="visible"/>
+2097: <p:cTn id="68" dur="1000" fill="hold"/>
+2098: <p:spTgt spid="9"/>
+2099: <p:strVal val="1+#ppt_w/2"/>
+2100: <p:strVal val="#ppt_x"/>
+2101: <p:cTn id="69" dur="1000" fill="hold"/>
+2102: <p:spTgt spid="9"/>
+2103: <p:strVal val="#ppt_y"/>
+2104: <p:strVal val="#ppt_y"/>
+2105: <p:cond delay="4000"/>
+2106: <p:tmPct val="0"/>
+2107: <p:cond delay="0"/>
+2108: <p:spTgt spid="33"/>
+2109: <p:strVal val="visible"/>
+2110: <p:cTn id="72" dur="1000"/>
+2111: <p:spTgt spid="33"/>
+2112: <p:cTn id="73" dur="1000" fill="hold"/>
+2113: <p:spTgt spid="33"/>
+2114: <p:strVal val="#ppt_x"/>
+2115: <p:strVal val="#ppt_x"/>
+2116: <p:cTn id="74" dur="1000" fill="hold"/>
+2117: <p:spTgt spid="33"/>
+2118: <p:strVal val="#ppt_y+.1"/>
+2119: <p:strVal val="#ppt_y"/>
+2120: <p:cond delay="4000"/>
+2121: <p:tmPct val="0"/>
+2122: <p:cond delay="0"/>
+2123: <p:spTgt spid="36"/>
+2124: <p:strVal val="visible"/>
+2125: <p:cTn id="77" dur="1000"/>
+2126: <p:spTgt spid="36"/>
+2127: <p:cTn id="78" dur="1000" fill="hold"/>
+2128: <p:spTgt spid="36"/>
+2129: <p:strVal val="#ppt_x"/>
+2130: <p:strVal val="#ppt_x"/>
+2131: <p:cTn id="79" dur="1000" fill="hold"/>
+2132: <p:spTgt spid="36"/>
+2133: <p:strVal val="#ppt_y+.1"/>
+2134: <p:strVal val="#ppt_y"/>
+2135: <p:cond delay="5000"/>
+2136: <p:tmPct val="0"/>
+2137: <p:cond delay="0"/>
+2138: <p:spTgt spid="7"/>
+2139: <p:strVal val="visible"/>
+2140: <p:cTn id="82" dur="1000" fill="hold"/>
+2141: <p:spTgt spid="7"/>
+2142: <p:strVal val="0-#ppt_w/2"/>
+2143: <p:strVal val="#ppt_x"/>
+2144: <p:cTn id="83" dur="1000" fill="hold"/>
+2145: <p:spTgt spid="7"/>
+2146: <p:strVal val="#ppt_y"/>
+2147: <p:strVal val="#ppt_y"/>
+2148: <p:cond delay="5000"/>
+2149: <p:tmPct val="0"/>
+2150: <p:cond delay="0"/>
+2151: <p:spTgt spid="8"/>
+2152: <p:strVal val="visible"/>
+2153: <p:cTn id="86" dur="1000" fill="hold"/>
+2154: <p:spTgt spid="8"/>
+2155: <p:strVal val="1+#ppt_w/2"/>
+2156: <p:strVal val="#ppt_x"/>
+2157: <p:cTn id="87" dur="1000" fill="hold"/>
+2158: <p:spTgt spid="8"/>
+2159: <p:strVal val="#ppt_y"/>
+2160: <p:strVal val="#ppt_y"/>
+2161: <p:cond delay="6000"/>
+2162: <p:tmPct val="0"/>
+2163: <p:cond delay="0"/>
+2164: <p:spTgt spid="32"/>
+2165: <p:strVal val="visible"/>
+2166: <p:cTn id="90" dur="1000"/>
+2167: <p:spTgt spid="32"/>
+2168: <p:cTn id="91" dur="1000" fill="hold"/>
+2169: <p:spTgt spid="32"/>
+2170: <p:strVal val="#ppt_x"/>
+2171: <p:strVal val="#ppt_x"/>
+2172: <p:cTn id="92" dur="1000" fill="hold"/>
+2173: <p:spTgt spid="32"/>
+2174: <p:strVal val="#ppt_y+.1"/>
+2175: <p:strVal val="#ppt_y"/>
+2176: <p:cond delay="6000"/>
+2177: <p:tmPct val="0"/>
+2178: <p:cond delay="0"/>
+2179: <p:spTgt spid="37"/>
+2180: <p:strVal val="visible"/>
+2181: <p:cTn id="95" dur="1000"/>
+2182: <p:spTgt spid="37"/>
+2183: <p:cTn id="96" dur="1000" fill="hold"/>
+2184: <p:spTgt spid="37"/>
+2185: <p:strVal val="#ppt_x"/>
+2186: <p:strVal val="#ppt_x"/>
+2187: <p:cTn id="97" dur="1000" fill="hold"/>
+2188: <p:spTgt spid="37"/>
+2189: <p:strVal val="#ppt_y+.1"/>
+2190: <p:strVal val="#ppt_y"/>
+2191: <p:cond delay="7250"/>
+2192: <p:tmPct val="10000"/>
+2193: <p:cTn id="99" dur="1000"/>
+2194: <p:spTgt spid="3"/>
+2195: <p:strVal val="ppt_w"/>
+2196: <p:fltVal val="0"/>
+2197: <p:cTn id="100" dur="1000"/>
+2198: <p:spTgt spid="3"/>
+2199: <p:strVal val="ppt_h"/>
+2200: <p:fltVal val="0"/>
+2201: <p:cTn id="101" dur="1000"/>
+2202: <p:spTgt spid="3"/>
+2203: <p:strVal val="ppt_x"/>
+2204: <p:fltVal val="0.5"/>
+2205: <p:cTn id="102" dur="1000"/>
+2206: <p:spTgt spid="3"/>
+2207: <p:strVal val="ppt_y"/>
+2208: <p:fltVal val="0.5"/>
+2209: <p:cond delay="999"/>
+2210: <p:spTgt spid="3"/>
+2211: <p:strVal val="hidden"/>
+2212: <p:cond delay="7250"/>
+2213: <p:tmPct val="10000"/>
+2214: <p:cTn id="105" dur="1000"/>
+2215: <p:spTgt spid="2"/>
+2216: <p:strVal val="ppt_w"/>
+2217: <p:fltVal val="0"/>
+2218: <p:cTn id="106" dur="1000"/>
+2219: <p:spTgt spid="2"/>
+2220: <p:strVal val="ppt_h"/>
+2221: <p:fltVal val="0"/>
+2222: <p:cTn id="107" dur="1000"/>
+2223: <p:spTgt spid="2"/>
+2224: <p:strVal val="ppt_x"/>
+2225: <p:fltVal val="0.5"/>
+2226: <p:cTn id="108" dur="1000"/>
+2227: <p:spTgt spid="2"/>
+2228: <p:strVal val="ppt_y"/>
+2229: <p:fltVal val="0.5"/>
+2230: <p:cond delay="999"/>
+2231: <p:spTgt spid="2"/>
+2232: <p:strVal val="hidden"/>
+2233: <p:cond delay="7250"/>
+2234: <p:tmPct val="10000"/>
+2235: <p:cTn id="111" dur="1000"/>
+2236: <p:spTgt spid="11"/>
+2237: <p:strVal val="ppt_w"/>
+2238: <p:fltVal val="0"/>
+2239: <p:cTn id="112" dur="1000"/>
+2240: <p:spTgt spid="11"/>
+2241: <p:strVal val="ppt_h"/>
+2242: <p:fltVal val="0"/>
+2243: <p:cTn id="113" dur="1000"/>
+2244: <p:spTgt spid="11"/>
+2245: <p:strVal val="ppt_x"/>
+2246: <p:fltVal val="0.5"/>
+2247: <p:cTn id="114" dur="1000"/>
+2248: <p:spTgt spid="11"/>
+2249: <p:strVal val="ppt_y"/>
+2250: <p:fltVal val="0.5"/>
+2251: <p:cond delay="999"/>
+2252: <p:spTgt spid="11"/>
+2253: <p:strVal val="hidden"/>
+2254: <p:cond delay="7250"/>
+2255: <p:tmPct val="10000"/>
+2256: <p:cTn id="117" dur="1000"/>
+2257: <p:spTgt spid="5"/>
+2258: <p:strVal val="ppt_w"/>
+2259: <p:fltVal val="0"/>
+2260: <p:cTn id="118" dur="1000"/>
+2261: <p:spTgt spid="5"/>
+2262: <p:strVal val="ppt_h"/>
+2263: <p:fltVal val="0"/>
+2264: <p:cTn id="119" dur="1000"/>
+2265: <p:spTgt spid="5"/>
+2266: <p:strVal val="ppt_x"/>
+2267: <p:fltVal val="0.5"/>
+2268: <p:cTn id="120" dur="1000"/>
+2269: <p:spTgt spid="5"/>
+2270: <p:strVal val="ppt_y"/>
+2271: <p:fltVal val="0.5"/>
+2272: <p:cond delay="999"/>
+2273: <p:spTgt spid="5"/>
+2274: <p:strVal val="hidden"/>
+2275: <p:cond delay="7250"/>
+2276: <p:tmPct val="10000"/>
+2277: <p:cTn id="123" dur="1000"/>
+2278: <p:spTgt spid="10"/>
+2279: <p:strVal val="ppt_w"/>
+2280: <p:fltVal val="0"/>
+2281: <p:cTn id="124" dur="1000"/>
+2282: <p:spTgt spid="10"/>
+2283: <p:strVal val="ppt_h"/>
+2284: <p:fltVal val="0"/>
+2285: <p:cTn id="125" dur="1000"/>
+2286: <p:spTgt spid="10"/>
+2287: <p:strVal val="ppt_x"/>
+2288: <p:fltVal val="0.5"/>
+2289: <p:cTn id="126" dur="1000"/>
+2290: <p:spTgt spid="10"/>
+2291: <p:strVal val="ppt_y"/>
+2292: <p:fltVal val="0.5"/>
+2293: <p:cond delay="999"/>
+2294: <p:spTgt spid="10"/>
+2295: <p:strVal val="hidden"/>
+2296: <p:cond delay="7250"/>
+2297: <p:tmPct val="10000"/>
+2298: <p:cTn id="129" dur="1000"/>
+2299: <p:spTgt spid="35"/>
+2300: <p:strVal val="ppt_w"/>
+2301: <p:fltVal val="0"/>
+2302: <p:cTn id="130" dur="1000"/>
+2303: <p:spTgt spid="35"/>
+2304: <p:strVal val="ppt_h"/>
+2305: <p:fltVal val="0"/>
+2306: <p:cTn id="131" dur="1000"/>
+2307: <p:spTgt spid="35"/>
+2308: <p:strVal val="ppt_x"/>
+2309: <p:fltVal val="0.5"/>
+2310: <p:cTn id="132" dur="1000"/>
+2311: <p:spTgt spid="35"/>
+2312: <p:strVal val="ppt_y"/>
+2313: <p:fltVal val="0.5"/>
+2314: <p:cond delay="999"/>
+2315: <p:spTgt spid="35"/>
+2316: <p:strVal val="hidden"/>
+2317: <p:cond delay="7250"/>
+2318: <p:tmPct val="10000"/>
+2319: <p:cTn id="135" dur="1000"/>
+2320: <p:spTgt spid="34"/>
+2321: <p:strVal val="ppt_w"/>
+2322: <p:fltVal val="0"/>
+2323: <p:cTn id="136" dur="1000"/>
+2324: <p:spTgt spid="34"/>
+2325: <p:strVal val="ppt_h"/>
+2326: <p:fltVal val="0"/>
+2327: <p:cTn id="137" dur="1000"/>
+2328: <p:spTgt spid="34"/>
+2329: <p:strVal val="ppt_x"/>
+2330: <p:fltVal val="0.5"/>
+2331: <p:cTn id="138" dur="1000"/>
+2332: <p:spTgt spid="34"/>
+2333: <p:strVal val="ppt_y"/>
+2334: <p:fltVal val="0.5"/>
+2335: <p:cond delay="999"/>
+2336: <p:spTgt spid="34"/>
+2337: <p:strVal val="hidden"/>
+2338: <p:cond delay="7250"/>
+2339: <p:tmPct val="10000"/>
+2340: <p:cTn id="141" dur="1000"/>
+2341: <p:spTgt spid="4"/>
+2342: <p:strVal val="ppt_w"/>
+2343: <p:fltVal val="0"/>
+2344: <p:cTn id="142" dur="1000"/>
+2345: <p:spTgt spid="4"/>
+2346: <p:strVal val="ppt_h"/>
+2347: <p:fltVal val="0"/>
+2348: <p:cTn id="143" dur="1000"/>
+2349: <p:spTgt spid="4"/>
+2350: <p:strVal val="ppt_x"/>
+2351: <p:fltVal val="0.5"/>
+2352: <p:cTn id="144" dur="1000"/>
+2353: <p:spTgt spid="4"/>
+2354: <p:strVal val="ppt_y"/>
+2355: <p:fltVal val="0.5"/>
+2356: <p:cond delay="999"/>
+2357: <p:spTgt spid="4"/>
+2358: <p:strVal val="hidden"/>
+2359: <p:cond delay="7250"/>
+2360: <p:tmPct val="10000"/>
+2361: <p:cTn id="147" dur="1000"/>
+2362: <p:spTgt spid="9"/>
+2363: <p:strVal val="ppt_w"/>
+2364: <p:fltVal val="0"/>
+2365: <p:cTn id="148" dur="1000"/>
+2366: <p:spTgt spid="9"/>
+2367: <p:strVal val="ppt_h"/>
+2368: <p:fltVal val="0"/>
+2369: <p:cTn id="149" dur="1000"/>
+2370: <p:spTgt spid="9"/>
+2371: <p:strVal val="ppt_x"/>
+2372: <p:fltVal val="0.5"/>
+2373: <p:cTn id="150" dur="1000"/>
+2374: <p:spTgt spid="9"/>
+2375: <p:strVal val="ppt_y"/>
+2376: <p:fltVal val="0.5"/>
+2377: <p:cond delay="999"/>
+2378: <p:spTgt spid="9"/>
+2379: <p:strVal val="hidden"/>
+2380: <p:cond delay="7250"/>
+2381: <p:tmPct val="10000"/>
+2382: <p:cTn id="153" dur="1000"/>
+2383: <p:spTgt spid="33"/>
+2384: <p:strVal val="ppt_w"/>
+2385: <p:fltVal val="0"/>
+2386: <p:cTn id="154" dur="1000"/>
+2387: <p:spTgt spid="33"/>
+2388: <p:strVal val="ppt_h"/>
+2389: <p:fltVal val="0"/>
+2390: <p:cTn id="155" dur="1000"/>
+2391: <p:spTgt spid="33"/>
+2392: <p:strVal val="ppt_x"/>
+2393: <p:fltVal val="0.5"/>
+2394: <p:cTn id="156" dur="1000"/>
+2395: <p:spTgt spid="33"/>
+2396: <p:strVal val="ppt_y"/>
+2397: <p:fltVal val="0.5"/>
+2398: <p:cond delay="999"/>
+2399: <p:spTgt spid="33"/>
+2400: <p:strVal val="hidden"/>
+2401: <p:cond delay="7250"/>
+2402: <p:tmPct val="10000"/>
+2403: <p:cTn id="159" dur="1000"/>
+2404: <p:spTgt spid="36"/>
+2405: <p:strVal val="ppt_w"/>
+2406: <p:fltVal val="0"/>
+2407: <p:cTn id="160" dur="1000"/>
+2408: <p:spTgt spid="36"/>
+2409: <p:strVal val="ppt_h"/>
+2410: <p:fltVal val="0"/>
+2411: <p:cTn id="161" dur="1000"/>
+2412: <p:spTgt spid="36"/>
+2413: <p:strVal val="ppt_x"/>
+2414: <p:fltVal val="0.5"/>
+2415: <p:cTn id="162" dur="1000"/>
+2416: <p:spTgt spid="36"/>
+2417: <p:strVal val="ppt_y"/>
+2418: <p:fltVal val="0.5"/>
+2419: <p:cond delay="999"/>
+2420: <p:spTgt spid="36"/>
+2421: <p:strVal val="hidden"/>
+2422: <p:cond delay="7250"/>
+2423: <p:tmPct val="10000"/>
+2424: <p:cTn id="165" dur="1000"/>
+2425: <p:spTgt spid="7"/>
+2426: <p:strVal val="ppt_w"/>
+2427: <p:fltVal val="0"/>
+2428: <p:cTn id="166" dur="1000"/>
+2429: <p:spTgt spid="7"/>
+2430: <p:strVal val="ppt_h"/>
+2431: <p:fltVal val="0"/>
+2432: <p:cTn id="167" dur="1000"/>
+2433: <p:spTgt spid="7"/>
+2434: <p:strVal val="ppt_x"/>
+2435: <p:fltVal val="0.5"/>
+2436: <p:cTn id="168" dur="1000"/>
+2437: <p:spTgt spid="7"/>
+2438: <p:strVal val="ppt_y"/>
+2439: <p:fltVal val="0.5"/>
+2440: <p:cond delay="999"/>
+2441: <p:spTgt spid="7"/>
+2442: <p:strVal val="hidden"/>
+2443: <p:cond delay="7250"/>
+2444: <p:tmPct val="10000"/>
+2445: <p:cTn id="171" dur="1000"/>
+2446: <p:spTgt spid="8"/>
+2447: <p:strVal val="ppt_w"/>
+2448: <p:fltVal val="0"/>
+2449: <p:cTn id="172" dur="1000"/>
+2450: <p:spTgt spid="8"/>
+2451: <p:strVal val="ppt_h"/>
+2452: <p:fltVal val="0"/>
+2453: <p:cTn id="173" dur="1000"/>
+2454: <p:spTgt spid="8"/>
+2455: <p:strVal val="ppt_x"/>
+2456: <p:fltVal val="0.5"/>
+2457: <p:cTn id="174" dur="1000"/>
+2458: <p:spTgt spid="8"/>
+2459: <p:strVal val="ppt_y"/>
+2460: <p:fltVal val="0.5"/>
+2461: <p:cond delay="999"/>
+2462: <p:spTgt spid="8"/>
+2463: <p:strVal val="hidden"/>
+2464: <p:cond delay="7250"/>
+2465: <p:tmPct val="10000"/>
+2466: <p:cTn id="177" dur="1000"/>
+2467: <p:spTgt spid="32"/>
+2468: <p:strVal val="ppt_w"/>
+2469: <p:fltVal val="0"/>
+2470: <p:cTn id="178" dur="1000"/>
+2471: <p:spTgt spid="32"/>
+2472: <p:strVal val="ppt_h"/>
+2473: <p:fltVal val="0"/>
+2474: <p:cTn id="179" dur="1000"/>
+2475: <p:spTgt spid="32"/>
+2476: <p:strVal val="ppt_x"/>
+2477: <p:fltVal val="0.5"/>
+2478: <p:cTn id="180" dur="1000"/>
+2479: <p:spTgt spid="32"/>
+2480: <p:strVal val="ppt_y"/>
+2481: <p:fltVal val="0.5"/>
+2482: <p:cond delay="999"/>
+2483: <p:spTgt spid="32"/>
+2484: <p:strVal val="hidden"/>
+2485: <p:cond delay="7250"/>
+2486: <p:tmPct val="10000"/>
+2487: <p:cTn id="183" dur="1000"/>
+2488: <p:spTgt spid="37"/>
+2489: <p:strVal val="ppt_w"/>
+2490: <p:fltVal val="0"/>
+2491: <p:cTn id="184" dur="1000"/>
+2492: <p:spTgt spid="37"/>
+2493: <p:strVal val="ppt_h"/>
+2494: <p:fltVal val="0"/>
+2495: <p:cTn id="185" dur="1000"/>
+2496: <p:spTgt spid="37"/>
+2497: <p:strVal val="ppt_x"/>
+2498: <p:fltVal val="0.5"/>
+2499: <p:cTn id="186" dur="1000"/>
+2500: <p:spTgt spid="37"/>
+2501: <p:strVal val="ppt_y"/>
+2502: <p:fltVal val="0.5"/>
+2503: <p:cond delay="999"/>
+2504: <p:spTgt spid="37"/>
+2505: <p:strVal val="hidden"/>
+2506: <p:cond delay="750"/>
+2507: <p:tmPct val="5000"/>
+2508: <p:cTn id="189" dur="1000"/>
+2509: <p:spTgt spid="47"/>
+2510: <p:strVal val="ppt_w"/>
+2511: <p:fltVal val="0"/>
+2512: <p:cTn id="190" dur="1000"/>
+2513: <p:spTgt spid="47"/>
+2514: <p:strVal val="ppt_h"/>
+2515: <p:fltVal val="0"/>
+2516: <p:cTn id="191" dur="1000"/>
+2517: <p:spTgt spid="47"/>
+2518: <p:strVal val="ppt_x"/>
+2519: <p:fltVal val="0.5"/>
+2520: <p:cTn id="192" dur="1000"/>
+2521: <p:spTgt spid="47"/>
+2522: <p:strVal val="ppt_y"/>
+2523: <p:fltVal val="0.5"/>
+2524: <p:cond delay="999"/>
+2525: <p:spTgt spid="47"/>
+2526: <p:strVal val="hidden"/>
+2527: <p:cond delay="750"/>
+2528: <p:tmPct val="5000"/>
+2529: <p:cTn id="195" dur="1000"/>
+2530: <p:spTgt spid="48"/>
+2531: <p:strVal val="ppt_w"/>
+2532: <p:fltVal val="0"/>
+2533: <p:cTn id="196" dur="1000"/>
+2534: <p:spTgt spid="48"/>
+2535: <p:strVal val="ppt_h"/>
+2536: <p:fltVal val="0"/>
+2537: <p:cTn id="197" dur="1000"/>
+2538: <p:spTgt spid="48"/>
+2539: <p:strVal val="ppt_x"/>
+2540: <p:fltVal val="0.5"/>
+2541: <p:cTn id="198" dur="1000"/>
+2542: <p:spTgt spid="48"/>
+2543: <p:strVal val="ppt_y"/>
+2544: <p:fltVal val="0.5"/>
+2545: <p:cond delay="999"/>
+2546: <p:spTgt spid="48"/>
+2547: <p:strVal val="hidden"/>
+2548: <p:cond delay="750"/>
+2549: <p:tmPct val="5000"/>
+2550: <p:cTn id="201" dur="1000"/>
+2551: <p:spTgt spid="49"/>
+2552: <p:strVal val="ppt_w"/>
+2553: <p:fltVal val="0"/>
+2554: <p:cTn id="202" dur="1000"/>
+2555: <p:spTgt spid="49"/>
+2556: <p:strVal val="ppt_h"/>
+2557: <p:fltVal val="0"/>
+2558: <p:cTn id="203" dur="1000"/>
+2559: <p:spTgt spid="49"/>
+2560: <p:strVal val="ppt_x"/>
+2561: <p:fltVal val="0.5"/>
+2562: <p:cTn id="204" dur="1000"/>
+2563: <p:spTgt spid="49"/>
+2564: <p:strVal val="ppt_y"/>
+2565: <p:fltVal val="0.5"/>
+2566: <p:cond delay="999"/>
+2567: <p:spTgt spid="49"/>
+2568: <p:strVal val="hidden"/>
+2569: <p:cond delay="750"/>
+2570: <p:tmPct val="5000"/>
+2571: <p:cTn id="207" dur="1000"/>
+2572: <p:spTgt spid="53"/>
+2573: <p:strVal val="ppt_w"/>
+2574: <p:fltVal val="0"/>
+2575: <p:cTn id="208" dur="1000"/>
+2576: <p:spTgt spid="53"/>
+2577: <p:strVal val="ppt_h"/>
+2578: <p:fltVal val="0"/>
+2579: <p:cTn id="209" dur="1000"/>
+2580: <p:spTgt spid="53"/>
+2581: <p:strVal val="ppt_x"/>
+2582: <p:fltVal val="0.5"/>
+2583: <p:cTn id="210" dur="1000"/>
+2584: <p:spTgt spid="53"/>
+2585: <p:strVal val="ppt_y"/>
+2586: <p:fltVal val="0.5"/>
+2587: <p:cond delay="999"/>
+2588: <p:spTgt spid="53"/>
+2589: <p:strVal val="hidden"/>
+2590: <p:cond delay="750"/>
+2591: <p:tmPct val="5000"/>
+2592: <p:cTn id="213" dur="1000"/>
+2593: <p:spTgt spid="56"/>
+2594: <p:strVal val="ppt_w"/>
+2595: <p:fltVal val="0"/>
+2596: <p:cTn id="214" dur="1000"/>
+2597: <p:spTgt spid="56"/>
+2598: <p:strVal val="ppt_h"/>
+2599: <p:fltVal val="0"/>
+2600: <p:cTn id="215" dur="1000"/>
+2601: <p:spTgt spid="56"/>
+2602: <p:strVal val="ppt_x"/>
+2603: <p:fltVal val="0.5"/>
+2604: <p:cTn id="216" dur="1000"/>
+2605: <p:spTgt spid="56"/>
+2606: <p:strVal val="ppt_y"/>
+2607: <p:fltVal val="0.5"/>
+2608: <p:cond delay="999"/>
+2609: <p:spTgt spid="56"/>
+2610: <p:strVal val="hidden"/>
+2611: <p:sldTgt/>
+2612: <p:sldTgt/>
+2613: <p:bldP spid="32" grpId="0"/>
+2614: <p:bldP spid="32" grpId="1"/>
+2615: <p:bldP spid="33" grpId="0"/>
+2616: <p:bldP spid="33" grpId="1"/>
+2617: <p:bldP spid="34" grpId="0"/>
+2618: <p:bldP spid="34" grpId="1"/>
+2619: <p:bldP spid="35" grpId="0"/>
+2620: <p:bldP spid="35" grpId="1"/>
+2621: <p:bldP spid="36" grpId="0"/>
+2622: <p:bldP spid="36" grpId="1"/>
+2623: <p:bldP spid="37" grpId="0"/>
+2624: <p:bldP spid="37" grpId="1"/>
+2625: <p:bldP spid="47" grpId="0" animBg="1"/>
+2626: <p:bldP spid="47" grpId="1" animBg="1"/>
+2627: <p:bldP spid="48" grpId="0" animBg="1"/>
+2628: <p:bldP spid="48" grpId="1" animBg="1"/>
+2629: <p:bldP spid="49" grpId="0" animBg="1"/>
+2630: <p:bldP spid="49" grpId="1" animBg="1"/>
+2631: <p:bldP spid="53" grpId="0" animBg="1"/>
+2632: <p:bldP spid="53" grpId="1" animBg="1"/>
